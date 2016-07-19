@@ -19,7 +19,7 @@
 .navbar
   // Hamburger icon
   .navbar-toggle
-    float: left
+    float: right
     margin: 30px 20px
     width: 40px
     height: 40px
@@ -35,19 +35,18 @@
   // Navigation
   .navbar-nav
     font-weight: $headings-font-weight
-    font-size: $font-size-large
+    text-transform: uppercase
     & > li
       padding-bottom: 0
       & > a
         color: $gray-base
 
-      +breakpoint(tablet)
-        border-left: 1px $gray-lighter solid
-        &:last-of-type
-          border-right: 1px $gray-lighter solid
-        & > a
-          padding: 32px 40px
-
+    +breakpoint(tablet)
+      margin: 20px 0 20px
+      & > li > a
+        padding: 5px 20px
+    +breakpoint(lg-desktop)
+      margin: 150px 0 0
 
 // States
 // --------------------------------------------------
@@ -58,8 +57,13 @@
     & > li > a:focus
         color: $gray-base
         font-weight: $font-weight-medium
-        border-bottom: 5px $brand-primary solid
-        margin-bottom: -5px
 
     & > li > a
       background-color: transparent !important
+
+// Dependencies
+// --------------------------------------------------
+.navbar .social-links
+  margin-top: 30px
+  +breakpoint(lg-desktop)
+    margin-top: 150px
