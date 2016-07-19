@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include jumbotron.html %}
+
+    <div id="content">
+
+      {% include header.html %}
+
+      {{ content }}
+
+    </div>
+
+    {% include footer.html %}
+
+    {% include scripts.html %}
+    <script src="{{ "js/components/parallax/parallax.js" | prepend: site.baseurl }}"></script>
+
+  </body>
+
+</html>
