@@ -30,20 +30,45 @@ layout: frontpage
     <h2><span class="ornament">Follower cities</span></h2>
     <div class="listing listing--row-three listing--circle-image">
       <div class="listing__item">
-        <div class="listing__item-column-second">
+        <a href="#" class="listing__item-container">
           <img src="http://www.placehold.it/520x520" />
-        </div>
-        <div class="listing__item-column-main">
-          <a href="#">Venice</a>
-        </div>
+          <div class="listing__item-text">Santiago de Compostela</div>
+        </a>
+      </div>
+      <div class="listing__item">
+        <a href="#" class="listing__item-container">
+          <img src="http://www.placehold.it/520x520" />
+          <div class="listing__item-text">Venice</div>
+        </a>
+      </div>
+      <div class="listing__item">
+        <a href="#" class="listing__item-container">
+          <img src="http://www.placehold.it/520x520" />
+          <div class="listing__item-text">Sofia</div>
+        </a>
       </div>
     </div>
 
     <h2><span class="ornament">Observer cities</span></h2>
-    <div class="listing">
-      <div class="listing__item"></div>
-      <div class="listing__item"></div>
+    <div class="row">
+      <div class="col-sm-offset-2 col-sm-8">
+        <div class="listing listing--row-two listing--circle-image">
+          <div class="listing__item">
+            <a href="#" class="listing__item-container">
+              <img src="http://www.placehold.it/520x520" />
+              <div class="listing__item-text">Kiev</div>
+            </a>
+          </div>
+          <div class="listing__item">
+            <a href="#" class="listing__item-container">
+              <img src="http://www.placehold.it/520x520" />
+              <div class="listing__item-text">Yokohama</div>
+            </a>
+          </div>
+        </div>
+      </div>
     </div>
+  </div>
 
   </div>
 </div>
@@ -115,7 +140,8 @@ layout: frontpage
           <h3 class="block__title">Upcoming events</h3>
           <div class="block__content">
             <div class="listing listing--condensed">
-              <!-- We can use post with catoegories as news, events, solutions -->
+              <!-- We can use post with categories as news, events, solutions -->
+              <!-- http://stackoverflow.com/a/20872918 -->
               {% for post in site.posts %}
                 <div class="listing__item">
                   <div class="listing__item-text">

@@ -10,16 +10,15 @@
 // --------------------------------------------------
 .ornament
   position: relative
-  &:after
+  display: inline-block
+  &:before
     content: ''
     display: block
-    position: absolute
-    top: 15px
-    right: -5px
-    bottom: -5px
-    left: -5px
+    margin: 0 -15px -40px -5px
+    width: 107%
+    height: 25px
     background: $brand-secondary
-    z-index: -1
+    z-index: 1
 
 // Modifiers
 // --------------------------------------------------

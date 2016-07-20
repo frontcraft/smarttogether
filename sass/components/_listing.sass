@@ -291,6 +291,7 @@ $listing-media-height-desktop: 145px
 .listing--row-two
   .listing__item
     border: none
+    padding-top: 30px
     padding-bottom: 0
   .listing__item-column-main
     border-bottom: 1px $gray-lighter solid
@@ -394,6 +395,47 @@ $listing-media-height-desktop: 145px
 // Component
 // --------------------------------------------------
 .listing--circle-image
-  .listing__item-column-second
+  .listing__item
+    position: relative
+  .listing__item-container
+    position: relative
+    width: 100%
+    float: none
+    margin: 0
+    max-width: none
+    display: block
+    overflow: hidden
+    +border-radius(50%)
+    &:after
+      display: none
+      content: ''
+      position: absolute
+      top: 15px
+      right: 15px
+      bottom: 15px
+      left: 15px
+      border: none
+      background-color: $brand-primary
+      +opacity(0.5)
+      +border-radius(50%)
     img
       width: 100%
+  .listing__item-text
+    display: none
+    position: absolute
+    top: 50%
+    transform: translate(0, -50%)
+    overflow: visible
+    text-align: center
+    width: 100%
+    font-size: $font-size-h2
+    text-transform: uppercase
+    color: #fff
+    z-index: 1
+
+// States
+// --------------------------------------------------
+.listing__item:hover
+  .listing__item-text,
+  .listing__item-container:after
+    display: block
