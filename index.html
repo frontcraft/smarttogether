@@ -28,12 +28,15 @@ layout: frontpage
   <div class="container">
 
     <h2><span class="ornament">Follower cities</span></h2>
-    <div class="listing listing--row-three">
+    <div class="listing listing--row-three listing--circle-image">
       <div class="listing__item">
-        <img src="http://www.placehold.it/520x520" class="img-responsive img-circle" />
+        <div class="listing__item-column-second">
+          <img src="http://www.placehold.it/520x520" />
+        </div>
+        <div class="listing__item-column-main">
+          <a href="#">Venice</a>
+        </div>
       </div>
-      <div class="listing__item"></div>
-      <div class="listing__item"></div>
     </div>
 
     <h2><span class="ornament">Observer cities</span></h2>
@@ -45,25 +48,88 @@ layout: frontpage
   </div>
 </div>
 
-<div class="section--grey">
+<div class="section--gray">
+  <div class="container">
 
-  Carousel placeholder
+    Carousel placeholder
 
-  <div class="row">
-    <div class="col-sm-9"></div>
-    <div class="col-sm-3">
-      <div class="block">
-        <h3 class="block__title">Latest Tweets<i class="icon icon--social-twitter"></i></h3>
-        <div class="block__content">
-          Twitter feed placeholder
+  </div>
+</div>
+
+<div class="section--gray">
+  <div class="container">
+
+    <div class="row">
+      <div class="col-sm-9">
+        <div class="row">
+          <div class="col-sm-6">
+            <div class="listing listing--column-second-above listing--collumn-main-white">
+              <div class="listing__item">
+                <div class="listing__item-column-second">
+                  <img src="http://placehold.it/270x200" />
+                </div>
+                <div class="listing__item-column-main">
+                  <div class="listing__item-text">Featured article name</div>
+                  <a href="#" class="text-primary">Read more <i class="icon icon--circle-plus"></i></a>
+                </div>
+              </div>
+            </div>
+            <div class="listing listing--column-second-above">
+              <div class="listing__item">
+                <div class="listing__item-column-second">
+                  <img src="http://placehold.it/270x200" />
+                </div>
+                <div class="listing__item-column-main">
+                  <div class="listing__item-text">Featured article name</div>
+                  <a href="#" class="text-primary">Read more <i class="icon icon--circle-plus"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6">
+            <div class="listing listing--column-second-above listing--collumn-main-white">
+              <div class="listing__item">
+                <div class="listing__item-column-second">
+                  <div class="ribbon__container">
+                  <img src="http://placehold.it/270x350" />
+                    <div class="ribbon">Solutions</div>
+                  </div>
+                </div>
+                <div class="listing__item-column-main">
+                  <div class="listing__item-text">Featured article name</div>
+                  <a href="#" class="text-primary">Read more <i class="icon icon--circle-plus"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
-      <div class="block">
-        <h3 class="block__title">Upcoming events</h3>
-        <div class="block__content">
-          News and calendar placeholder
+      <div class="col-sm-3">
+        <div class="block">
+          <h3 class="block__title">Latest Tweets<i class="icon icon--social-twitter"></i></h3>
+          <div class="block__content">
+            <strong>Twitter feed placeholder</strong>
+          </div>
+        </div>
+        <div class="block">
+          <h3 class="block__title">Upcoming events</h3>
+          <div class="block__content">
+            <div class="listing listing--condensed">
+              <!-- We can use post with catoegories as news, events, solutions -->
+              {% for post in site.posts %}
+                <div class="listing__item">
+                  <div class="listing__item-text">
+                    <span class="listing__item-meta">{{ post.date }}</span>
+                    <a href="{{ post.url }}">{{ post.content | strip_html | truncatewords: 20 }}</a>
+                  </div>
+                </div>
+              {% endfor %}
+            </div>
+            <strong>Calendar placeholder</strong>
+          </div>
         </div>
       </div>
     </div>
+
   </div>
 </div>

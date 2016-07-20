@@ -14,10 +14,12 @@
 // .listing--zebra                 - Listing with different background color on even items
 // .listing--no-separators         - Removes separator between every listing item
 // .listing--separators-dashed     - Adds dashed border separator between every listing item
+// .listing--collumn-main-white    - Main column with white background
 // .listing--column-second-above   - Listing where second column is always above the main listing item content
 // .listing--column-sec-above-md   - Listing where second column is above the main listing item content on tablet and desktop devices
 // .listing--row-two               - Listing with row two grid
 // .listing--row-three             - Listing with row three grid
+//
 //
 // Styleguide 4.10.1
 
@@ -32,6 +34,7 @@ $listing-media-height-desktop: 145px
   margin-bottom: 20px
 
 
+
 // Elements
 // --------------------------------------------------
 .listing__item
@@ -39,6 +42,8 @@ $listing-media-height-desktop: 145px
   padding-bottom: 30px
   padding-top: 30px
   overflow: hidden
+  &:first-child
+    padding-top: 0
   &:last-child
     padding-bottom: 0
     border-bottom: none
@@ -46,7 +51,6 @@ $listing-media-height-desktop: 145px
   p
     margin: 0
     text-align: justify
-
 
 .listing__item-column-second
   width: 100%
@@ -56,10 +60,16 @@ $listing-media-height-desktop: 145px
 
 .listing__item-text
   overflow: hidden
+  margin-bottom: 6px
+  a
+    color: $gray-base
 
 
 .listing__item-title
+  text-align: left
+  text-transform: none
   margin-top: 0
+  margin-bottom: 12px
   a
     color: $gray-base
 
@@ -129,11 +139,13 @@ $listing-media-height-desktop: 145px
         padding-bottom: 0
 
 .listing--column-second-above
+  .listing__item-column-main
+    padding-top: 20px
   .listing__item-column-second
     max-width: none
     float: none
     margin-right: 0
-    margin-bottom: 20px
+    margin-bottom: 0
     width: 100%
     img
       width: 100%
@@ -158,6 +170,10 @@ $listing-media-height-desktop: 145px
   .listing__item
     border-bottom: 1px $gray-light dashed
 
+.listing--collumn-main-white
+  .listing__item-column-main
+    background: #fff
+    padding: 15px 20px
 
 // Listing middle align
 //
@@ -367,3 +383,17 @@ $listing-media-height-desktop: 145px
       font-weight: $font-weight
     .listing__item-meta
       color: $gray-lighter
+
+
+// Listing circle image
+//
+// Markup: html/listing-circle-image.html
+//
+// Styleguide 4.10.7
+
+// Component
+// --------------------------------------------------
+.listing--circle-image
+  .listing__item-column-second
+    img
+      width: 100%
