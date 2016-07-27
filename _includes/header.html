@@ -11,10 +11,26 @@
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="social-links list-inline pull-right hidden-xs">
-        <li class="social-links__item"><i class="icon icon--social-facebook"></i></li>
-        <li class="social-links__item"><i class="icon icon--social-twitter"></i></li>
-        <li class="social-links__item"><i class="icon icon--social-linkedin"></i></li>
-        <li class="social-links__item"><i class="icon icon--social-youtube"></i></li>
+        <li class="social-links__item">
+          <a href="#">
+            <i class="icon icon--social-facebook"></i>
+          </a>
+        </li>
+        <li class="social-links__item">
+          <a href="#">
+            <i class="icon icon--social-twitter"></i>
+          </a>
+        </li>
+        <li class="social-links__item">
+          <a href="#">
+            <i class="icon icon--social-linkedin"></i>
+          </a>
+        </li>
+        <li class="social-links__item">
+          <a href="#">
+            <i class="icon icon--social-youtube"></i>
+          </a>
+        </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li class="dropdown">
@@ -31,9 +47,29 @@
             Cities
           </a>
           <ul class="dropdown-menu">
-            <li><a href="#">Lighthouse cities</a></li>
-            <li><a href="#">Follower cities</a></li>
-            <li><a href="#">Observer cities</a></li>
+            <li class="dropdown dropdown-submenu">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Lighthouse cities</a>
+              <ul class="dropdown-menu">
+                <li><a href="#">Vienna</a></li>
+                <li><a href="#">Munich</a></li>
+                <li><a href="#">Lyon</a></li>
+              </ul>
+            </li>
+            <li class="dropdown dropdown-submenu">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Follower cities</a>
+              <ul class="dropdown-menu">
+                <li><a href="#">Santiago de Compostela</a></li>
+                <li><a href="#">Venice</a></li>
+                <li><a href="#">Sofia</a></li>
+              </ul>
+            </li>
+            <li class="dropdown dropdown-submenu">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Observer cities</a>
+              <ul class="dropdown-menu">
+                <li><a href="#">Kiev</a></li>
+                <li><a href="#">Yokohama</a></li>
+              </ul>
+            </li>
           </ul>
         </li>
         <li class="dropdown">
@@ -59,14 +95,21 @@
         </li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-            What’s new
+            What's new
           </a>
           <ul class="dropdown-menu">
             <li><a href="#">News</a></li>
             <li><a href="#">Events</a></li>
           </ul>
         </li>
-        <li><a href="#">Contact</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Contact
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Team</a></li>
+          </ul>
+        </li>
       </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container-fluid -->

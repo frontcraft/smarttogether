@@ -15,10 +15,11 @@
 // Component
 // --------------------------------------------------
 .btn
-  font-size: $font-size-small
+  color: #fff
+  font-size: 16px
   text-transform: uppercase
-  border-radius: 3px
-  border: 1px solid transparent
+  border-radius: 0
+  border: 2px solid transparent
   text-align: center
   margin-top: 3px
   margin-bottom: 3px
@@ -26,8 +27,19 @@
 // Modifiers
 // --------------------------------------------------
 .btn-default
-  border-color: $gray-light
+  background-color: transparent
+  border-color: #fff
+
+  &:hover,
+  &:focus
+    background-color: #fff
+    border-color: #fff
 
 .btn-primary
   border-color: $btn-primary-border
   border-bottom-color: darken($btn-primary-border, 5%)
+
+.btn-lg
+  +breakpoint(tablet)
+    font-size: 30px
+    padding: 10px 30px

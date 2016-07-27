@@ -30,10 +30,26 @@
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="social-links list-inline pull-right hidden-xs">
-        <li class="social-links__item"><i class="icon icon--social-facebook"></i></li>
-        <li class="social-links__item"><i class="icon icon--social-twitter"></i></li>
-        <li class="social-links__item"><i class="icon icon--social-linkedin"></i></li>
-        <li class="social-links__item"><i class="icon icon--social-youtube"></i></li>
+        <li class="social-links__item">
+          <a href="#">
+            <i class="icon icon--social-facebook"></i>
+          </a>
+        </li>
+        <li class="social-links__item">
+          <a href="#">
+            <i class="icon icon--social-twitter"></i>
+          </a>
+        </li>
+        <li class="social-links__item">
+          <a href="#">
+            <i class="icon icon--social-linkedin"></i>
+          </a>
+        </li>
+        <li class="social-links__item">
+          <a href="#">
+            <i class="icon icon--social-youtube"></i>
+          </a>
+        </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li class="dropdown">
@@ -50,9 +66,29 @@
             Cities
           </a>
           <ul class="dropdown-menu">
-            <li><a href="#">Lighthouse cities</a></li>
-            <li><a href="#">Follower cities</a></li>
-            <li><a href="#">Observer cities</a></li>
+            <li class="dropdown dropdown-submenu">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Lighthouse cities</a>
+              <ul class="dropdown-menu">
+                <li><a href="#">Vienna</a></li>
+                <li><a href="#">Munich</a></li>
+                <li><a href="#">Lyon</a></li>
+              </ul>
+            </li>
+            <li class="dropdown dropdown-submenu">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Follower cities</a>
+              <ul class="dropdown-menu">
+                <li><a href="#">Santiago de Compostela</a></li>
+                <li><a href="#">Venice</a></li>
+                <li><a href="#">Sofia</a></li>
+              </ul>
+            </li>
+            <li class="dropdown dropdown-submenu">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Observer cities</a>
+              <ul class="dropdown-menu">
+                <li><a href="#">Kiev</a></li>
+                <li><a href="#">Yokohama</a></li>
+              </ul>
+            </li>
           </ul>
         </li>
         <li class="dropdown">
@@ -78,14 +114,21 @@
         </li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-            What’s new
+            What's new
           </a>
           <ul class="dropdown-menu">
             <li><a href="#">News</a></li>
             <li><a href="#">Events</a></li>
           </ul>
         </li>
-        <li><a href="#">Contact</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Contact
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Team</a></li>
+          </ul>
+        </li>
       </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container-fluid -->
@@ -279,23 +322,39 @@
           <div class="clearfix"></div>
 
           <div class="col-md-6">
-            <p>Do you have any thoughts of your own on this matter? Or do you, is that your thing, you come into a bar, read some obscure passage and then pretend - you pawn it off as your own, as your own idea just to impress some girls, embarrass my friend?</p>
+            <p>The information on this site is subject to a Disclaimer.<br />Copyright Notice and Protection of personal data.</p>
           </div>
           <div class="col-md-6">
             <ul class="social-links list-inline pull-lg-right">
-              <li class="social-links__item"><i class="icon icon--social-facebook"></i></li>
-              <li class="social-links__item"><i class="icon icon--social-twitter"></i></li>
-              <li class="social-links__item"><i class="icon icon--social-linkedin"></i></li>
-              <li class="social-links__item"><i class="icon icon--social-youtube"></i></li>
+              <li class="social-links__item">
+                <a href="#">
+                  <i class="icon icon--social-facebook"></i>
+                </a>
+              </li>
+              <li class="social-links__item">
+                <a href="#">
+                  <i class="icon icon--social-twitter"></i>
+                </a>
+              </li>
+              <li class="social-links__item">
+                <a href="#">
+                  <i class="icon icon--social-linkedin"></i>
+                </a>
+              </li>
+              <li class="social-links__item">
+                <a href="#">
+                  <i class="icon icon--social-youtube"></i>
+                </a>
+              </li>
             </ul>
             <br/>
           </div>
         </div>
       </div>
-      <div class="col-xs-push-4 col-xs-4 col-sm-3 col-sm-push-0 col-sm-pull-8 col-lg-2 col-lg-pull-9 text-justify">
+      <div class="col-xs-push-4 col-xs-4 col-sm-3 col-sm-push-0 col-sm-pull-8 col-lg-2 col-lg-pull-9">
         <img src="images/svg/eu-logo.svg" class="img-responsive" />
         <br />
-        <p>It's in the fridge, daddy-o! Are you hip to the jive? Can you dig what I'm layin' down? I knew that you could. Slide me some skin, soul brother!</p>
+        <p>This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No. 689527</p>
       </div>
     </div>
   </div>
@@ -303,6 +362,7 @@
 
     
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/scripts.js"></script>
 <script src="bootstrap-sass/javascripts/bootstrap.min.js"></script>
 <script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
 

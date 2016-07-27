@@ -6,10 +6,10 @@
 //
 // Styleguide 4.11
 
-$logo-width-mobile: 172px
-$logo-width-desktop: 220px
-$logo-height-mobile: 118px
-$logo-height-desktop: 160px
+$logo-width-mobile: 100px
+$logo-width-desktop: 172px
+$logo-height-mobile: 79px
+$logo-height-desktop: 136px
 
 // Component
 // --------------------------------------------------
@@ -17,12 +17,14 @@ $logo-height-desktop: 160px
   display: block
   width: $logo-width-mobile
   height: $logo-height-mobile
-  // background: url("../images/logo.png") no-repeat
-  background: url("http://placehold.it/230x160") no-repeat
+  background: url("../images/logo.png") no-repeat
   background-size: 100%
+  margin: 10px 0 10px 15px
+
   +breakpoint(tablet)
-    margin: 10px 0 0
+    margin-left: 0
+
   +breakpoint(desktop)
-    margin: 30px 0
+    margin: 20px 0
     width: $logo-width-desktop
     height: $logo-height-desktop

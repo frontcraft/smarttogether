@@ -34,8 +34,18 @@
   display: block
   margin: -30px auto 0
 
+.jumbotron .container
+  position: relative
+  top: 50%
+  +translate(0, -50%)
+
+.jumbotron p
+  font-family: $font-family-serif
+  font-style: italic
+
 // States
 // --------------------------------------------------
-.jumbotron__scroller:hover
+.jumbotron__scroller:hover,
+.jumbotron__scroller:focus
   text-decoration: none
   color: $almost-white

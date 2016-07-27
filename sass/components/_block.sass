@@ -20,14 +20,14 @@
 // --------------------------------------------------
 .block__title
   position: relative
-  border-bottom: 1px solid $brand-primary
+  color: $gray-light
+  border-bottom: 2px solid $blue-light
   padding-bottom: 10px
   margin: 0 0 10px
   text-align: left
 
 .block__content
   +clearfix()
-
 
 
 // Modifiers
@@ -42,3 +42,11 @@
       padding-right: 40px
     .block__content
       display: table-cell
+
+
+// Elements
+// --------------------------------------------------
+.block__title .icon
+  font-size: 50px
+  margin: -21px 0
+  vertical-align: top
