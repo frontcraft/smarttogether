@@ -1,12 +1,30 @@
 .icons-inline
-  display: table
-  width: 100%
+  margin-bottom: 60px
+
+  +breakpoint(tablet)
+    display: table
+    width: 100%
+
+.icons-inline__header
+  color: $gray-light
+  margin: 15px 0 30px
 
 .icons-inline__icon
-  display: table-cell
-  padding: 0 15px
+  margin-bottom: 30px
+
+  +breakpoint(tablet)
+    display: table-cell
+    padding: 0 15px
+    margin-bottom: 0
 
   img
     display: block
     max-width: 80px
     margin: 0 auto
+
+.icons-inline__label
+  color: $gray-light
+  margin-top: 15px
+
+  +breakpoint(tablet)
+    margin-top: 30px
