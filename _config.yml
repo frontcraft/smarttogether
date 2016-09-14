@@ -6,8 +6,8 @@ description: > # this means to ignore newlines until "baseurl:"
   and ensure an in-depth knowledge transfer about setting up of smart
   city business models and user-centric innovation in order to
   contribute to positive societal dynamics.
-baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://www.smarter-together.eu" # the base hostname & protocol for your site
+baseurl: "/smarttogether/" # the subpath of your site, e.g. /blog/
+url: "http://bandanaman.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
