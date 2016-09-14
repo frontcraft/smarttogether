@@ -49,36 +49,49 @@ prose:
 
   metadata:
     cities:
-      - name: title
-        field:
-          element: "text"
-          label: "City name"
-          value: ""
       - name: imageurl
         field:
           element: "text"
           label: "Header image URL"
+          help: "Addres of the image to be placed in page header section"
           value: "/images/header-default.png"
+      - name: layout
+        field:
+          element: "select"
+          label: "Used page layout"
+          value: "subpage"
+          options:
+            - name: 'Subpage'
+              value: 'subpage'
+
     results:
-      - name: title
-        field:
-          element: "text"
-          label: "Page title"
-          value: ""
       - name: imageurl
         field:
           element: "text"
           label: "Header image URL"
+          help: "Addres of the image to be placed in page header section"
           value: "/images/header-default.png"
+      - name: layout
+        field:
+          element: "select"
+          label: "Used page layout"
+          value: "subpage"
+          options:
+            - name: 'Subpage'
+              value: 'subpage'
 
     solutions:
-      - name: title
-        field:
-          element: "text"
-          label: "Page title"
-          value: ""
       - name: imageurl
         field:
           element: "text"
           label: "Header image URL"
+          help: "Addres of the image to be placed in page header section"
           value: "/images/header-default.png"
+      - name: layout
+        field:
+          element: "select"
+          label: "Used page layout"
+          value: "subpage"
+          options:
+            - name: 'Subpage'
+              value: 'subpage'
