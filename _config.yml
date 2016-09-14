@@ -30,6 +30,8 @@ prose:
     # Jekyll files
     - /_layouts
     - /_includes
+    - /_plugins
+    - /_posts
     - /_site
     - _config.yml
     # Other files
@@ -39,6 +41,7 @@ prose:
     - /js
     - .gitignore
     - feed.xml
+    - Gemfile
     - gulpfile.js
     - LICENSE
     - package.json
