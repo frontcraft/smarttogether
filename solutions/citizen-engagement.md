@@ -10,8 +10,6 @@ The main targets are to disseminate information, organize outreach activities an
 
 ### Measures will be implemented on three different levels:
 
-Test
-
 *   Integration of existing activities (management of stakeholders and interventions) in the lighthouse areas
 *   Development of platforms for outreach, information and communication with the public to address a variety of local stakeholders and attract high public attention
 *   Concept and delivery of series of collaborative processes with relevant stakeholders: businesses, providers of solutions, knowledge holders, citizens, other interested parties
