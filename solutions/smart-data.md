@@ -12,4 +12,4 @@ The core concept of open smart data platforms will be fully implemented in Lyon 
 
 The data platforms deployed in SMARTER TOGETHER are controlled by local public bodies and there will be no commercial use of personal data, the collected data will be used only for the purposes of the project.
 
-### Prose.io testing
+### Prose.io
