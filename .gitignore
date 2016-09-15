@@ -1,4 +1,5 @@
 # Ignore the node modules folder (created by 'npm install').
+_site
 node_modules
 npm-debug.log
 .DS_Store
