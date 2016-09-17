@@ -4,12 +4,11 @@ imageurl: /images/header-default.png
 layout: subpage
 published: true
 ---
-Citizen and stakeholder engagement is a core part of the SMARTER TOGETHER project with regards to collaborative adaption of foreseen measures during the implementation phase. Mobile as well as residential hubs for citizen engagement placed within the three cities will bundle the communication.
+Holistic approach is the key. Most innovations fail in the diffusion or adoption phase because the citizens or the cities' representatives have not been properly involved, which results in their needs not being addressed. Therefore, we believe it is mandatory to go beyond the technology-led approach when dealing with smart city solutions. SMARTER TOGETHER is driven by a partnership approach with the citizens.
 
-The main targets are to disseminate information, organize outreach activities and gather opinions for the optimization of technical measures, the reduction of CO2 emissions and securing quality of life in the targeted areas.
+The main goals are to provide and disseminate information regarding the project to the interested parties, on one hand, and to gather opinions and feedback with respect to the optimization of technical measures, on the other. The following activities are planned to engage citizens:
 
-### Measures will be implemented on three different levels:
+*   **Development of Living Labs** within each demonstration area, which will act as platforms for outreach, information and communication with the public to address a variety of local stakeholders and attract high public attention
 
-*   Integration of existing activities (management of stakeholders and interventions) in the lighthouse areas
-*   Development of platforms for outreach, information and communication with the public to address a variety of local stakeholders and attract high public attention
-*   Concept and delivery of series of collaborative processes with relevant stakeholders: businesses, providers of solutions, knowledge holders, citizens, other interested parties
+*   **Conception and delivery of series of collaborative processes** with relevant stakeholders, such as businesses, providers of solutions, knowledge holders, citizens and other interested parties. These collaborative processes will impact the foreseen demonstration activities and trigger their adaptation to answer the end users’ needs.
+
