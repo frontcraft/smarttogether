@@ -2,9 +2,14 @@
 title: District heating and renewables
 imageurl: /images/header-default.png
 layout: subpage
+published: true
 ---
-The three lighthouse cities have similar approach to maximising the use of local energy resources including renewable heat and power. They all operate a district heating network to deliver renewable energy sources (RES) heat to the buildings of the district.
+Cites consume 80% of global energy supply and release more than 70% of global CO2 emissions. As the urban population is expected to increase from 50% to 75% of the world’s population within the next decades, cities are facing huge challenges to meet the growing demand for reliable, clean and secure energy. Conversely, they represent a great opportunity for tackling global warming.
 
-The share of RES in the heat supply will come from four different primary sources - wood in Lyon, geothermal energy in Munich, solar-thermal energy and waste heat in Vienna. All three of them control the distribution of heat in the district with local operators: SPL Lyon Confluence in Lyon, Stadtwerke München (SWM) in Munich, Wien Energie in Vienna.
+Our goal is to drastically reduce greenhouse gas emission related to energy supply in cities, improving the efficiency of existing energy networks and increasing the use of local energy sources.
 
-The solutions of this cluster also include photovoltaic (PV) systems that will be deployed in Vienna and in Lyon with a focus on smart PV inverters with power control features and storage in order to lower the impacts of systems onto the local distribution grid.
+The three lighthouse cities have a similar approach to maximize the use of local energy resources, including renewable heat and power. The demonstration activities include:
+
+*   **New generation district heating systems with connected heat substations**, partially powered with renewable heat produced by photovoltaic systems, geothermal energy, wood-fired cogeneration power plant or recovered industrial waste heat
+*   **Smart photovoltaic systems** equipped with power regulation features and micro-storage capacity lowering the impacts onto the local distribution grid
+*   **Battery storage capacity**connected to a virtual power plant to maximize the efficiency of renewable power generation in the demonstration district  
