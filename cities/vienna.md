@@ -52,3 +52,6 @@ Climate-friendly energy systems will be developed and implemented with the aim o
 *   100,000 kWh per year produced by photovoltaic installations (transformation of solar energy into electricity)
 *   district heat connection to 250 flats
 *   accompanying monitoring and optimization of energy systems
+
+
+[SMARTER TOGETHER website of Vienna](http://smartertogether.at/). 
