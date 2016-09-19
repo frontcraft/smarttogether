@@ -6,8 +6,8 @@ description: > # this means to ignore newlines until "baseurl:"
   and ensure an in-depth knowledge transfer about setting up of smart
   city business models and user-centric innovation in order to
   contribute to positive societal dynamics.
-baseurl: "/smarttogether/" # the subpath of your site, e.g. /blog/
-url: "http://bandanaman.github.io" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://smartertogether.eu" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -25,6 +25,7 @@ exclude: [node_modules, sass, styleguide, templates, Gemfile, Gruntfile.js, gulp
 
 # Prose.io configuration
 prose:
+  siteurl: 'http://smartertogether.eu'
   media: 'images'
   ignore:
     # Jekyll files

@@ -1,6 +1,6 @@
 ---
 title: Munich
-imageurl: /images/cities/wide-munich.jpg
+imageurl: images/cities/wide-munich.jpg
 layout: subpage
 ---
 The Munich lighthouse demonstration area is located at the Western edge of the city and includes both the large urban redevelopment area Neuaubing-Westkreuz (350ha / 30.000 residents) and the flagship new development area Freiham, set to become a model of low carbon development for up to 20.000 new residents and 7.500 new jobs.

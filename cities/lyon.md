@@ -1,6 +1,6 @@
 ---
 title: Lyon
-imageurl: /images/cities/wide-lyon.jpg
+imageurl: images/cities/wide-lyon.jpg
 layout: subpage
 published: true
 ---

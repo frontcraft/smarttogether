@@ -1,6 +1,6 @@
 ---
 title: Legal notice
-imageurl: /images/header-default.png
+imageurl: images/header-default.png
 layout: subpage
 ---
 The information on this site is subject to a disclaimer, copyright notice and rules related to personal data protection.

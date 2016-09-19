@@ -1,6 +1,6 @@
 ---
 title: Vienna
-imageurl: /images/cities/wide-vienna.jpg
+imageurl: images/cities/wide-vienna.jpg
 layout: subpage
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: Team
-imageurl: /images/header-default.png
+imageurl: images/header-default.png
 layout: subpage
 ---
 ### Project coordinator

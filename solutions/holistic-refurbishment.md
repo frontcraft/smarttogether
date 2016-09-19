@@ -1,6 +1,6 @@
 ---
 title: Holistic refurbishment
-imageurl: /images/header-default.png
+imageurl: images/header-default.png
 layout: subpage
 published: true
 ---
