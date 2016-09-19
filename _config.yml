@@ -41,6 +41,7 @@ prose:
     - /sass
     - /js
     - .gitignore
+    - CNAME
     - feed.xml
     - Gemfile
     - gulpfile.js
