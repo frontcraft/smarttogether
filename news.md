@@ -4,9 +4,7 @@ imageurl: images/header-default.png
 layout: subpage
 published: true
 ---
-<div class="news__image">
-![news.jpg]({{site.baseurl}}/images/news.jpg)
-</div>
+![news.jpg](/images/news.jpg)
 
 ### SMARTER TOGETHER, SCIS and EERA with a joint stand at the Smart City Expo World Congress in Barcelona
 
