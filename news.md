@@ -16,104 +16,102 @@ See the agenda below and join us at stand space: F625, F627 & F629!
 
 ### **15 November**
 
-**11:00 – 11:30** 
-
-Why do we need a Smart Cities Information System? 
-Jorge Núñez |Centre for European Policy Studies (CEPS) | Smart Cities Information System (SCIS)
+**11:00 – 11:30**<br />
+Why do we need a Smart Cities Information System?<br />Jorge Núñez |Centre for European Policy Studies (CEPS) | Smart Cities Information System (SCIS)
 
 **12:00 – 12:30** 
-We are Smarter Together 
+We are Smarter Together <br />
 Veronika Cerna | GOPAcom. | SMARTER TOGETHER 
 
 ---
 
-**14:00 – 14:30**
-Vienna: shaping the smart future for citizens
+**14:00 – 14:30**<br />
+Vienna: shaping the smart future for citizens <br />
 Bojan Schnabl | City of Vienna | SMARTER TOGETHER
 
-**14:30 – 15:00**
-Residential heat supply in cities through waste-heat re-use: sources, supply potential and demand coverage - a Vienna case study
+**14:30 – 15:00**<br />
+Residential heat supply in cities through waste-heat re-use: sources, supply potential and demand coverage - a Vienna case study<br />
 Wolfgang Loibl |Austrian Institute of Technology (AIT) |European Energy Research Alliance (EERA) 
 
-**15:00 – 15:30**
-Collaborative cities facing smart development
+**15:00 – 15:30**<br />
+Collaborative cities facing smart development<br />
 Piero Pelizzaro |City of Milan | SHARING CITIES 
 
-**16:00 – 16:30**
-Bringing innovation from the demo level to the market: communication of best practices to foster replication
+**16:00 – 16:30**<br />
+Bringing innovation from the demo level to the market: communication of best practices to foster replication<br />
 Antonio Garrido-Marijuan | Austrian Institute of Technology (AIT) | Smart Cities Information System (SCIS)
 
-**16:30-17:00**
-Towards Smart Zero CO2 Cities across Europe
+**16:30-17:00**<br />
+Towards Smart Zero CO2 Cities across Europe<br />
 Francisco Rodríguez | TECNALIA | SmartEnCity 
 
-**17:00 – 17:30** 
-Lyon: the intelligent city of tomorrow 
+**17:00 – 17:30** <br />
+Lyon: the intelligent city of tomorrow <br />
 Emilie Gerbaud | Lyon Metropolis | SMARTER TOGETHER 
 
 ### **16 November**
 
-**10:00 – 10:30** 
-How monitoring of demonstration projects can support the upscaling of smart city solutions
+**10:00 – 10:30** <br />
+How monitoring of demonstration projects can support the upscaling of smart city solutions<br />
 Hans-Martin Neumann |Austrian Institute of Technology (AIT) | SMARTER TOGETHER
 
-**11:00 – 11:30**
-Why is data important for smart city replication and how do we visualise it?  
+**11:00 – 11:30**<br />
+Why is data important for smart city replication and how do we visualise it?<br />
 Branislav Iglar | Austrian Institute of Technology (AIT) | Smart Cities Information System (SCIS)
 
-**12:00 – 12:30** 
-EERA Joint Programme Smart Cities
+**12:00 – 12:30** <br />
+EERA Joint Programme Smart Cities<br />
 Catrin Haider Austrian Institute of Technology (AIT) |European Energy Research Alliance (EERA) 
 
 ---
 
-**14:00 – 14:30** 
-Policy and finance barriers and solutions for innovation: lessons learned from EU projects
+**14:00 – 14:30** <br />
+Policy and finance barriers and solutions for innovation: lessons learned from EU projects<br />
 Jorge Núñez | Centre for European Policy Studies (CEPS) | Smart Cities Information System (SCIS)
 
-**14:30 – 15:00**
-European Innovation Partnership on Smart Cities and Communities 
+**14:30 – 15:00**<br />
+European Innovation Partnership on Smart Cities and Communities <br />
 Mathias Reddmann | DG CONNECT | European Commission 
 
-**15:00 – 15:30**
-Munich: smart city – smart citizen engagement
+**15:00 – 15:30**<br />
+Munich: smart city – smart citizen engagement<br />
 Silke Strehle | City of Munich | SMARTER TOGETHER 
 
-**15:30 – 16:00**
-GrowSmarter: transforming cities for a smart, sustainable Europe
+**15:30 – 16:00**<br />
+GrowSmarter: transforming cities for a smart, sustainable Europe<br />
 Lisa Enarsson | City of Stockholm | GrowSmarter 
 
-**16:00 – 16:30** 
-Green Digital Charter: Smart cities with and for the citizens
+**16:00 – 16:30** <br />
+Green Digital Charter: Smart cities with and for the citizens<br />
 Nikolaos Kontinakis | EUROCITIES | Green Digital Charter 
 
-**17:00 – 17:30** 
-The Funding Tool for Smart Cities by EIP-SCC Market Place
+**17:00 – 17:30** <br />
+The Funding Tool for Smart Cities by EIP-SCC Market Place<br />
 Juan Cristobal García | Zabala Innovation Consulting | EIP-SCC Market Place 
 
 
 ### **17 November**
 
-**10:00 – 10:30** 
-Working with cities for the performance measurement of their smart projects
+**10:00 – 10:30** <br />
+Working with cities for the performance measurement of their smart projects<br />
 CITYKeys
 
-**11:00 – 11:30**
-Regeneration Model for smart and sustainable cities
+**11:00 – 11:30**<br />
+Regeneration Model for smart and sustainable cities<br />
 Miguel Á. García-Fuentes | CARTIF |REMOURBAN 
 
-**12:00 – 12:30**
-Integral energy retrofitting actions, towards a nearly zero emissions districts
+**12:00 – 12:30**<br />
+Integral energy retrofitting actions, towards a nearly zero emissions districts<br />
 Sergio Sanz | CARTIF | CITyFiED 
 
 ---
 
-**14:00 – 14:30**
-Co-creating cities: active citizenship and strategies for cross-city learning
+**14:00 – 14:30**<br />
+Co-creating cities: active citizenship and strategies for cross-city learning<br />
 Willi Wendt | Fraunhofer IAO | SMARTER TOGETHER 
 
-**15:00 – 15:30** 
-Green ICT and carbon footprint measurement
+**15:00 – 15:30** <br />
+Green ICT and carbon footprint measurement<br />
 ICT footprint 
 
 
