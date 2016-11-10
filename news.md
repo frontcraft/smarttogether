@@ -14,7 +14,7 @@ See the agenda below and join us at stand space: F625, F627 & F629!
 
 ### Expert Sessions | Agenda
 
-### **15 November**
+### 15 November
 
 **11:00 – 11:30**<br />
 Why do we need a Smart Cities Information System?<br />Jorge Núñez |Centre for European Policy Studies (CEPS) | Smart Cities Information System (SCIS)
@@ -23,7 +23,7 @@ Why do we need a Smart Cities Information System?<br />Jorge Núñez |Centre for
 We are Smarter Together <br />
 Veronika Cerna | GOPAcom. | SMARTER TOGETHER 
 
----
+===
 
 **14:00 – 14:30**<br />
 Vienna: shaping the smart future for citizens <br />
@@ -49,7 +49,7 @@ Francisco Rodríguez | TECNALIA | SmartEnCity
 Lyon: the intelligent city of tomorrow <br />
 Emilie Gerbaud | Lyon Metropolis | SMARTER TOGETHER 
 
-### **16 November**
+### 16 November
 
 **10:00 – 10:30** <br />
 How monitoring of demonstration projects can support the upscaling of smart city solutions<br />
@@ -63,7 +63,7 @@ Branislav Iglar | Austrian Institute of Technology (AIT) | Smart Cities Informat
 EERA Joint Programme Smart Cities<br />
 Catrin Haider Austrian Institute of Technology (AIT) |European Energy Research Alliance (EERA) 
 
----
+===
 
 **14:00 – 14:30** <br />
 Policy and finance barriers and solutions for innovation: lessons learned from EU projects<br />
@@ -90,7 +90,7 @@ The Funding Tool for Smart Cities by EIP-SCC Market Place<br />
 Juan Cristobal García | Zabala Innovation Consulting | EIP-SCC Market Place 
 
 
-### **17 November**
+### 17 November
 
 **10:00 – 10:30** <br />
 Working with cities for the performance measurement of their smart projects<br />
@@ -104,7 +104,7 @@ Miguel Á. García-Fuentes | CARTIF |REMOURBAN
 Integral energy retrofitting actions, towards a nearly zero emissions districts<br />
 Sergio Sanz | CARTIF | CITyFiED 
 
----
+===
 
 **14:00 – 14:30**<br />
 Co-creating cities: active citizenship and strategies for cross-city learning<br />
