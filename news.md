@@ -4,6 +4,8 @@ imageurl: images/header-default.png
 layout: subpage
 published: true
 ---
+![news.jpg]({{site.baseurl}}/images/news.jpg)
+
 ### SMARTER TOGETHER, SCIS and EERA with a joint stand at the Smart City Expo World Congress in Barcelona
 
 SMARTER TOGETHER, [The Smart Cities Information System (SCIS)](http://www.smartcities-infosystem.eu) and the [EERA Joint Programme on Smart Cities](http://www.eera-set.eu) will have a joint stand at the upcoming  Smart City Expo World Congress (SCEWC), taking place in Barcelona (Spain) on 15-17 November 2016.
@@ -112,6 +114,4 @@ Willi Wendt | Fraunhofer IAO | SMARTER TOGETHER
 
 **15:00 – 15:30** <br />
 Green ICT and carbon footprint measurement<br />
-ICT footprint 
-
-
+ICT footprint
