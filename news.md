@@ -16,11 +16,11 @@ See the agenda below and join us at stand space: F625, F627 & F629!
 
 ### **15 November**
 
-**11:00 – 11:30**
+**11:00 – 11:30** 
 Why do we need a Smart Cities Information System? 
 Jorge Núñez |Centre for European Policy Studies (CEPS) | Smart Cities Information System (SCIS)
 
-**12:00 – 12:30**
+**12:00 – 12:30** 
 We are Smarter Together 
 Veronika Cerna | GOPAcom. | SMARTER TOGETHER 
 
