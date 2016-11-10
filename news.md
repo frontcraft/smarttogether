@@ -4,17 +4,17 @@ imageurl: images/header-default.png
 layout: subpage
 published: true
 ---
-SMARTER TOGETHER, SCIS and EERA with a joint stand at the Smart City Expo World Congress in Barcelona
+**SMARTER TOGETHER, SCIS and EERA with a joint stand at the Smart City Expo World Congress in Barcelona**
 
-SMARTER TOGETHER, The Smart Cities Information System (SCIS) and the EERA Joint Programme on Smart Cities will have a joint stand at the upcoming  Smart City Expo World Congress (SCEWC), taking place in Barcelona (Spain) on 15-17 November 2016.
+SMARTER TOGETHER, [The Smart Cities Information System (SCIS)](http://www.smartcities-infosystem.eu) and the [EERA Joint Programme on Smart Cities](http://www.eera-set.eu) will have a joint stand at the upcoming  Smart City Expo World Congress (SCEWC), taking place in Barcelona (Spain) on 15-17 November 2016.
 
 This year we will hold short interactive Expert sessions led by experts on smart cities topics with focus on energy efficiency, mobility, ICT and citizen engagement. Co-created together with the audience, the sessions aim to start discussions, collect knowledge, best-practices and lessons learned, encourage problem-solving. 
 
 See the agenda below and join us at stand space: F625, F627 & F629! 
 
-Expert Sessions | Agenda
+**Expert Sessions | Agenda**
 
-15 November
+**_15 November_**
 
 11:00 – 11:30 
 Why do we need a Smart Cities Information System? 
