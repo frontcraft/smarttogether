@@ -17,5 +17,3 @@ With the aid of cutting-edge technology and the intelligent use of data, the aim
 *   and wider use of the offerings described above 
 
 Under the aegis of the SMARTER TOGETHER project, the City of Munich is cooperating with eleven partners in the business and academic communities. Between now and 2021, it will invest a total of around 20 million euro in the 350-hectare district, of which 6.85 million euro will come from the EU.
-
-Prose.io integration test
