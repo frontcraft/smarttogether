@@ -10,12 +10,20 @@
 // Component
 // --------------------------------------------------
 .panorama
+  background-color: #fff
+
+// Elements
+// --------------------------------------------------
+.panorama__item
   width: 100%
   text-align: center
   position: relative
 
-// Elements
-// --------------------------------------------------
+  +breakpoint(tablet)
+    display: table-cell
+    width: 33%
+
+
 .panorama__image
   display: block
   width: 100%
@@ -28,7 +36,7 @@
   +translate(0, -50%)
 
 // Tint
-.panorama::after
+.panorama__item::after
   content: ''
   display: block
   position: absolute

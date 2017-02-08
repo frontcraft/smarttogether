@@ -53,6 +53,30 @@
     +breakpoint(lg-desktop)
       margin: 100px 0 0
 
+body.navbar-shrink .navbar,
+body.city-page .navbar
+  position: fixed
+  top: 0
+  width: 100%
+  z-index: 1
+
+body.city-page:not(.navbar-shrink) .navbar
+  background-color: transparent
+  border-color: transparent
+
+  .social-links .icon,
+  .navbar-nav > li > a
+    border-color: #fff
+    color: #fff
+
+    &:hover,
+    &:focus
+      border-color: #ddd
+      color: #ddd
+
+body.navbar-shrink:not(.city-page)
+  padding-top: 178px
+
 
 // States
 // --------------------------------------------------
@@ -112,3 +136,4 @@
       -webkit-border-radius: 6px 0 6px 6px
       -moz-border-radius: 6px 0 6px 6px
       border-radius: 6px 0 6px 6px
+

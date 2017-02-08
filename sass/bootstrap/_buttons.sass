@@ -15,31 +15,21 @@
 // Component
 // --------------------------------------------------
 .btn
-  color: #fff
   font-size: 16px
+  font-weight: 400
   text-transform: uppercase
   border-radius: 0
-  border: 2px solid transparent
+  border-width: 2px
   text-align: center
   margin-top: 3px
   margin-bottom: 3px
 
 // Modifiers
 // --------------------------------------------------
-.btn-default
-  background-color: transparent
-  border-color: #fff
-
-  &:hover,
-  &:focus
-    background-color: #fff
-    border-color: #fff
-
-.btn-primary
-  border-color: $btn-primary-border
-  border-bottom-color: darken($btn-primary-border, 5%)
-
 .btn-lg
   +breakpoint(tablet)
     font-size: 30px
     padding: 10px 30px
+
+.btn-default:hover
+  color: darken($brand-primary, 15%)

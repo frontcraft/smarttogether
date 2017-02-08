@@ -1,12 +1,12 @@
 ---
 title: Vienna
+subtitle: The project demonstration area in Vienna is located in the central part of the south-eastern district of Simmering between Simmeringer Hauptstraße (an ancient main street axis) and the eastern railway line (Geiselberg, Enkplatz). In total, 21 000 inhabitants will benefit from smart project solutions within the fields refurbishment, energy, mobility and information and communication technologies.
 imageurl: images/cities/wide-vienna.jpg
-layout: subpage
+layout: city-page
 published: true
 ---
-The project demonstration area in Vienna is located in the central part of the south-eastern district of Simmering between Simmeringer Hauptstraße (an ancient main street axis) and the eastern railway line (Geiselberg, Enkplatz). In total, 21 000 inhabitants will benefit from smart project solutions within the fields refurbishment, energy, mobility and information and communication technologies.
 
-**VIENNA STRIVES TO:**
+<h2><span class="ornament">VIENNA STRIVES TO:</span></h2>
 
 *   refurbish three residential neighborhoods with 1,300 inhabitants and a total floor surface of 75,000 m2
 *   ensure savings of 6000000 kilowatt hours (kWh)  per year in all refurbished housing complexes together. This corresponds to the energy use of about 700 housing units
@@ -15,7 +15,7 @@ The project demonstration area in Vienna is located in the central part of the s
 *   secure and/or create 900 
 *   promote an intensive governance learning process by involving eight departments of the City of Vienna’s administration, ensuring that the experiences and results of the project will be integrated in a sustainable way all over the city
 
-**CREATE TOGETHER:** Focus Participation
+<h2><span class="ornament">CREATE TOGETHER:</span></h2> Focus Participation
 
 The inhabitants of the project area have the opportunity to participate in different ways and on different levels in the development of their smart district:
 
@@ -25,7 +25,7 @@ The inhabitants of the project area have the opportunity to participate in diffe
 *   participation in projects on mobility or refurbishment
 *   energy (‘driving’) license and, respesctively, training for pupils and tenants.
 
-**ADVANCE TOGETHER:** Focus Mobility
+<h2><span class="ornament">ADVANCE TOGETHER:</span></h2> Focus Mobility
 
 The strategy on mobility will be elaborated so that it contributes to the climate goals, as well as to a high quality of life in the district:
 
@@ -35,7 +35,7 @@ The strategy on mobility will be elaborated so that it contributes to the climat
 *   information on smart use of mobility offers
 *   local mobility consultancy
 
-**LIVING TOGETHER:** Focus Refurbishment
+<h2><span class="ornament">LIVING TOGETHER:</span></h2> Focus Refurbishment
 
 *   thermic-energetic measures
 *   use of photovoltaic and solar heat
@@ -43,7 +43,7 @@ The strategy on mobility will be elaborated so that it contributes to the climat
 *   e-cars for housing communities
 *   zero-energy-gym showcase in the secondary school NMS Enkplatz
 
-**SUPPLYING TOGETHER:** Focus Energy
+<h2><span class="ornament">SUPPLYING TOGETHER:</span></h2> Focus Energy
 
 Climate-friendly energy systems will be developed and implemented with the aim of contributing to the UN and smart city climate goals:
 
@@ -54,4 +54,4 @@ Climate-friendly energy systems will be developed and implemented with the aim o
 *   accompanying monitoring and optimization of energy systems
 
 
-[SMARTER TOGETHER website of Vienna](http://smartertogether.at/). 
+<a href="http://smartertogether.at" class="btn btn-default" target="_blank">SMARTER TOGETHER website of Vienna</a>. 
