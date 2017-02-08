@@ -7,91 +7,127 @@
 // Component
 // --------------------------------------------------
 .header
-  background-attachment: scroll
-  background-position: center center
-  background-repeat: no-repeat
-  -webkit-background-size: cover
-  -moz-background-size: cover
-  background-size: cover
-  -o-background-size: cover
-  margin: 0
-  height: 100vh
-  padding-top: 0
-  padding-bottom: 0
   position: relative
-
-  .header__text-wrapper
-    +translate(0, -50%)
-
-  .header__secondary-text
-    max-width: 600px
 
 
 // Elements
 // --------------------------------------------------
+.header > .container
+  position: absolute
+  top: 0
+  left: 50%
+  +translate(-50%, 0)
+
 .header__text-wrapper
   margin-left: auto
   margin-right: auto
   max-width: 250px
   position: relative
   top: 50%
-  +translate(0, -30%)
+  +translate(0, -50%)
 
   @media (min-width: $screen-sm-min)
     max-width: 1000px
 
 .header__primary-text
-  color: $brand-secondary
-  position: relative
-  display: inline-block
+  color: #fff
   text-transform: uppercase
   font-size: 26px
-  font-weight: bold
-  line-height: 1.5em
+  line-height: 1.1em
   margin-top: 0
   margin-bottom: 0
   letter-spacing: 2px
 
-  &:before
-    content: ''
-    display: block
-    margin: 0 -15px -38px -5px
-    height: 20px
-    width: 107%
-    background: $azure
-    z-index: 1
-
-    +breakpoint(tablet)
-      margin: 0 -15px -58px -5px
-      height: 35px
-
-    +breakpoint(desktop)
-      margin: 0 -15px -73px -5px
-      height: 45px
-
   @media (min-width: $screen-sm-min)
     font-size: 50px
-    line-height: 1.1em
 
   @media (min-width: $screen-md-min)
     font-size: $font-size-h1
 
 .header__secondary-text
   color: #fff
-  font-size: $font-size-base
-  text-align: justify
-  line-height: 1.7em
-  margin-top: 30px
+  font-family: $font-family-serif
+  font-size: $font-size-large
+  line-height: 1.2em
+  font-style: italic
+  margin-top: 15px
   margin-bottom: 0
-  max-width: 800px
-  margin-left: auto
-  margin-right: auto
 
-  +breakpoint(desktop)
-    margin-top: 50px
+  @media (min-width: $screen-sm-min)
+    font-size: $font-size-h2
+
 
 // Modifiers
 // --------------------------------------------------
+.city-page
+  .header
+    background-attachment: scroll
+    background-position: center center
+    background-repeat: no-repeat
+    -webkit-background-size: cover
+    -moz-background-size: cover
+    background-size: cover
+    -o-background-size: cover
+    margin: 0
+    padding-top: 0
+    padding-bottom: 0
+    height: 100vh
+
+    .header__text-wrapper
+      +translate(0, -50%)
+
+    .header__primary-text
+      color: $brand-secondary
+      position: relative
+      display: inline-block
+      text-transform: uppercase
+      font-size: 26px
+      font-weight: bold
+      line-height: 1.5em
+      margin-top: 0
+      margin-bottom: 0
+      letter-spacing: 2px
+
+      @media (min-width: $screen-sm-min)
+        font-size: 50px
+        line-height: 1.1em
+
+      @media (min-width: $screen-md-min)
+        font-size: $font-size-h1
+
+      &:before
+        content: ''
+        display: block
+        margin: 0 -15px -38px -5px
+        height: 20px
+        width: 107%
+        background: $azure
+        z-index: 1
+
+        +breakpoint(tablet)
+          margin: 0 -15px -58px -5px
+          height: 35px
+
+        +breakpoint(desktop)
+          margin: 0 -15px -73px -5px
+          height: 45px
+
+    .header__secondary-text
+      color: #fff
+      font-size: $font-size-base
+      font-family: $font-family-base
+      text-align: justify
+      line-height: 1.7em
+      margin-top: 30px
+      margin-bottom: 0
+      max-width: 800px
+      margin-left: auto
+      margin-right: auto
+      font-style: normal
+
+      +breakpoint(desktop)
+        margin-top: 50px
+
 
 // Dependencies
 // --------------------------------------------------
