@@ -14,15 +14,16 @@
           <div class="header__secondary-text text-muted">{{ page.subtitle }}</div>
         </div>
 
-        <a class="scroll-button page-scroll" href="#content">
-          <i class="fa fa-angle-down"></i>
+        <a href="#content" class="jumbotron__scroller smooth-scroll">
+          Scroll down
+          <i class="icon icon--circle-arrow-bottom"></i>
         </a>
       </div>
     </header>
 
     {% assign content = content | strip_newlines %}
     {% if content != "" %}
-    <div id="content" class="section--gray">
+    <div id="content" class="scroll-fix section--gray">
       <div class="container">
         <div class="limited-width">
           {{ content }}
