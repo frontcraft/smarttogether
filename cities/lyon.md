@@ -15,6 +15,6 @@ published: true
 *   involve citizens in the redevelopment of the Lyon Confluence area and the implementation of new services (creation of an urban living lab to allow citizens and users to co-design the smart city solutions).
 *   increase the quality of life of inhabitants through construction of comfortable and affordable dwellings and office places, convenient public spaces, easy access to the district, etc.
     
-<a href="http://www.lyon-confluence.fr/en/index.html" class="btn btn-default" target="_blank">SPL Lyon Confluence</a>
-<a href="http://www.business.greaterlyon.com/metropole-de-lyon-france-6.html" class="btn btn-default" target="_blank">Lyon Metropolis
+<a href="http://www.lyon-confluence.fr/en/index.html" class="btn btn-primary" target="_blank">SPL Lyon Confluence</a>
+<a href="http://www.business.greaterlyon.com/metropole-de-lyon-france-6.html" class="btn btn-primary" target="_blank">Lyon Metropolis
 

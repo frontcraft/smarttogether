@@ -54,4 +54,4 @@ Climate-friendly energy systems will be developed and implemented with the aim o
 *   accompanying monitoring and optimization of energy systems
 
 
-<a href="http://smartertogether.at" class="btn btn-default" target="_blank">SMARTER TOGETHER website of Vienna</a>. 
+<a href="http://smartertogether.at" class="btn btn-primary" target="_blank">SMARTER TOGETHER website of Vienna</a>. 
