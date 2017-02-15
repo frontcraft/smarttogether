@@ -4,114 +4,28 @@ imageurl: images/header-default.png
 layout: subpage
 published: true
 ---
-![news.jpg](/images/news.jpg)
 
-### SMARTER TOGETHER, SCIS and EERA with a joint stand at the Smart City Expo World Congress in Barcelona
-
-SMARTER TOGETHER, [The Smart Cities Information System (SCIS)](http://www.smartcities-infosystem.eu) and the [EERA Joint Programme on Smart Cities](http://www.eera-set.eu) will have a joint stand at the upcoming  Smart City Expo World Congress (SCEWC), taking place in Barcelona (Spain) on 15-17 November 2016.
-
-This year we will hold short interactive Expert sessions led by experts on smart cities topics with focus on energy efficiency, mobility, ICT and citizen engagement. Co-created together with the audience, the sessions aim to start discussions, collect knowledge, best-practices and lessons learned, encourage problem-solving. 
-
-See the agenda below and join us at stand space: F625, F627 & F629! 
-
-### Expert Sessions | Agenda
-
-### 15 November
-
-**11:00 – 11:30**<br />
-Why do we need a Smart Cities Information System?<br />Jorge Núñez |Centre for European Policy Studies (CEPS) | Smart Cities Information System (SCIS)
-
-**12:00 – 12:30** 
-We are Smarter Together <br />
-Veronika Cerna | GOPAcom. | SMARTER TOGETHER 
-
-===
-
-**14:00 – 14:30**<br />
-Vienna: shaping the smart future for citizens <br />
-Bojan Schnabl | City of Vienna | SMARTER TOGETHER
-
-**14:30 – 15:00**<br />
-Residential heat supply in cities through waste-heat re-use: sources, supply potential and demand coverage - a Vienna case study<br />
-Wolfgang Loibl |Austrian Institute of Technology (AIT) |European Energy Research Alliance (EERA) 
-
-**15:00 – 15:30**<br />
-Collaborative cities facing smart development<br />
-Piero Pelizzaro |City of Milan | SHARING CITIES 
-
-**16:00 – 16:30**<br />
-Bringing innovation from the demo level to the market: communication of best practices to foster replication<br />
-Antonio Garrido-Marijuan | Austrian Institute of Technology (AIT) | Smart Cities Information System (SCIS)
-
-**16:30-17:00**<br />
-Towards Smart Zero CO2 Cities across Europe<br />
-Francisco Rodríguez | TECNALIA | SmartEnCity 
-
-**17:00 – 17:30** <br />
-Lyon: the intelligent city of tomorrow <br />
-Emilie Gerbaud | Lyon Metropolis | SMARTER TOGETHER 
-
-### 16 November
-
-**10:00 – 10:30** <br />
-How monitoring of demonstration projects can support the upscaling of smart city solutions<br />
-Hans-Martin Neumann |Austrian Institute of Technology (AIT) | SMARTER TOGETHER
-
-**11:00 – 11:30**<br />
-Why is data important for smart city replication and how do we visualise it?<br />
-Branislav Iglar | Austrian Institute of Technology (AIT) | Smart Cities Information System (SCIS)
-
-**12:00 – 12:30** <br />
-EERA Joint Programme Smart Cities<br />
-Catrin Haider Austrian Institute of Technology (AIT) |European Energy Research Alliance (EERA) 
-
-===
-
-**14:00 – 14:30** <br />
-Policy and finance barriers and solutions for innovation: lessons learned from EU projects<br />
-Jorge Núñez | Centre for European Policy Studies (CEPS) | Smart Cities Information System (SCIS)
-
-**14:30 – 15:00**<br />
-European Innovation Partnership on Smart Cities and Communities <br />
-Mathias Reddmann | DG CONNECT | European Commission 
-
-**15:00 – 15:30**<br />
-Munich: smart city – smart citizen engagement<br />
-Silke Strehle | City of Munich | SMARTER TOGETHER 
-
-**15:30 – 16:00**<br />
-GrowSmarter: transforming cities for a smart, sustainable Europe<br />
-Lisa Enarsson | City of Stockholm | GrowSmarter 
-
-**16:00 – 16:30** <br />
-Green Digital Charter: Smart cities with and for the citizens<br />
-Nikolaos Kontinakis | EUROCITIES | Green Digital Charter 
-
-**17:00 – 17:30** <br />
-The Funding Tool for Smart Cities by EIP-SCC Market Place<br />
-Juan Cristobal García | Zabala Innovation Consulting | EIP-SCC Market Place 
+![GA ]({{site.baseurl}}/images/banner_SmarterTogether-01.png)
 
 
-### 17 November
+### SMARTER TOGETHER's first General Assembly is taking place on 15-17 February 2017 in Munich!
 
-**10:00 – 10:30** <br />
-Working with cities for the performance measurement of their smart projects<br />
-CITYKeys
+The first SMARTER TOGETHER General Assembly is taking place in Munich, from 15th to 17th of February, 2017 and will take stock of the first year of the programme while looking to the future. SMARTER TOGETHER is dedicated to improving the overall quality of life in urban areas. The programme seeks to use creative means or refurbishment measures in order to explore new ways of adding value to urban life. Through ICT, citizen engagement and institutional governance, SMARTER TOGETHER is delivering smart and inclusive solutions to urban issues. 
 
-**11:00 – 11:30**<br />
-Regeneration Model for smart and sustainable cities<br />
-Miguel Á. García-Fuentes | CARTIF |REMOURBAN 
+SMARTER TOGETHER has three lighthouse cities (Munich, Vienna and Lyon) and three follower cities (Santiago de Compostela, Sofia and Venice) which follow and replicate the key finding from the lighthouse cities. There are also two observer cities (Kiev and Yokohama) which serve to bring Eastern European and Asian perspectives to the programme and as a mode for outreach and expansion.
 
-**12:00 – 12:30**<br />
-Integral energy retrofitting actions, towards a nearly zero emissions districts<br />
-Sergio Sanz | CARTIF | CITyFiED 
+The General Assembly will start on Wednesday, February 15th, 2017 with a gathering of the SMARTER TOGETHER core group and an advisory board meeting, followed by a welcome dinner hosted by the Mayors of the cities involved.  Beginning the next day there will be a presentation of the project and the main outcomes to date. The work of the General Assembly will focus on several thematic areas and set the groundwork for the next steps for the SMARTER TOGETHER programme.
 
-===
+The thematic work sessions for day two are: 
 
-**14:00 – 14:30**<br />
-Co-creating cities: active citizenship and strategies for cross-city learning<br />
-Willi Wendt | Fraunhofer IAO | SMARTER TOGETHER 
+•	City Engagement – Innovation Labs
+•	Holistic Refurbishment in Smart Districts
+•	District Heating and Renewables
+•	Data Management/Smart Platforms
+•	E-Mobility. 
 
-**15:00 – 15:30** <br />
-Green ICT and carbon footprint measurement<br />
-ICT footprint
+It is through these thematic areas that the work of SMARTER TOGETHER is divided and focused. 
+
+SMARTER TOGETHER is dedicated to finding ways to improve urban life; not just for one city or region, but everywhere. The programme is focused on experimenting, measuring and replicating positive results across various urban environments. Day three of the General Assembly will focus on monitoring and evaluating the project and all of its work. A project Wiki and standardised best practices will be developed and later disseminated, and a Replication Task Force will set about the work of recreating successes from one city to the next. 
+
+The SMARTER TOGETHER General Assembly is a way to monitor the program and guide its development while at the same time deepening the connection between participating areas and creating conditions to replicate the improvements made in urban districts.
