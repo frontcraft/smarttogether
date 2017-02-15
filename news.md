@@ -17,11 +17,11 @@ The General Assembly will start on Wednesday, February 15th, 2017 with a gatheri
 
 The thematic work sessions for day two are: 
 
-•	City Engagement – Innovation Labs
-•	Holistic Refurbishment in Smart Districts
-•	District Heating and Renewables
-•	Data Management/Smart Platforms
-•	E-Mobility. 
+- City Engagement – Innovation Labs
+- Holistic Refurbishment in Smart Districts
+- District Heating and Renewables
+- Data Management/Smart Platforms
+- E-Mobility.
 
 It is through these thematic areas that the work of SMARTER TOGETHER is divided and focused. 
 
