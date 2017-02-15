@@ -4,8 +4,7 @@ imageurl: images/header-default.png
 layout: subpage
 published: true
 ---
-
-![GA ]({{site.baseurl}}/images/banner_SmarterTogether-01.png)
+![banner_SmarterTogether-01.png]({{site.baseurl}}/images/banner_SmarterTogether-01.png)
 
 
 ### SMARTER TOGETHER's first General Assembly is taking place on 15-17 February 2017 in Munich!
