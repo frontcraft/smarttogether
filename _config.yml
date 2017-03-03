@@ -10,6 +10,14 @@ baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://smarter-together.eu" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
+collections:
+  events:
+    output: true
+  news:
+    output: true
+
+# Publish posts or collection documents with a future date.
+future: true
 
 # Build settings
 markdown: kramdown
@@ -22,6 +30,38 @@ keep_files: [bootstrap-sass, css, images, js]
 
 # Exclude dirs and files that should not be copied into rendered prototype
 exclude: [node_modules, sass, styleguide, templates, Gemfile, Gruntfile.js, gulpfile.js, package.json, README.md, feed.xml, template.php]
+
+gems:
+  - jekyll-paginate-v2
+
+permalink: pretty
+
+############################################################
+# Site configuration for the Jekyll 3 Pagination Gem
+# The values here represent the defaults if nothing is set
+pagination:
+  enabled: true
+  per_page: 10
+
+  # The permalink structure for the paginated pages (this can be any level deep)
+  permalink: '/:num/' # Pages are index.html inside this folder (default)
+  #permalink: '/page/:num/' # Pages are index.html inside this folder (default)
+  #permalink: '/page/:num.html' # Pages are simple html files
+  #permalink: '/page/:num' # Pages are html files, linked jekyll extensionless permalink style.
+
+  # Optional the title format for the paginated pages (supports :title for original page title, :num for pagination page number, :max for total number of pages)
+  #title: ':title - page :num'
+  #title: ':title | :num of :max'
+  title: ':title'
+
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  trail:
+    before: 2
+    after: 2
+
+############################################################
 
 # Prose.io configuration
 prose:
