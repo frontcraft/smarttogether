@@ -33,6 +33,7 @@ exclude: [node_modules, sass, styleguide, templates, Gemfile, Gruntfile.js, gulp
 
 gems:
   - jekyll-paginate-v2
+#  - jekyll-paginate
 
 permalink: pretty
 

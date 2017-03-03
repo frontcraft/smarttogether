@@ -28,6 +28,9 @@
       <p>
         <small class="post__meta text-muted">
           {{ page.date | date_to_string }}{% if page.end-date %} - {{ page.end-date | date_to_string }}{% endif %}
+          {% if page.location %}
+            <p><strong>Location:</strong> {{ page.location }}</p>
+          {% endif %}
         </small>
       </p>
       {{ content }}

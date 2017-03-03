@@ -8,7 +8,7 @@ pagination:
   collection: events
 ---
 <div class="listing2">
-  {% for event in paginator.posts %}
+  {% for event in site.events %}
     <article class="listing2__item">
       <div class="row">
         {% if event.imageurl %}
@@ -27,7 +27,10 @@ pagination:
               <a href="{{ event.url }}">{{ event.title }}</a>
             </h2>
             <div class="listing2__item-meta">
-                {{ event.date | date_to_string }}{% if event.end-date %} - {{ event.end-date | date_to_string }}{% endif %}
+                <p>{{ event.date | date_to_string }}{% if event.end-date %} - {{ event.end-date | date_to_string }}{% endif %}</p>
+                {% if event.location %}
+                    <p><strong>Location:</strong> {{ event.location }}</p>
+                {% endif %}
             </div>
           </div>
       </div>
