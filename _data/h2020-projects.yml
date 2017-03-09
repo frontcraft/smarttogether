@@ -1,5 +1,5 @@
 - title: Remourban
-  description: Smart and Inclusive Solutions for a Better Life in Urban Districts
+  description: Developing and testing a sustainable urban development model
   image: images/h2020-projects/logo_REMOURBAN_nopayoff190px.png
   website: http://www.remourban.eu
 - title: REPLICATE
@@ -54,3 +54,31 @@
   description: Sustainable smart city planning and energy needs
   image: images/h2020-projects/insmart-logo1.jpg
   website: http://www.insmartenergy.com/smart-cities/
+- title: Eltis
+  description: Facilitates the exchange of information, knowledge and experiences in the field of urban mobility in Europe.
+  image: images/h2020-projects/newlogoeltisv4.png
+  website: http://www.eltis.org/
+- title: Covenant of Mayors
+  description: Facilitates the exchange of information, knowledge and experiences in the field of urban mobility in Europe.
+  image: images/h2020-projects/covenant_logo.gif
+  website: http://www.covenantofmayors.eu/index_en.html
+- title: Heat Roadmap Europe 4
+  description: Facilitates the exchange of information, knowledge and experiences in the field of urban mobility in Europe.
+  image: images/h2020-projects/HRE_thumbnail.png
+  website: http://www.heatroadmap.eu/
+- title: ERA-NET Smart Cities and Communities
+  description: Facilitates the exchange of information, knowledge and experiences in the field of urban mobility in Europe.
+  image:
+  website: http://cordis.europa.eu/project/rcn/194435_en.html
+- title: SocialCar
+  description: Facilitates the exchange of information, knowledge and experiences in the field of urban mobility in Europe.
+  image:
+  website: http://cordis.europa.eu/project/rcn/193402_en.html
+- title: OrganiCity
+  description: Facilitates the exchange of information, knowledge and experiences in the field of urban mobility in Europe.
+  image:
+  website: http://cordis.europa.eu/project/rcn/194291_en.html
+- title: CitySDK
+  description: Facilitates the exchange of information, knowledge and experiences in the field of urban mobility in Europe.
+  image:
+  website: http://cordis.europa.eu/project/rcn/191909_en.html

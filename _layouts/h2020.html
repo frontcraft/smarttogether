@@ -26,9 +26,11 @@
             {% for project in site.data.h2020-projects %}
             <li class="col-sm-6">
               <div class="listing3__item matchHeight">
+                {% if project.image %}
                 <div class="listing3__item-image">
                   <img src="{{ project.image | prepend: site.baseurl }}" class="img-responsive" />
                 </div>
+                {% endif %}
                 <div class="listing3__item-text">
                   <h3 class="listing3__item-title">
                     {{ project.title }}
