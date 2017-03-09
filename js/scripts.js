@@ -34,4 +34,6 @@ $(function() {
     }
     menu.css({ left:newpos });
   });
+
+  $('.matchHeight').matchHeight();
 });
