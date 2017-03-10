@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Smart City Expo World Congress"
-date: 2017-11-14 to 2017-11-16
+date: 2017-11-14 
+end-date: 2017-11-16
 imageurl: 'images/events/SCEWC_2017_2.jpg'
 location: "Barcelona, Spain"
 ---
