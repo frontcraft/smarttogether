@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "URBACT City Festival"
-date: 2017-10-04 to 2017-10-05
+date: 2017-10-04 
+end-date: 2017-10-05
 imageurl: 'images/events/URBACT.png'
 location: "Tallinn, Estonia"
 ---
