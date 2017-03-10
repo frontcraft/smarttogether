@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "EU Sustainable Energy Week"
-date: 2017-06-19 to 2017-06-25
+date: 2017-06-19 
+end-date: 2017-06-25
 imageurl: 'images/events/EUSEW logo.png'
 location: "Brussels, Belgium"
 ---
