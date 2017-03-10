@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "European Week of Regions and Cities"
-date: 2017-10-09 to 2017-10-12
+date: 2017-10-09
+end-date: 2017-10-12
 imageurl: 'images/events/European Week of Regions and Cities Logo Update.jpg'
 location: "Brussels, Belgium"
 ---
