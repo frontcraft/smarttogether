@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Energy Cities' Annual Conference"
-date: 2017-04-26 to 2017-04-28
+date: 2017-04-26 
+end-date: 2017-04-28
 imageurl: 'images/events/Energy Cities Annual Conference.jpg'
 location: "Stuttgart, Germany"
 ---
