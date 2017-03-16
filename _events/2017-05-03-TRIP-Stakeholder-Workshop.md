@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TRIP (Transport Research & Innovation Portal) Stakeholder Workshop"
+title:  "TRIP Stakeholder Workshop"
 date: 2017-05-03
 imageurl: 'images/events/TRIP Logo.png'
 location: "Brussels, Belgium"
