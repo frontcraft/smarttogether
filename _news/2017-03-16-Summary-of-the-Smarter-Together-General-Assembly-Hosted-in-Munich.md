@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Summary of the Smarter Together General Assembly Hosted in Munich"
+date:   2017-03-16
+imageurl: 'images/news/Jahreskonferenz-Credit-Landeshauptstadt-München-Foto-Tobias-Hase-2017_02_16stm1429_web-1500x630.jpg'
+---
+The 2017 General Assembly for the EU project Smarter Together was held in Munich in February. Around 100 participants – including politicians and administrative professionals from the three European lighthouse cities Vienna, Lyon and Munich, the follower cities Santiago de Compostela, Sofia and Venice, and the observer cities Kiev and Yokohama – convened in the Bavarian capital from February 15-17. Smart city scientists and experts who are serving as an advisory board to the project likewise took part in the dialogue. Also in attendance were some 30 partner organizations from ten countries, all of whom have, for the past year, been working together to develop smart, innovative solutions for the city of the future.
+
+The General Assembly is a platform for dialogue where the achievements of the past year can be presented and further actions coordinated. For Deputy Mayor Josef Schmid, dedicated and respectful collaboration between all partners exemplifies how the motto “Smarter Together” is being lived out in practice. In Munich, he said, this is most apparent in activities relating to the Urban Living Lab set up specially for the project: “The project actively involves local residents in intensive co-design processes,” Schmid noted. “This gives them the chance to talk to experts and partners about those measures that are especially important to them, and together to develop hands-on solutions for their immediate vicinity.”
+
+The General Assembly was held on location at the Urban Living Lab in the district of Neuaubing-Westkreuz. Workshops, a panel discussion involving the political representatives, presentations of the results achieved to date and thematic working groups held in parallel explored the various aspects addressed by the project: mobility, energy, technology, data platforms, co-design and smart city business models. The gathering also took a tour of the streets and public squares where the Smarter Together project will in future take concrete shape.
+
+As early as this July, local residents will see the installation of the first smart street lamps, which will feature adaptive lighting, wireless LAN and a number of sensors. By the beginning of nextyear, the first three out of a planned total of eight multimodal mobility stations will also be up and running. They will forge links between public transport offerings and e car-sharing vehicles, utility pedelecs/e-trikes and charging stations for electric cars. In addition, two shared district boxes will be installed and made ready to handle a 24/7 delivery and sharing service. Starting in the autumn, battery storage technology should also go into service as a source of renewable energy.
+
+
+The original post in German, as well as additional photos of the meeting, can be found [here](https://www.muenchen.de/rathaus/Stadtverwaltung/Referat-fuer-Arbeit-und-Wirtschaft/Europa/Smart-Cities/News-Smarter-Together-M-nchen/General-Assembly-16.02.2017.html){:target="_blank"}.  
