@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Summary of the Smarter Together General Assembly Hosted in Munich"
+title:  "Progress and Collaboration at the First Smarter Together General Assembly in Munich"
 date:   2017-03-16
 imageurl: 'images/news/Jahreskonferenz-Credit-Landeshauptstadt-München-Foto-Tobias-Hase-2017_02_16stm1429_web-1500x630.jpg'
 ---
