@@ -1,6 +1,6 @@
 ---
 title: Vienna
-subtitle: The project demonstration area in Vienna is located in the central part of the south-eastern district of Simmering between Simmeringer Hauptstraße (an ancient main street axis) and the eastern railway line (Geiselberg, Enkplatz). In total, 21 000 inhabitants will benefit from smart project solutions within the fields refurbishment, energy, mobility and information and communication technologies.
+subtitle: The project demonstration area in Vienna is located in the central part of the south-eastern district of Simmering between Simmeringer Hauptstraße (an ancient main street axis) and the eastern railway line (Geiselberg, Enkplatz). In total, 21 000 inhabitants will benefit from smart project solutions within the fields refurbishment, energy, mobility and information and communication technologies. An emphasis is made on dialogue, in line with the Vienna Smart City Framework Strategy where the human dimension of the Smart City is the focus of attention. Dialogue includes all genereations and backgrounds aiming at contributing to an intergrated societal dynamic. Partnership includes all actors, from government to citizens to business players, where everyone has a specific responsibility towards achieving the common goals. 
 imageurl: images/cities/wide-vienna.jpg
 layout: city-page
 published: true
