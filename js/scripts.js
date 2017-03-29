@@ -36,4 +36,8 @@ $(function() {
   });
 
   $('.matchHeight').matchHeight();
+
+  $(document).ready(function(e) {
+    $('img[usemap]').rwdImageMaps();
+  });
 });

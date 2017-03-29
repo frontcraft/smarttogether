@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+
+{% include nav--club-of-cities.html %}
+
+<img width="1400" height="2415" class="img-responsive" src="{{ page.imageurl | prepend: site.baseurl }}" usemap="#coc" />
+<map name="coc">
+  <area  alt="" title="" href="http://annualconference.energy-cities.eu" shape="rect" coords="530,1688,808,1711" style="outline:none;" target="_blank" />
+  <area  alt="" title="" href="mailto:smartertogether@energy-cities.eu" shape="rect" coords="694,2329,925,2352" style="outline:none;" target="_self" />
+</map>
+
+{% include footer.html %}
+
+{% include scripts.html %}
+
+</body>
+
+</html>
