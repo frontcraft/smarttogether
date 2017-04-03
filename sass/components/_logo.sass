@@ -34,6 +34,19 @@ $logo-height-desktop: 136px
   width: 164px
   height: 114px
 
+.logo-news
+  display: block
+  width: $logo-width-mobile
+  height: $logo-height-mobile
+  background: url("../images/logo_white.png") no-repeat
+  background-size: 85%
+  margin: 10px 0 10px 15px
+
   +breakpoint(desktop)
     width: 164px
     height: 114px
+
+.navbar-shrink
+  .logo-news
+    background: url("../images/logo.png") no-repeat
+    background-size: 85%

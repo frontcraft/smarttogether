@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news-page
 title:  "EUSEW 2017 calls are open!"
 date:   2017-01-31
 imageurl: 'images/news/untitled_3.png'

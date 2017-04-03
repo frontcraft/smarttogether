@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: news-page
 title:  "Find project or business partners among the cities involved in the EU smart cities initiatives"
 date:   2017-01-30
 imageurl: 'images/news/scis_website_.png'
+
 ---
 We have [created two documents](http://www.smartcities-infosystem.eu/library/useful-resources){:target="_blank"} listing the cities participating in six European initiatives, the country and number of residents and the level of their involvement:
 

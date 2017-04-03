@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: events-page
 title:  "TRIP Stakeholder Workshop"
 date: 2017-05-03
 imageurl: 'images/events/TRIP Logo.png'
+bckimageurl: 'images/events/default-background.jpg'
 location: "Brussels, Belgium"
 ---
 TRIP is organising its fifth one-day stakeholder workshop, which will take place in Brussels on Wednesday 3 May 2017, and cover the subject of cleaner transport.

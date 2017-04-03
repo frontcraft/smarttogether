@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="news-page">
+
+    {% include nav--news.html %}
+
+    {% assign content = content | strip_newlines %}
+    <header class="header text-center" style="background-image: url('{{ page.imageurl | prepend: site.baseurl }}');">
+      <div class="overlay">
+      </div>
+      <div class="container">
+        <div class="header__text-wrapper">
+          <h1 class="header__primary-text">{{ page.title }}</h1>
+          <div class="header__secondary-text text-muted">{{ page.subtitle }}</div>
+        </div>
+
+        {% if content != "" %}
+        {% endif %}
+      </div>
+    </header>
+
+    {% if content != "" %}
+      {% if page.boximageurl %}
+        <div class="container image-box">
+          <div class="limited-width">
+            <img class="img-responsive" src="{{ page.boximageurl | prepend: site.baseurl }}" alt="">
+          </div>
+        </div>
+      {% endif %}
+    <div id="content" class="scroll-fix">
+      <div class="section--gray">
+        <div class="container">
+          <div class="limited-width">
+            {{ content }}
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endif %}
+
+    {% include footer.html %}
+
+    {% include scripts.html %}
+
+  </body>
+
+</html>

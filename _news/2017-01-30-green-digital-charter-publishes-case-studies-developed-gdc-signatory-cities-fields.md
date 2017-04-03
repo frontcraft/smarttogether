@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news-page
 title:  "Green Digital Charter publishes case studies developed by GDC signatory cities in the fields of buildings, energy, transport and e-participation"
 date:   2017-01-30
 imageurl: 'images/news/picture1.png'
