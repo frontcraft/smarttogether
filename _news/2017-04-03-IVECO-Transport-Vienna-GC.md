@@ -2,7 +2,7 @@
 layout: news-page
 title:  "Two IVECO E-Transporters for Postal Service in Simmering"
 date:   2017-04-03
-imageurl: 'smarttogether/images/E-Vans.jpg'
+imageurl: '/images/E-Vans.jpg'
 ---
 ### Simmering as a Pilot Area from the Austrian Post Thanks to Smarter Together 
 
