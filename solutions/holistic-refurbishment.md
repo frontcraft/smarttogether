@@ -14,8 +14,8 @@ Each lighthouse city aims to minimize by 60% on average the energy consumption o
 
 This goal will be reached by implementing energy-efficient solutions: 
 
-*   **Structural refurbishment measures** curving the energy loss due to the buildings themselves, including outside thermal insulation material and high-efficiency windows 
-*   **Energy recovery systems** limiting the energy loss linked to the use of buildings, including energy-efficient lighting systems, heat recovery ventilation system and waste heat recovery for hot water generation 
-*   **Energy management systems** in dwellings, which are cross-cutting ICT solutions for sustainable energy use and convenience 
+* **Structural refurbishment measures** curving the energy loss due to the buildings themselves, including outside thermal insulation material and high-efficiency windows 
+* **Energy recovery systems** limiting the energy loss linked to the use of buildings, including energy-efficient lighting systems, heat recovery ventilation system and waste heat recovery for hot water generation 
+* **Energy management systems** in dwellings, which are cross-cutting ICT solutions for sustainable energy use and convenience 
 
 These technical solutions will be supported by specific awareness campaigns, technical and financial support targeting individual owners and homeowner associations.
