@@ -1,3 +1,9 @@
+---
+layout: post
+date: 2016-10-11T00:00:00.000Z
+imageurl: images/news/big_img_6587.jpg
+---
+
 ## The Council of Santiago de Compostela is working on Smarter Together
 The Santiago City Council is working on the implementation of the European Union project Smarter Together, which aims to improve the quality of life in cities through smart technologies. The first meeting was held to develop a strategy to deepen interdepartmental cooperation for an integrated data platform, citizen participation/commitment, energy refurbishment of buildings, sustainable mobility, ‘district heating’ and renewable energies.
 
@@ -6,9 +12,4 @@ Compostela is a partner of Smarter Together as a ‘follower’ city, along with
 As a follower city, technical representatives or politicians from the Santiago City Council are scheduled to participate in the Smarter Together organised meetings. The next meetings will be held in Venice on May 3-4, and in Sofia, from June 7-9. Another workshop is scheduled to be held in Lyon in July, and in October a meeting will be held in Santiago to bring together project partners and create a platform for communication and exchange of experiences.
 
 
----
-layout: post
-date: 2016-10-11T00:00:00.000Z
-imageurl: images/news/big_img_6587.jpg
----
 
