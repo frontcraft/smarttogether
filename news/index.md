@@ -8,7 +8,7 @@ pagination:
   collection: news
 ---
 <div class="listing2">
-  {% for news in site.news %}
+  {% for news in site.news reversed %}
     <article class="listing2__item">
       <div class="row">
         {% if news.imageurl %}

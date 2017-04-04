@@ -8,7 +8,7 @@ pagination:
   collection: events
 ---
 <div class="listing2">
-  {% for event in site.events %}
+  {% for event in site.events reversed %}
     <article class="listing2__item">
       <div class="row">
         {% if event.imageurl %}
