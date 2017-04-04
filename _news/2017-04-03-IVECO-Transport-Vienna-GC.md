@@ -6,8 +6,6 @@ imageurl: 'images/news/Vienna IVECCO Photo.jpg'
 ---
 ### Simmering as a Pilot Area from the Austrian Post Thanks to Smarter Together 
 
-imgurl: images/news/Vienna IVECCO Photo.jpg
-
 Environmentally friendly mobility such as the use of e-vehicles like e-cars, e-bikes and e-forklifts play an important role in smart urban renewal initiatives. With the help of Smarter Together a total of around EUR 46 million will be invested in Simmering, with EUR 7 million being EU funds.
 Austrian Post is testing the new Iveco e-transport vehicles for environmentally friendly package delivery in the Simmering project area, it is also installing around 400 post boxes and providing additional 24/7 services such as two pick-up stations.
 ‘Vienna is further developing the concept of urban renewal. The pilot projects that are being carried out and evaluated in Simmering will be implemented in the future also elsewhere in the city on a broader basis - for a smart, environmentally friendly Vienna of the future with a very high quality of life,’ says City Councilor for Housing Michael Ludwig.
