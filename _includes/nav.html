@@ -1,127 +1,129 @@
 <nav class="navbar navbar-default">
   <div class="container">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a href="{{ site.baseurl }}" class="logo" title="Home"></a>
+    <div class="row">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a href="{{ site.baseurl }}" class="logo" title="Home"></a>
+      </div>
+      <div id="navbar" class="navbar-collapse collapse">
+        <ul class="social-links list-inline pull-right hidden-xs">
+          <li class="social-links__item">
+            <a target="_blank" href="https://www.facebook.com/SmarterTogetherProject">
+              <i class="icon icon--social-facebook"></i>
+            </a>
+          </li>
+          <li class="social-links__item">
+            <a target="_blank" href="https://twitter.com/SmarterH2020">
+              <i class="icon icon--social-twitter"></i>
+            </a>
+          </li>
+          {% comment %}
+          <li class="social-links__item">
+            <a target="_blank" href="#">
+              <i class="icon icon--social-linkedin"></i>
+            </a>
+          </li>
+          <li class="social-links__item">
+            <a target="_blank" href="#">
+              <i class="icon icon--social-youtube"></i>
+            </a>
+          </li>
+          {% endcomment %}
+        </ul>
+        <ul class="nav navbar-nav navbar-right">
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+              The project
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="{{ site.baseurl }}objectives">Objectives</a></li>
+              <li><a href="{{ site.baseurl }}partners">Partners</a></li>
+            </ul>
+          </li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+              Cities
+            </a>
+            <ul class="dropdown-menu">
+              <li class="dropdown dropdown-submenu">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Lighthouse cities</a>
+                <ul class="dropdown-menu">
+                  <li><a href="{{ site.baseurl }}cities/vienna">Vienna</a></li>
+                  <li><a href="{{ site.baseurl }}cities/munich">Munich</a></li>
+                  <li><a href="{{ site.baseurl }}cities/lyon">Lyon</a></li>
+                </ul>
+              </li>
+              <li class="dropdown dropdown-submenu">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Follower cities</a>
+                <ul class="dropdown-menu">
+                  <li><a href="{{ site.baseurl }}cities/santiago-de-compostela">Santiago de Compostela</a></li>
+                  <li><a href="{{ site.baseurl }}cities/venice">Venice</a></li>
+                  <li><a href="{{ site.baseurl }}cities/sofia">Sofia</a></li>
+                </ul>
+              </li>
+              <li class="dropdown dropdown-submenu">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Observer cities</a>
+                <ul class="dropdown-menu">
+                  <li><a href="{{ site.baseurl }}cities/kiev">Kiev</a></li>
+                  <li><a href="{{ site.baseurl }}cities/yokohama">Yokohama</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+              Solutions
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="{{ site.baseurl }}solutions/citizen-engagement">Citizen engagement</a></li>
+              <li><a href="{{ site.baseurl }}solutions/district-heating-and-renewables">District heating and renewables</a></li>
+              <li><a href="{{ site.baseurl }}solutions/holistic-refurbishment">Holistic refurbishment</a></li>
+              <li><a href="{{ site.baseurl }}solutions/smart-data">Smart data</a></li>
+              <li><a href="{{ site.baseurl }}solutions/e-mobility">E-mobility</a></li>
+            </ul>
+          </li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+              Results
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="{{ site.baseurl }}results/expected-results">Expected results</a></li>
+              <li><a href="{{ site.baseurl }}results/deliverables">Deliverables</a></li>
+            </ul>
+          </li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+              Club of Cities
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="{{ site.baseurl }}club-of-cities/about">About the Club</a></li>
+              <li><a href="{{ site.baseurl }}club-of-cities/kickoff">Kick-Off Meeting</a></li>
+            </ul>
+          </li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+              What's new
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="{{ site.baseurl }}news">News</a></li>
+              <li><a href="{{ site.baseurl }}events">Events</a></li>
+            </ul>
+          </li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+              Contact
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="{{ site.baseurl }}team">Team</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div><!--/.nav-collapse -->
     </div>
-    <div id="navbar" class="navbar-collapse collapse">
-      <ul class="social-links list-inline pull-right hidden-xs">
-        <li class="social-links__item">
-          <a target="_blank" href="https://www.facebook.com/SmarterTogetherProject">
-            <i class="icon icon--social-facebook"></i>
-          </a>
-        </li>
-        <li class="social-links__item">
-          <a target="_blank" href="https://twitter.com/SmarterH2020">
-            <i class="icon icon--social-twitter"></i>
-          </a>
-        </li>
-        {% comment %}
-        <li class="social-links__item">
-          <a target="_blank" href="#">
-            <i class="icon icon--social-linkedin"></i>
-          </a>
-        </li>
-        <li class="social-links__item">
-          <a target="_blank" href="#">
-            <i class="icon icon--social-youtube"></i>
-          </a>
-        </li>
-        {% endcomment %}
-      </ul>
-      <ul class="nav navbar-nav navbar-right">
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-            The project
-          </a>
-          <ul class="dropdown-menu">
-            <li><a href="{{ site.baseurl }}objectives">Objectives</a></li>
-            <li><a href="{{ site.baseurl }}partners">Partners</a></li>
-          </ul>
-        </li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-            Cities
-          </a>
-          <ul class="dropdown-menu">
-            <li class="dropdown dropdown-submenu">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Lighthouse cities</a>
-              <ul class="dropdown-menu">
-                <li><a href="{{ site.baseurl }}cities/vienna">Vienna</a></li>
-                <li><a href="{{ site.baseurl }}cities/munich">Munich</a></li>
-                <li><a href="{{ site.baseurl }}cities/lyon">Lyon</a></li>
-              </ul>
-            </li>
-            <li class="dropdown dropdown-submenu">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Follower cities</a>
-              <ul class="dropdown-menu">
-                <li><a href="{{ site.baseurl }}cities/santiago-de-compostela">Santiago de Compostela</a></li>
-                <li><a href="{{ site.baseurl }}cities/venice">Venice</a></li>
-                <li><a href="{{ site.baseurl }}cities/sofia">Sofia</a></li>
-              </ul>
-            </li>
-            <li class="dropdown dropdown-submenu">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Observer cities</a>
-              <ul class="dropdown-menu">
-                <li><a href="{{ site.baseurl }}cities/kiev">Kiev</a></li>
-                <li><a href="{{ site.baseurl }}cities/yokohama">Yokohama</a></li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-            Solutions
-          </a>
-          <ul class="dropdown-menu">
-            <li><a href="{{ site.baseurl }}solutions/citizen-engagement">Citizen engagement</a></li>
-            <li><a href="{{ site.baseurl }}solutions/district-heating-and-renewables">District heating and renewables</a></li>
-            <li><a href="{{ site.baseurl }}solutions/holistic-refurbishment">Holistic refurbishment</a></li>
-            <li><a href="{{ site.baseurl }}solutions/smart-data">Smart data</a></li>
-            <li><a href="{{ site.baseurl }}solutions/e-mobility">E-mobility</a></li>
-          </ul>
-        </li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-            Results
-          </a>
-          <ul class="dropdown-menu">
-            <li><a href="{{ site.baseurl }}results/expected-results">Expected results</a></li>
-            <li><a href="{{ site.baseurl }}results/deliverables">Deliverables</a></li>
-          </ul>
-        </li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-            Club of Cities
-          </a>
-          <ul class="dropdown-menu">
-            <li><a href="{{ site.baseurl }}club-of-cities/about">About the Club</a></li>
-            <li><a href="{{ site.baseurl }}club-of-cities/kickoff">Kick-Off Meeting</a></li>
-          </ul>
-        </li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-            What's new
-          </a>
-          <ul class="dropdown-menu">
-            <li><a href="{{ site.baseurl }}news">News</a></li>
-            <li><a href="{{ site.baseurl }}events">Events</a></li>
-          </ul>
-        </li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-            Contact
-          </a>
-          <ul class="dropdown-menu">
-            <li><a href="{{ site.baseurl }}team">Team</a></li>
-          </ul>
-        </li>
-      </ul>
-    </div><!--/.nav-collapse -->
   </div><!--/.container-fluid -->
 </nav>
