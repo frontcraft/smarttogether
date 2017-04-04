@@ -1,3 +1,9 @@
+---
+layout: post
+date: 2017-04-04T00:00:00.000Z
+imageurl: images/news/big_img_6587.jpg
+---
+
 ![LightMast Locations.jpg]({{site.baseurl}}/images/LightMast Locations.jpg)
 
 ## Technology is the solution – but what is the problem?
@@ -21,8 +27,4 @@ The regularly organised workshops on the development of concrete solutions were 
 ![LampPost Drawing.jpg]({{site.baseurl}}/images/LampPost Drawing.jpg)
 
 
----
-layout: post
-date: 2016-10-11T00:00:00.000Z
-imageurl: images/news/big_img_6587.jpg
----
+
