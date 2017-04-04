@@ -24,11 +24,17 @@
 
     {% if content != "" %}
       {% if page.boximageurl != "" %}
-        <div class="container image-box">
-            <div class="col-xxs-12 col-md-6 img-responsive image-box-img"><img  src="{{ page.imageurl | prepend: site.baseurl }}" alt="">
+        <div class="container image-box text-center">
+          <div class="row">
+            <div class="col-md-6">
+              <div class=" img-responsive image-box__img"><img  src="{{ page.imageurl | prepend: site.baseurl }}" alt="">
+              </div>
             </div>
-            <div class="col-xxs-12 col-md-6 image-box-text">                     <p> <b>Date: </b> {{ page.date }} <br> <b>Location: </b> {{ page.location }} </p>
+            <div class="col-md-6">
+              <div class="image-box__text">                     <p> <b>Date: </b> {{ page.date | date: '%d %B %Y'}} <br> <b>Location: </b> {{ page.location }} </p>
+              </div>
             </div>
+          </div>
         </div>
       {% endif %}
     <div id="content" class="scroll-fix">
