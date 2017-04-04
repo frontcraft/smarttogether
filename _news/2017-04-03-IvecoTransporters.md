@@ -1,8 +1,8 @@
 # Two IVECO E-Transporters for Postal Service in Simmering
 
 ---
-layout: post
-date: 2016-10-11T00:00:00.000Z
+layout: news-page
+date: 2016-10-11
 imageurl: images/news/big_img_6587.jpg
 ---
 
