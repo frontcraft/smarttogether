@@ -4,6 +4,7 @@ title:  "Two IVECO E-Transporters for Postal Service in Simmering"
 date:   2017-04-03
 imageurl: 'images/news/Vienna IVECCO Photo.jpg'
 ---
+
 ### Simmering as a Pilot Area from the Austrian Post Thanks to Smarter Together 
 Environmentally friendly mobility such as the use of e-vehicles like e-cars, e-bikes and e-forklifts play an important role in smart urban renewal initiatives. With the help of Smarter Together a total of around EUR 46 million will be invested in Simmering, with EUR 7 million being EU funds.
 Austrian Post is testing the new Iveco e-transport vehicles for environmentally friendly package delivery in the Simmering project area, it is also installing around 400 post boxes and providing additional 24/7 services such as two pick-up stations.
