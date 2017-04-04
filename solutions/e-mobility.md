@@ -10,7 +10,7 @@ Therefore, our goal is to reduce the use of gas-operated, conventional cars than
 
 SMARTER TOGETHER will provide sustainable e-mobility solutions co-created with local citizen and dedicated to the end-user needs. They will include:
 
-*   **E-mobility solutions for citizens**, ranging from e-car-sharing powered with renewable energy sources to e-bike-sharing, all of which will be implemented with their respective charging infrastructures
-*   **E-mobility solutions for companies**, including e-forklifts deployed in factories and warehouses, e-vans for parcel distribution and cargo-bike-sharing for last mile goods distribution
-*   **Mobility points** integrating various means of transportation into multi-modal hubs, linking the new e-mobility solutions with the public transportation system and offering new services to citizens, such as shared reception boxes for parcel distribution
-*   **ICT solutions** based on mobility data, such as optimized e-charging parking lots, car-pooling management tool and real-time mobility apps. 
+* **E-mobility solutions for citizens**, ranging from e-car-sharing powered with renewable energy sources to e-bike-sharing, all of which will be implemented with their respective charging infrastructures
+* **E-mobility solutions for companies**, including e-forklifts deployed in factories and warehouses, e-vans for parcel distribution and cargo-bike-sharing for last mile goods distribution
+* **Mobility points** integrating various means of transportation into multi-modal hubs, linking the new e-mobility solutions with the public transportation system and offering new services to citizens, such as shared reception boxes for parcel distribution
+* **ICT solutions** based on mobility data, such as optimized e-charging parking lots, car-pooling management tool and real-time mobility apps. 

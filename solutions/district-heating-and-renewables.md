@@ -10,6 +10,6 @@ Our goal is to drastically reduce greenhouse gas emission related to energy supp
 
 The three lighthouse cities have a similar approach to maximize the use of local energy resources, including renewable heat and power. The demonstration activities include:
 
-*   **New generation district heating systems with connected heat substations**, partially powered with renewable heat produced by photovoltaic systems, geothermal energy, wood-fired cogeneration power plant or recovered industrial waste heat
-*   **Smart photovoltaic systems** equipped with power regulation features and micro-storage capacity lowering the impacts onto the local distribution grid
-*   **Battery storage capacity**connected to a virtual power plant to maximize the efficiency of renewable power generation in the demonstration district  
+* **New generation district heating systems with connected heat substations**, partially powered with renewable heat produced by photovoltaic systems, geothermal energy, wood-fired cogeneration power plant or recovered industrial waste heat
+* **Smart photovoltaic systems** equipped with power regulation features and micro-storage capacity lowering the impacts onto the local distribution grid
+* **Battery storage capacity**connected to a virtual power plant to maximize the efficiency of renewable power generation in the demonstration district  

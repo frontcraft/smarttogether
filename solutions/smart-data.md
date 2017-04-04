@@ -14,9 +14,9 @@ The Smart Data Platforms will all use open, standardized and well documented App
 
 The Smart Data Platforms will enable the development of innovative end-user oriented smart city services by:
 
-*   **Increasing the number of datasets available**, and encouraging the development of new services for the different user groups such as real-time mobility application
-*   **Stimulating a proper understanding of how infrastructure is used** in different domains, of existing interdependencies between different elements of infrastructure and of the effects of external drivers such as public policy, major events and weather patterns
-*   **Generating an ecosystem of development partners**, strengthening network effects and encouraging the participation and engagement of citizens.
+* **Increasing the number of datasets available**, and encouraging the development of new services for the different user groups such as real-time mobility application
+* **Stimulating a proper understanding of how infrastructure is used** in different domains, of existing interdependencies between different elements of infrastructure and of the effects of external drivers such as public policy, major events and weather patterns
+* **Generating an ecosystem of development partners**, strengthening network effects and encouraging the participation and engagement of citizens.
 
 The data platforms deployed in SMARTER TOGETHER are controlled by local public bodies and there will be no commercial use of personal data. The collected data will be used for the purposes of the project only.
 
