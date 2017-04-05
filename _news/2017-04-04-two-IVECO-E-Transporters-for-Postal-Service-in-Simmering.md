@@ -1,12 +1,10 @@
 ---
 layout: news-page
-title:  "Two IVECO E-Transporters for Postal Service in Simmering"
+title:  "Two IVECO E-Transporters for The Postal Service in Simmering"
 date: 2017-04-04
 imageurl: images/news/Vienna IVECCO Photo.jpg
 boximageurl: 'images/news/Vienna IVECCO Photo.jpg'
 ---
-
-Post and Parcel Delivery in Simmering Now CO2-free and Low Noise
 
 <div class="multiline">
 <h2><span class="ornament-news">Simmering as a Pilot Area</span></h2>
