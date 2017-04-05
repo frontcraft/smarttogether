@@ -10,7 +10,7 @@ imageurl: images/news/Munich Lamp Post 2_web.jpg
 <h2><span class="ornament-news">– but what is the problem?</span></h2>
 </div>
 
-![LampPost Drawing.jpg]({{site.baseurl}}images/news/Munich Lamp Post 2_web.jpg)
+![Munich Lamp Post 2_web.jpg]({{site.baseurl}}images/news/Munich Lamp Post 2_web.jpg)
 
 ### The recommendation of citizens for smart lighting masts in the district
 
