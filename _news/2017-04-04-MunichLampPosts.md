@@ -13,6 +13,8 @@ imageurl: images/news/Munich Lamp Post 2_web.jpg
 
 ### The recommendation of citizens for smart lighting masts in the district
 
+![Lamp-post.jpg]({{site.baseurl}}images/news/Munich Lamp Post 2_web.jpg)
+
 In March, the Munich Technical University handed over the recommendations from the Smarter Together co-creation process ‘Technology’ to the City of Munich. For several weeks, committed citizens and the responsible IT strategists of the city of Munich discussed the technological equipment of the planned intelligent lamp posts in their neighborhoods. The design collective Neuaubing-Westkreuz then developed concrete recommendations for the functional requirements of the lamp posts. The requirements define, among other things, which services the new intelligent lamp posts should enable, for which target group and in what form (for example as an app), to create value for the district. The recommendations will be incorporated into the technical equipment of the lamp posts and the relevant public procurement competition for the solutions.
 
 The co-creation process is an intensive form of citizen participation which offers residents the possibility to integrate their ideas and concerns into the concept and design of the planned infrastructure, and in this way influence results.
