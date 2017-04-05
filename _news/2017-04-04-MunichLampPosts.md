@@ -1,6 +1,6 @@
 ---
 layout: news-page
-title:  "Smart Lamp Posts a Result of Citizen Engagement in Munich"
+title:  "Intelligent Lamp Posts a Result of Citizen Engagement in Munich"
 date: 2017-04-04
 imageurl: images/news/big_img_6587.jpg
 boximageurl: 'images/news/LightMast Locations.jpg'
