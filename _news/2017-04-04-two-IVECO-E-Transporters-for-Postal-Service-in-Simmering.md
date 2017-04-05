@@ -33,4 +33,4 @@ The first IVECO Daily Electric vehicles in Austria are now in use at Österreich
 
 Around 21,000 district residents benefit from Smarter Together, which is implemented with the close involvement and participation of the population.
 
-For the original article written in German, please [click here](http://www.smartertogether.at/post_2_iveco_e-transporter/){:target="_blank"}
+For more photos and the original article written in German, please [click here.](http://www.smartertogether.at/post_2_iveco_e-transporter/){:target="_blank"}
