@@ -2,14 +2,16 @@
 layout: news-page
 title:  "Intelligent Lamp Posts a Result of Citizen Engagement in Munich"
 date: 2017-04-04
-imageurl: images/news/big_img_6587.jpg
-boximageurl: 'images/news/LightMast Locations.jpg'
+imageurl: images/news/Munich Lamp Post 2_web.jpg
 ---
 
 <div class="multiline">
 <h2><span class="ornament-news">Technology is the solution</span></h2>
 <h2><span class="ornament-news">– but what is the problem?</span></h2>
 </div>
+
+![LampPost Drawing.jpg]({{site.baseurl}}images/news/LampPost Drawing.jpg)
+
 ### The recommendation of citizens for smart lighting masts in the district
 
 In March, the Munich Technical University handed over the recommendations from the Smarter Together co-creation process ‘Technology’ to the City of Munich. For several weeks, committed citizens and the responsible IT strategists of the city of Munich discussed the technological equipment of the planned intelligent lamp posts in their neighborhoods. The design collective Neuaubing-Westkreuz then developed concrete recommendations for the functional requirements of the lamp posts. The requirements define, among other things, which services the new intelligent lamp posts should enable, for which target group and in what form (for example as an app), to create value for the district. The recommendations will be incorporated into the technical equipment of the lamp posts and the relevant public procurement competition for the solutions.
@@ -40,11 +42,5 @@ In the ‘Little Lab Workshop’, young people shared the assessment that the se
 
 The regularly organised workshops on the development of concrete solutions were held at the Stadtteillabor in Neuaubing-Westkreuz, which is operated by the Renovation Agency of the City of Munich (MGS) for the project. The Munich Center for Technology in Society of the Technical University of Munich organised this workshop series.
 
-<<<<<<< HEAD
-![LampPost Drawing.jpg]({{site.baseurl}}images/news/LampPost Drawing.jpg)
-=======
 ![LampPost Drawing.jpg]({{site.baseurl}}images/news/Munich Lamp Post 1_web.jpg)
 
-
-
->>>>>>> 1f929f00880fa2454cc646080de2a4901b14b0ab
