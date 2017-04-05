@@ -1,6 +1,6 @@
 ---
 layout: news-page
-title:  "The Council of Santiago de Compostela is Working on Smarter Together"
+title:  "The Implementation of Smarter Together in Santiago de Compostela"
 date: 2017-04-03
 imageurl: images/news/big_img_6587.jpg
 ---
