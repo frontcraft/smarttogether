@@ -7,8 +7,9 @@ boximageurl: 'images/news/Vienna IVECCO Photo.jpg'
 ---
 
 <div class="multiline">
-<h2><span class="ornament-news">Simmering as a Pilot Area</span></h2>
-<h2><span class="ornament-news">from the Austrian Post</span></h2>
+<h2><span class="ornament-news">Simmering as</span></h2>
+<h2><span class="ornament-news">a Pilot Area from</span></h2>
+<h2><span class="ornament-news">the Austrian Post</span></h2>
 <h2><span class="ornament-news">Thanks to</span></h2>
 <h2><span class="ornament-news">Smarter Together</span></h2>
 </div>

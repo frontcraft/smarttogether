@@ -7,10 +7,10 @@ boximageurl: 'images/news/LightMast Locations.jpg'
 ---
 
 <div class="multiline">
-<h2><span class="ornament-news">Technology is the solution</span></h2>
-<h2><span class="ornament-news">– but what is the problem?</span></h2>
+<h2><span class="ornament-news">Technology is the</span></h2>
+<h2><span class="ornament-news">solution- but what</span></h2>
+<h2><span class="ornament-news">is the problem?</span></h2>
 </div>
-
 ### The recommendation of citizens for smart lighting masts in the district
 
 In March, the Munich Technical University handed over the recommendations from the Smarter Together co-creation process ‘Technology’ to the City of Munich. For several weeks, committed citizens and the responsible IT strategists of the city of Munich discussed the technological equipment of the planned intelligent lamp posts in their neighborhoods. The design collective Neuaubing-Westkreuz then developed concrete recommendations for the functional requirements of the lamp posts. The requirements define, among other things, which services the new intelligent lamp posts should enable, for which target group and in what form (for example as an app), to create value for the district. The recommendations will be incorporated into the technical equipment of the lamp posts and the relevant public procurement competition for the solutions.
