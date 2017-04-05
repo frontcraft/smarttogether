@@ -3,12 +3,13 @@ layout: news-page
 title:  "MunichLampPosts"
 date: 2017-04-04
 imageurl: images/news/big_img_6587.jpg
+boximageurl: 'images/news/LightMast Locations.jpg'
 ---
 
-![LightMast Locations.jpg]({{site.baseurl}}images/news/LightMast Locations.jpg)
-
-## Technology is the solution – but what is the problem?
-
+<div class="multiline">
+<h2><span class="ornament-news">Technology is the solution</span></h2>
+<h2><span class="ornament-news">– but what is the problem?</span></h2>
+</div>
 ### The recommendation of citizens for smart lighting masts in the district
 
 In March, the Technical University Munich handed over the recommendations from the Smarter Together co-creation process ‘Technology’ to the City of Munich. For several weeks, committed citizens and the responsible IT strategists of the city of Munich discussed the technological equipment of the planned intelligent lamp posts in their neighborhoods. The design collective Neuaubing-Westkreuz then developed concrete recommendations for the functional requirements of the lamp posts. The requirements define, among other things, which services the new intelligent lamp posts should enable, for which target group and in what form (for example as an app), to create value for the district. The recommendations will be incorporated into the technical equipment of the lamp posts and the relevant public procurement competition for the solutions.
@@ -27,7 +28,7 @@ On one hand, traffic flow measurements in combination with adaptive traffic ligh
 
 ### 2. Pollutants and Allergens
 
-Measuring pollutants and fine particles can help identify the effects of speed reduction strategies. In order to link with the existing network of the Department of Health and the Environment more closely, site-specific data on pollen exposure for people with allergies can be recorded. These  recommendations are explicitly made available as a public service rather than a private service. 
+Measuring pollutants and fine particles can help identify the effects of speed reduction strategies. In order to link with the existing network of the Department of Health and the Environment more closely, site-specific data on pollen exposure for people with allergies can be recorded. These  recommendations are explicitly made available as a public service rather than a private service.
 
 ### 3. Public Wi-Fi Hotspot
 
@@ -39,9 +40,6 @@ The participants formulated detailed and concrete recommendations for the handli
 
 In the ‘Little Lab Workshop’, young people shared the assessment that the sensors can cause an underlying discomfort and thus adversely affect the well-being or the quality of stay of residents: weariness of sensors that could impose immediate sanctions (ex. automatic tickets for illegal parking) resulted in a critical evaluation. The corresponding recommendation is not to develop services with a primary educational character, but rather to give suggestions for the change of behavior, if at all, via positive reinforcement.
 
-The regularly organised workshops on the development of concrete solutions were held at the Stadtteillabor in Neuaubing-Westkreuz, which is operated by the Renovation Agency of the City of Munich (MGS) for the project. The Munich Center for Technology in Society of the Technical University of Munich organised this workshop series. 
+The regularly organised workshops on the development of concrete solutions were held at the Stadtteillabor in Neuaubing-Westkreuz, which is operated by the Renovation Agency of the City of Munich (MGS) for the project. The Munich Center for Technology in Society of the Technical University of Munich organised this workshop series.
 
 ![LampPost Drawing.jpg]({{site.baseurl}}images/news/LampPost Drawing.jpg)
-
-
-

@@ -25,8 +25,8 @@
     {% if content != "" %}
       {% if page.boximageurl %}
         <div class="container image-box">
-          <div class="limited-width">
-            <img class="img-responsive" src="{{ page.boximageurl | prepend: site.baseurl }}" alt="">
+          <div class="">
+            <img class="img-responsive image-box__img" src="{{ page.boximageurl | prepend: site.baseurl }}" alt="">
           </div>
         </div>
       {% endif %}

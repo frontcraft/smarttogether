@@ -8,8 +8,9 @@ boximageurl: 'images/banner_SmarterTogether-01.png'
 
 <div class="multiline">
 <h2><span class="ornament-news">SMARTER TOGETHER's first</span></h2>
-<h2><span class="ornament-news">General Assembly is taking place on</span></h2>
-<h2><span class="ornament-news">15-17 February 2017 in Munich!</span></h2>
+<h2><span class="ornament-news">General Assembly is taking</span></h2>
+<h2><span class="ornament-news">place on 15-17 February 2017</span></h2>
+<h2><span class="ornament-news">in Munich!</span></h2>
 </div>
 The first SMARTER TOGETHER General Assembly is taking place in Munich, from 15th to 17th of February, 2017 and will take stock of the first year of the programme while looking to the future. SMARTER TOGETHER is dedicated to improving the overall quality of life in urban areas. The programme seeks to use creative means or refurbishment measures in order to explore new ways of adding value to urban life. Through ICT, citizen engagement and institutional governance, SMARTER TOGETHER is delivering smart and inclusive solutions to urban issues.
 

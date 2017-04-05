@@ -3,12 +3,17 @@ layout: news-page
 title:  "Two IVECO E-Transporters for Postal Service in Simmering"
 date: 2017-04-04
 imageurl: images/news/Vienna IVECCO Photo.jpg
+boximageurl: 'images/news/Vienna IVECCO Photo.jpg'
 ---
 
-## ![E-Vans.jpg]({{site.baseurl}}images/news/Vienna IVECCO Photo.jpg)
 Post and Parcel Delivery in Simmering Now CO2-free and Low Noise
 
-### Simmering as a Pilot Area from the Austrian Post Thanks to Smarter Together 
+<div class="multiline">
+<h2><span class="ornament-news">Simmering as a Pilot Area</span></h2>
+<h2><span class="ornament-news">from the Austrian Post</span></h2>
+<h2><span class="ornament-news">Thanks to</span></h2>
+<h2><span class="ornament-news">Smarter Together</span></h2>
+</div>
 
 Environmentally friendly mobility such as the use of e-vehicles like e-cars, e-bikes and e-forklifts play an important role in smart urban renewal initiatives. With the help of Smarter Together a total of around EUR 46 million will be invested in Simmering, with EUR 7 million being EU funds.
 
@@ -24,6 +29,6 @@ Peter Umundum, executive in charge of Parcels & Logistics said: ‘The Austrian 
 
 #### IVECO - Daily Electric Vehicles
 
-The first IVECO Daily Electric vehicles in Austria are now in use at Österreichische Post, and have a capacity of 60 kW with a maximum speed of 80 km/h, the vehicles are used for inner city delivery in Vienna. The environmentally sustainable impact of the vehicles is ensured through a zero emission of an all-electric operation, batteries which can be recycled to 100%, and an audible pedestrian warning system. The low-noise operation also enables night-time deliveries in urban areas. The vehicles are suitable for a loading capacity of 10.8 m³ and a range of 65 km and are ideal for deliveries in urban areas. 
+The first IVECO Daily Electric vehicles in Austria are now in use at Österreichische Post, and have a capacity of 60 kW with a maximum speed of 80 km/h, the vehicles are used for inner city delivery in Vienna. The environmentally sustainable impact of the vehicles is ensured through a zero emission of an all-electric operation, batteries which can be recycled to 100%, and an audible pedestrian warning system. The low-noise operation also enables night-time deliveries in urban areas. The vehicles are suitable for a loading capacity of 10.8 m³ and a range of 65 km and are ideal for deliveries in urban areas.
 
 Around 21,000 district residents benefit from Smarter Together, which is implemented with the close involvement and participation of the population.
