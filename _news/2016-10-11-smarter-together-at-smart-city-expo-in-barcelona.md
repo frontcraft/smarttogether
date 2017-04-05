@@ -1,7 +1,7 @@
 ---
 layout: news-page
-title:  "SMARTER TOGETHER, SCIS and EERA with a joint stand at the Smart City Expo World Congress in Barcelona"
-date:   2016-10-11
+title: "SMARTER TOGETHER, SCIS and EERA with a joint stand at the Smart City Expo World Congress in Barcelona"
+date: 2016-10-11
 imageurl: 'images/news/big_img_6587.jpg'
 boximageurl: 'images/banner_SmarterTogether-01.png'
 ---
