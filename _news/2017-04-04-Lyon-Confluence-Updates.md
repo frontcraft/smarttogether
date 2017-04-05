@@ -4,6 +4,9 @@ title:  "Lyon Confluence Updates"
 date: 2017-04-04
 imageurl: images/news/Lyon-News.jpg
 ---
+
+![Lyon-engagement.jpg]({{site.baseurl}}images/news/Lyon-News.jpg)
+
 <div class="multiline">
  <h2><span class="ornament-news">District Heating System</span></h2>
 </div>
@@ -45,3 +48,9 @@ Data will be used for five objectives:
  <h2><span class="ornament-news">Citizen engagement</span></h2>
 </div>
 A club of users has been created to first test an application ‘ElectrYc’ made by Enedis, allowing users to see in real time the electric consumption and production of the neighbourhood. Activities are organised on a monthly basis to involve these inhabitants in better managing their energy consumption are planned in the coming months: visit of energy infrastructure, games, and exchanges. The Lyon Local Energy Agency, the SPL Lyon Confluence and the Lyon Metropolis are also involved in the program.
+
+Content © SPL Lyon Confluence
+
+![Lamp-post.jpg]({{site.baseurl}}images/news/LC_011416MD.jpg)
+![Lamp-post.jpg]({{site.baseurl}}images/news/Munich Lamp Post 2_web.jpg)
+![Lamp-post.jpg]({{site.baseurl}}images/news/Munich Lamp Post 2_web.jpg)
