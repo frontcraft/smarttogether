@@ -1,11 +1,11 @@
 ---
 layout: news-page
-title:  "Lyon Confluence Updates"
+title:  "Smarter Together Implementation in Action - Lyon Confluence"
 date: 2017-04-04
 imageurl: images/news/Lyon-News.jpg
 ---
 
-![Lyon-engagement.jpg]({{site.baseurl}}images/news/Lyon-News.jpg)
+![Lyon-engagement.jpg]({{site.baseurl}}images/news/Lyon_Citizen_Web.jpg)
 
 <div class="multiline">
  <h2><span class="ornament-news">District Heating System</span></h2>
@@ -51,6 +51,8 @@ A club of users has been created to first test an application ‘ElectrYc’ mad
 
 Content © SPL Lyon Confluence
 
-![Lamp-post.jpg]({{site.baseurl}}images/news/LC_011416MD.jpg)
-![Lamp-post.jpg]({{site.baseurl}}images/news/Munich Lamp Post 2_web.jpg)
-![Lamp-post.jpg]({{site.baseurl}}images/news/Munich Lamp Post 2_web.jpg)
+![Lamp-post.jpg]({{site.baseurl}}images/news/Lyon Updates 1_Web.jpg)
+
+![Lamp-post.jpg]({{site.baseurl}}images/news/Lyon Updates 2_Web.jpg)
+
+![Lamp-post.jpg]({{site.baseurl}}images/news/Lyon Updates 3_Web.jpg)
