@@ -6,7 +6,7 @@ imageurl: images/news/Vienna IVECCO Photo.jpg
 ---
 
 ## ![E-Vans.jpg]({{site.baseurl}}images/news/Vienna IVECCO Photo.jpg)
-Post and Parcel Delivery in Simmering Now CO2-free and Low Noise
+Post and Parcel Delivery in Simmering is Now CO2-free and Low Noise
 
 ### Simmering as a Pilot Area from the Austrian Post Thanks to Smarter Together 
 
