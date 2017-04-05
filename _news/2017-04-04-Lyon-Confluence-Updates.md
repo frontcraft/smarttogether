@@ -51,8 +51,8 @@ A club of users has been created to first test an application ‘ElectrYc’ mad
 
 Content © SPL Lyon Confluence
 
-![Lamp-post.jpg]({{site.baseurl}}images/news/Lyon Updates 1_Web.jpg)
+![Lyon April 1.jpg]({{site.baseurl}}images/news/Lyon Updates 1_Web.jpg)
 
-![Lamp-post.jpg]({{site.baseurl}}images/news/Lyon Updates 2_Web.jpg)
+![Lyon April 2.jpg]({{site.baseurl}}images/news/Lyon Updates 2_Web.jpg)
 
-![Lamp-post.jpg]({{site.baseurl}}images/news/Lyon Updates 3_Web.jpg)
+![Lyon April 3.jpg]({{site.baseurl}}images/news/Lyon Updates 3_Web.jpg)
