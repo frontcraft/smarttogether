@@ -1,7 +1,7 @@
 ---
 layout: news-page
-title:  "Save the date for the SCIS conference 'Empowering smart solutions for better cities'!"
-date:   2017-02-24
+title: "Save the date for the SCIS conference 'Empowering smart solutions for better cities'!"
+date: 2017-02-24
 imageurl: 'images/news/cis_is_funded_by_the_european_union.png'
 ---
 The conference '**Empowering smart solutions for better cities**', organised by the Smart Cities Information System, will take place on **2 and 3 October 2017 in Budapest, Hungary**. A mix of classic sessions and interactive methods, this event will bring  together key stakeholders from cities and regions, smart cities & energy efficiency projects, industry, business, European Commission and smart cities initiatives.

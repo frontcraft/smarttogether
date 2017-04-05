@@ -1,7 +1,7 @@
 ---
 layout: news-page
-title:  "EUSEW 2017 calls are open!"
-date:   2017-01-31
+title: "EUSEW 2017 calls are open!"
+date: 2017-01-31
 imageurl: 'images/news/untitled_3.png'
 ---
 The call has been launched for sessions for the 12th edition of the [EU Sustainable Energy Week Policy Conference (EUSEW 2017)](http://www.eusew.eu/about-conference), to be held in Brussels from 20 to 22 June. Organisers are looking for outstanding proposals for dynamic sessions that inspire new ways to promote energy efficiency and renewables. This year’s theme is Clean Energy for All Europeans, inspired by the European Commission’s [package of proposals](http://ec.europa.eu/energy/en/news/commission-proposes-new-rules-consumer-centred-clean-energy-transition){:target="_blank"} to put consumers and growth at the heart of the sustainable energy transition.

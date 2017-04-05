@@ -1,7 +1,7 @@
 ---
 layout: news-page
-title:  "Progress and Collaboration at the First Smarter Together General Assembly in Munich"
-date:   2017-03-16
+title: "Progress and Collaboration at the First Smarter Together General Assembly in Munich"
+date: 2017-03-16
 imageurl: 'images/news/Jahreskonferenz-Credit-Landeshauptstadt-München-Foto-Tobias-Hase-2017_02_16stm1429_web-1500x630.jpg'
 ---
 The 2017 General Assembly for the EU project Smarter Together was held in Munich in February. Around 100 participants – including politicians and administrative professionals from the three European lighthouse cities Vienna, Lyon and Munich, the follower cities Santiago de Compostela, Sofia and Venice, and the observer cities Kiev and Yokohama – convened in the Bavarian capital from February 15-17. Smart city scientists and experts who are serving as an advisory board to the project likewise took part in the dialogue. Also in attendance were some 30 partner organizations from ten countries, all of whom have, for the past year, been working together to develop smart, innovative solutions for the city of the future.

@@ -1,7 +1,7 @@
 ---
 layout: news-page
-title:  "Green Digital Charter publishes case studies developed by GDC signatory cities in the fields of buildings, energy, transport and e-participation"
-date:   2017-01-30
+title: "Green Digital Charter publishes case studies developed by GDC signatory cities in the fields of buildings, energy, transport and e-participation"
+date: 2017-01-30
 imageurl: 'images/news/picture1.png'
 ---
 [Green Digital Charter](http://www.greendigitalcharter.eu/){:target="_blank"} published a catalogue with case studies and projects at the inception phase prepared by the GDC signatories within the framework of their ICT for energy efficiency-related commitments. The case studies are implemented actions associated with green digital development, while the project’ include planned actions in key policy domains.
