@@ -31,3 +31,5 @@ Peter Umundum, executive in charge of Parcels & Logistics said: ‘The Austrian 
 The first IVECO Daily Electric vehicles in Austria are now in use at Österreichische Post, and have a capacity of 60 kW with a maximum speed of 80 km/h, the vehicles are used for inner city delivery in Vienna. The environmentally sustainable impact of the vehicles is ensured through a zero emission of an all-electric operation, batteries which can be recycled to 100%, and an audible pedestrian warning system. The low-noise operation also enables night-time deliveries in urban areas. The vehicles are suitable for a loading capacity of 10.8 m³ and a range of 65 km and are ideal for deliveries in urban areas.
 
 Around 21,000 district residents benefit from Smarter Together, which is implemented with the close involvement and participation of the population.
+
+For the original article written in German, please [click here](http://www.smartertogether.at/post_2_iveco_e-transporter/){:target="_blank"}
