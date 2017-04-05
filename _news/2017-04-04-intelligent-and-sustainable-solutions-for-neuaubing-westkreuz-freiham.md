@@ -1,6 +1,6 @@
 ---
 layout: news-page
-title:  "Intelligent and Sustainable Solutions for Neuaubing-Westkreuz/Freiham"
+title: "Intelligent and Sustainable Solutions for Neuaubing-Westkreuz/Freiham"
 date: 2017-04-04
 imageurl: images/news/Munich Citizen Engagement Photo.jpg
 ---

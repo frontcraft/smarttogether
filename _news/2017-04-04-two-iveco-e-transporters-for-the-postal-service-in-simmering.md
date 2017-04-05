@@ -1,6 +1,6 @@
 ---
 layout: news-page
-title:  "Two IVECO E-Transporters for The Postal Service in Simmering"
+title: "Two IVECO E-Transporters for The Postal Service in Simmering"
 date: 2017-04-04
 imageurl: images/news/Vienna IVECCO Photo.jpg
 ---

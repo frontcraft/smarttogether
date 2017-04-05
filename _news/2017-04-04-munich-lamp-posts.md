@@ -1,6 +1,6 @@
 ---
 layout: news-page
-title:  "Smart Lamp Posts are a Result of Citizen Engagement in Munich"
+title: "Smart Lamp Posts are a Result of Citizen Engagement in Munich"
 date: 2017-04-04
 imageurl: images/news/Munich Lamp Post 2_web.jpg
 ---

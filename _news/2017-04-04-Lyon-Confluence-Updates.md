@@ -1,6 +1,6 @@
 ---
 layout: news-page
-title:  "Smarter Together Implementation in Action - Lyon Confluence"
+title: "Smarter Together Implementation in Action - Lyon Confluence"
 date: 2017-04-04
 imageurl: images/news/Lyon-News.jpg
 ---
