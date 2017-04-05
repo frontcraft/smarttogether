@@ -24,3 +24,5 @@ Compostela is a partner of Smarter Together as a ‘follower’ city, along with
 </div>
 
 As a follower city, technical representatives or politicians from the Santiago City Council are scheduled to participate in the Smarter Together organised meetings. The next meetings will be held in Venice on May 3-4, and in Sofia, from June 7-9. Another workshop is scheduled to be held in Lyon in July, and in October a meeting will be held in Santiago to bring together project partners and create a platform for communication and exchange of experiences.
+
+For more photos and the original article written in Galician, please [click here.](http://santiagodecompostela.gal/hoxe/nova.php?id_nova=15715&lg=gal){:target="_blank"}
