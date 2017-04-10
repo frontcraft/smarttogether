@@ -1,20 +1,19 @@
 ---
 layout: news-page
-title: "EU’s 9 Lighthouse Projects Pledge Closer Cooperation "
+title: "Smarter Together Joins Fellow Lighthouse Projects to Pledge Closer Cooperation"
 date: 2017-04-10
 imageurl: images/news/Signed Manifesto Group Photo.jpg
 ---
 
 <div class="multiline">
-<h2><span class="ornament-news">EU’s 9 Lighthouse Projects</span></h2>
-<h2><span class="ornament-news">Pledge Closer Cooperation in their Efforts</span></h2>
-<h2><span class="ornament-news">Towards Low Carbon and</span></h2>
-<h2><span class="ornament-news">Resource Efficient Urban Spaces</span></h2>
+<h2><span class="ornament-news">Smarter Together Joins</span></h2>
+<h2><span class="ornament-news">Fellow Lighthouse Projects</span></h2>
+<h2><span class="ornament-news">to Pledge Closer Cooperation</span></h2>
 </div>
 
 ![Signed-Manifesto-Group.jpg]({{site.baseurl}}images/news/Signed Manifesto Group Photo.jpg)
 
-#### Smarter Together Signs Cooperation Manifesto in Nottingham
+#### Smarter Together Signs Cooperation Manifesto in Nottingham to Pledge Closer Cooperation Towards Low Carbon and Resource Efficient Urban Spaces.
 
 In their efforts to deliver and replicate Smart City solutions, the EU’s nine Lighthouse projects formally signed a Cooperation Manifesto in Nottingham (UK) on 23 March. Smarter Together is one of the 9 projects involved in the initiative, representing the Lighthouse cities of Lyon, Vienna, and Munich; the Follower cities of Santiago de Compostela, Venice, and Sofia; and Observer cities of Yokohama and Kiev.
 
