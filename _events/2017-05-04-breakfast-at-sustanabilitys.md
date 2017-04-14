@@ -2,7 +2,7 @@
 layout: events-page
 title:  "Breakfast at Sustainability's"
 date: 2017-05-04
-imageurl: "images/events/4 May Breakfast at Sustainabilitys_Web.jpg"
+imageurl: "images/events/4 May Breakfast at Sustainabilitys_Web2.jpg"
 bckimageurl: 'images/events/default-background.jpg'
 location: "Brussels, Belgium"
 ---
