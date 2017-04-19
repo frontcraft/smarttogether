@@ -32,7 +32,3 @@ evignali@lyon-confluence.fr
 Veronica Cerna  
 GOPA Com.  
 veronika.cerna@gopacom.eu
-
-Yana Pargova  
-GOPA Com.  
-yana.pargova@gopacom.eu
