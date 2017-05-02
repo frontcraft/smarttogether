@@ -1,7 +1,7 @@
 ---
 layout: news-page
 title: "Commencing Refurbishment of Hauffgasse 37-47 in Vienna"
-date: 2017-05-02
+date: 2017-04-20
 imageurl: images/news/Hauffgasse Refurb Commencement 1 web.jpg
 ---
 
