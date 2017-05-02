@@ -1,6 +1,6 @@
 ---
 layout: news-page
-title: "Smart Walk Through in Vienna"
+title: "A Smart Walk-Through in Vienna"
 date: 2017-04-26
 imageurl: images/news/Smart Walk Through Vienna 1 Web.jpg
 ---
