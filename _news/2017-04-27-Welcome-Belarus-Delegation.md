@@ -1,7 +1,7 @@
 ---
 layout: news-page
 title: "Vienna Welcomes a Delegation from Brest, Belarus"
-date: 2017-04-26
+date: 2017-04-27
 imageurl: images/news/Belarus Delegation Web.jpg
 ---
 
