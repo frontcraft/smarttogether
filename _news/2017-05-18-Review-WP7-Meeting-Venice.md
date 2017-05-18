@@ -2,7 +2,7 @@
 layout: news-page
 title: "Participation and Partnership in Venice"
 date: 2017-05-18
-imageurl: images/news/Venice4_web.jpg
+imageurl: images/news/Venice3_web.jpg
 ---
 
 <div class="multiline">
