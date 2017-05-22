@@ -18,6 +18,8 @@ After the cities’ presentations, a discussion was held on the future goals, st
 
 Stay tuned for more details on the next Club of Cities meeting date, taking place later this year.
 
+For more information about the Club of Cities and how to join, please [click here.](http://smarter-together.eu/club-of-cities/about/){:target="_blank"}
+
 ![CoC1.jpg]({{site.baseurl}}images/news/flor_CoC2_web.jpg)
 
 ![CoC2.jpg]({{site.baseurl}}images/news/flor_CoCV_web.jpg)
