@@ -1,6 +1,6 @@
 ---
 layout: events-page
-title:  "GDC Gamification Webinar"
+title:  "GDC Webinar: Gamification, a driver for behaviour change in sustainable cities?"
 date: 2017-06-07
 imageurl: 'images/events/GDC Webinar_web.jpg'
 bckimageurl: 'images/events/default-background.jpg'
