@@ -2,7 +2,7 @@
 layout: events-page
 title:  "GDC Gamification Webinar"
 date: 2017-06-07
-imageurl: 'smarttogether/images/events/GDC Webinar.jpg'
+imageurl: 'images/events/GDC Webinar.jpg'
 bckimageurl: 'images/events/default-background.jpg'
 location: "Online"
 ---
