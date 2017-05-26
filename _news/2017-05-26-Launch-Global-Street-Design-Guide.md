@@ -20,7 +20,7 @@ The Guide builds on NACTO’s successful Urban Street Design Guide, Urban Bikewa
 
 To read the full press release and download a copy of the Global Street Design Guide, please [click here.](https://globaldesigningcities.org/press-packet/worldwide-launch-global-street-design-guide/){:target="_blank"}
 
-Below are a few examples of visualizations from the Global Street Design Guide:
+Below are a few examples of visualizations from the Global Street Design Guide, the first being a before and after comparison of a street in Addid Ababa, and the second a rendering of street transformation according to the guide:
 
 ![Addis Ababa.jpg]({{site.baseurl}}images/news/Addis_Ababa_Before_After_web.jpg)
 ![Sample Rendering.jpg]({{site.baseurl}}images/news/Before and After 1_RGB_web.jpg)
