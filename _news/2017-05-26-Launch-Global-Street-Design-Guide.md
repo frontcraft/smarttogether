@@ -2,7 +2,7 @@
 layout: news-page
 title: "Worldwide Launch of the Global Street Design Guide"
 date: 2017-05-26
-imageurl: images/news/gdci-cover-960x1237.png
+imageurl: images/news/Global_Street_Design_Guide_Cover_web.jpg
 ---
 
 <div class="multiline">
