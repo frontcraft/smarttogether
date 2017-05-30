@@ -24,7 +24,7 @@ In a session entitled 'Particulate Matter & Co', participants explored the issue
 
 The BarCamp was organized by the City of Munich in collaboration with the city's Adult Education Centre. Judging by the volume of positive feedback, the event was a resounding success.
 
-For the findings published (in German) [click here.](https://zumpad.zum.de/p/mucgov17){:target="_blank"} More information about the BarCamp (also in German) is posted on the [City of Munich's IT blog.](www.it-muenchen-blog.de){:target="_blank"}
+For the findings published (in German) [click here.](https://zumpad.zum.de/p/mucgov17){:target="_blank"} More information about the BarCamp (also in German) is posted on the [City of Munich's IT blog.](https://www.it-muenchen-blog.de/index.php/ideen-fuer-die-digitale-verwaltung-auf-dem-barcamp-mucgov17/){:target="_blank"}
 
 ![barcamp photo.jpg]({{site.baseurl}}images/news/barcamp-VorstellungST_Copyright Philipp von Derschau WEB.jpg)
 Photo Copyright Philipp von Derschau
