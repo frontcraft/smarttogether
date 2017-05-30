@@ -2,7 +2,7 @@
 layout: news-page
 title: "Smart Cities Days & Smart City Vienna Forum"
 date: 2017-05-30
-imageurl: images/news/Smart City Days 1.jpg
+imageurl: images/news/Smart City Days 2.jpg
 ---
 
 <div class="multiline">
