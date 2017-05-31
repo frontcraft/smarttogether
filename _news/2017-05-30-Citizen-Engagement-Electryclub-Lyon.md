@@ -18,7 +18,7 @@ Click below to view a video introducing Electryclub:
 
 [![Alt text]({{site.baseurl}}images/news/Electryclub Screenshot_web.png)](https://vimeo.com/216026414)
 
-The last meeting of the ElectrYclub was on 11 May. If you live in Lyon and are interested in participation, or just want to learn more, please [click here.](http://www.lyon-confluence.fr/en/news/electryc.html){:target="_blank"}
+The last meeting of the ElectrYclub was on 11 May. If you live in Lyon and are interested in participating, or just want to learn more, please [click here.](http://www.lyon-confluence.fr/en/news/electryc.html){:target="_blank"}
 
 ![Citizen Engagement 1.jpg]({{site.baseurl}}images/news/Lyon Citizen Engagement 1.jpg)
 
