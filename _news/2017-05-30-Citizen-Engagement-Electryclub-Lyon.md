@@ -10,7 +10,7 @@ imageurl: images/news/Lyon Citizen Engagement 7.jpg
 <h2><span class="ornament-news">and the ElectRyclub in Lyon</span></h2>
 </div>
 
-A club of users has been created to first test an application ‘ElectrYc’ made by [Enedis](http://www.enedis.fr/){:target="_blank"}, allowing users to see in real time the electric consumption and production of the neighbourhood. Activities are organised on a monthly basis to involve these inhabitants in better managing their energy consumption are planned in the coming months: visit of energy infrastructure, games, and exchanges. 
+A club of users has been created to first test an application ‘ElectrYc’ made by [Enedis](http://www.enedis.fr/){:target="_blank"}, allowing users to see in real time the electric consumption and production of the neighbourhood. Activities are organised on a monthly basis to involve city citizens in better managing their energy consumption. Planned in the coming months are additional visits of energy infrastructure, games, and exchanges. 
 
 The Lyon Local Energy Agency, the SPL Lyon Confluence and the Lyon Metropolis are also involved in the program.
 
