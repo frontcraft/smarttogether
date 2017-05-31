@@ -15,7 +15,7 @@ A club of users has been created to first test an application ‘ElectrYc’ mad
 The Lyon Local Energy Agency, the SPL Lyon Confluence and the Lyon Metropolis are also involved in the program.
 
 Click below to view a video introducing Electryclub:
-[![Alt text](images/news/Electryclub Screenshot_web.png)](https://vimeo.com/216026414)
+[![Alt text](https://img.vimeo.com/vi/216026414/0.jpg)](https://vimeo.com/216026414)
 
 The last meeting of the ElectrYclub was on 11 May. If you live in Lyon and are interested in participation, or just want to learn more, please [click here.](http://www.lyon-confluence.fr/en/news/electryc.html){:target="_blank"}
 
