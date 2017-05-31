@@ -1,6 +1,6 @@
 ---
 layout: news-page
-title: "Engaging Citizens - the ElectYclub in Lyon"
+title: "Engaging Citizens - the ElectrYclub in Lyon"
 date: 2017-05-30
 imageurl: images/news/Lyon Citizen Engagement 7.jpg
 ---
