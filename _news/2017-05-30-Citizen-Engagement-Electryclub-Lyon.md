@@ -2,7 +2,7 @@
 layout: news-page
 title: "Engaging Citizens - the ElectYclub in Lyon"
 date: 2017-05-30
-imageurl: images/news/Lyon Citizen Engagement 8.jpg
+imageurl: images/news/Lyon Citizen Engagement 7.jpg
 ---
 
 <div class="multiline">
@@ -15,6 +15,7 @@ A club of users has been created to first test an application ‘ElectrYc’ mad
 The Lyon Local Energy Agency, the SPL Lyon Confluence and the Lyon Metropolis are also involved in the program.
 
 Click below to view a video introducing Electryclub:
+
 [![Alt text]({{site.baseurl}}images/news/Electryclub Screenshot_web.png)](https://vimeo.com/216026414)
 
 The last meeting of the ElectrYclub was on 11 May. If you live in Lyon and are interested in participation, or just want to learn more, please [click here.](http://www.lyon-confluence.fr/en/news/electryc.html){:target="_blank"}
