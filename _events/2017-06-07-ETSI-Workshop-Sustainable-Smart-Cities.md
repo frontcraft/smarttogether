@@ -14,9 +14,9 @@ The event will include a number of showcases and demonstrations of relevant solu
 The workshop will provide an opportunity to hear from various city representatives who will share their views on how to move beyond trials and pilot project to wider implementations of standards based solutions.
 
 The workshop will also:
--Examine how technology and innovation are enabling today's Smart City deployments.
--Identify the major technology trends, taking into account major industry initiatives.
--Provide a clear overview of the latest developments in the relevant standardization organizations and European initiatives.
--Present the importance of examining the economics and social aspects that are required to enable the evolution towards the Smart City.
+- Examine how technology and innovation are enabling today's Smart City deployments.
+- Identify the major technology trends, taking into account major industry initiatives.
+- Provide a clear overview of the latest developments in the relevant standardization organizations and European initiatives.
+- Present the importance of examining the economics and social aspects that are required to enable the evolution towards the Smart City.
 
 For more information, please visit the workshop web page [here.](http://www.etsi.org/membership/member-rights-and-benefits/10-news-events/events/1175-workshop-making-smart-cities-sustainable){:target="_blank"}
