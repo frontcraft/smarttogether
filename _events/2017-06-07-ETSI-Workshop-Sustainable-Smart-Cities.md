@@ -3,7 +3,7 @@ layout: events-page
 title:  "ETSI Workshop - Making Smart Cities Sustainable"
 date: 2017-06-07
 end-date: 2017-06-08
-imageurl: 'images/events/2017-06-Smart-cities-WS.jpg'
+imageurl: 'images/events/2017-06-Smart-cities-WS-web.jpg'
 bckimageurl: 'images/events/default-background.jpg'
 location: "Bordeaux, France"
 ---
