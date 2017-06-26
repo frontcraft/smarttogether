@@ -16,6 +16,6 @@ Bernhard Klassen, City of Munich project manager for Smarter Together, outlined 
 
 The students also had plenty of ideas and suggestions for the ‘city of tomorrow’. One idea was for a smart local job-mart in specific urban districts, with the benefit that if local firms first publicized vacancies in the immediate vicinity, it could help reduce commuter traffic. Another suggestion was for navigation aids to help tourists find the city's main attractions posted at Smarter Together mobility stations. One thing the students and professors all agreed on: The Smarter Together activities certainly add considerable value for the neighbourhood selected for the project. Following their visit to Munich's Living Lab, the students are now planning a trip to Vienna – another Smarter Together project partner.
 
-To visit the website of the MUAS Department of Tourism (German only) [click here] (http://www.tourismus.hm.edu/aktuelles/news/newsdetail_76672.de.html){:target="_blank"}
+To visit the website of the MUAS Department of Tourism (German only) [click here](http://www.tourismus.hm.edu/aktuelles/news/newsdetail_76672.de.html){:target="_blank"}
 
 ![Students Living Lab.jpg]({{site.baseurl}}images/news/Studierende HS Muenchen im Stadtteillabor_web.jpg)
