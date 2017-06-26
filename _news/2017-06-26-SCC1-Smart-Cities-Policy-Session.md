@@ -2,7 +2,7 @@
 layout: news-page
 title: "Press Release: New Energy: Smart Cities Test New Urban Technologies"
 date: 2017-06-26
-imageurl: images/news/images/news/DSC04715_web.jpg
+imageurl: images/news/DSC04715_web.jpg
 ---
 
 <div class="multiline">
