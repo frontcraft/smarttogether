@@ -16,15 +16,15 @@ Highlights linked to Smarter Together were the presentation of a local [Mobility
 
 To access the full summary of the event in German on the Smarter Together Vienna website, please [click here.](http://www.smartertogether.at/mobilitaet-mit-zukunft-in-wien-und-in-simmering/){:target="_blank"}
 
+![Mobility Wien 5.jpg]({{site.baseurl}}images/news/Mobility Wien 5.jpg)
+
 ![Mobility Wien 1.jpg]({{site.baseurl}}images/news/Mobility Wien 1.jpg)
+
+![Mobility Wien 4.jpg]({{site.baseurl}}images/news/Mobility Wien 4.jpg)
 
 ![Mobility Wien 2.jpg]({{site.baseurl}}images/news/Mobility Wien 2.jpg)
 
 ![Mobility Wien 3.jpg]({{site.baseurl}}images/news/Mobility Wien 3.jpg)
-
-![Mobility Wien 4.jpg]({{site.baseurl}}images/news/Mobility Wien 4.jpg)
-
-![Mobility Wien 5.jpg]({{site.baseurl}}images/news/Mobility Wien 5.jpg)
 
 ![Mobility Wien 6.jpg]({{site.baseurl}}images/news/Mobility Wien 6.jpg)
 Photos copyright and courtesy of Vienna
