@@ -13,7 +13,7 @@ imageurl: images/news/IMG_0371 web.jpg
 Smarter Together participated in the 2017 EU Sustainable Energy week throughout several different sessions and venues for a few days of exchange, learning, and collaboration with projects and professionals across a diverse range of industries and expertise.
 
 On Tuesday 21 June, Smarter Together participated in the SCIS policy session “Sharing smart solutions and experiences: scale-up and replication in European cities,” with two different speakers representing the project. Emmanuel Gastaud from the city of Lyon explained the city’s smart data platform and its potential in replication, while Bojan Schnabl from the city of Vienna discussed the project’s Club of Cities initiative and the importance of knowledge sharing in fostering successful replication of ideas and solutions.
-![EUSEW SCIS 1.jpg]({{site.baseurl}}images/news/IMG_0323 web.jpg) ![EUSEW SCIS 2.jpg]({{site.baseurl}}smarttogether/images/news/IMG_0366 web.jpg) 
+![EUSEW SCIS 1.jpg]({{site.baseurl}}images/news/IMG_0323 web.jpg) ![EUSEW SCIS 2.jpg]({{site.baseurl}}images/news/IMG_0366 web.jpg) 
 
 Also on 21 June, the SCC1 hosted a joint networking stand for all 9 Horizon 2020 Lighthouse projects, sharing information about the collaboration across projects and cities, as well as showcasing the interactive multi-touch screen with a geographic visualization of project locations and information on focus areas and solutions for each participating city.
 ![EUSEW SCC1 Stand 1.jpg]({{site.baseurl}}images/news/IMG_0371 web.jpg) ![EUSEW SCC1 Stand 2.jpg]({{site.baseurl}}images/news/IMG_0374 web.jpg)
