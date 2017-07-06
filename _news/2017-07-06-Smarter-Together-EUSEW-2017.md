@@ -19,7 +19,7 @@ Also on 21 June, the SCC1 hosted a joint networking stand for all 9 Horizon 2020
 ![EUSEW SCC1 Stand 1.jpg]({{site.baseurl}}images/news/IMG_0371 web.jpg)![EUSEW SCC1 Stand 2.jpg]({{site.baseurl}}images/news/IMG_0374 web.jpg)
 
 On Thursday 22 June, Smarter Together organized its own networking stand, providing more detailed project information on the structure and progress of the project as well as the demonstration areas and solutions of Lighthouse cities Lyon, Munich, and Vienna. Visitors could interact, view visualizations of the project areas in poster format, browse the website, read more in brochures and postcards, and even pick up a foldable and recyclable water bottle to use on their next e-mobility trip and remember the Smarter Together project.
-![EUSEW ST Stand 1.jpg]({{site.baseurl}}images/news/IMG_0437 web.jpg)![EUSEW ST Stand 2.jpg]({{site.baseurl}}images/news/Smarter Together Stand 1 web.jpg)
+![EUSEW ST Stand 1.jpg]({{site.baseurl}}images/news/IMG_0437 web.jpg) ![EUSEW ST Stand2.jpg]({{site.baseurl}}images/news/Smarter Together Stand 1 web.jpg)
 
 Finally, in the afternoon of 22 June, the SCC1 projects once again came together for a policy session titled “Lessons from the SCC1 smart city projects on grids, storage, and prosumer models.” Bojan Schnabl represented Smarter Together on the panel, bringing to light the importance of human aspect and citizen engagement while innovating and implementing solutions in the areas of energy and technology.
 ![EUSEW SCC1 Session 1.jpg]({{site.baseurl}}images/news/DSC04715_web 2.jpg)![EUSEW SCC1 Session 2.jpg]({{site.baseurl}}images/news/DSC04718_web 2.jpg)
