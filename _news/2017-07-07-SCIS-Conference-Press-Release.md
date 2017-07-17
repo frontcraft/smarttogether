@@ -1,6 +1,6 @@
 ---
 layout: news-page
-title: "Press Release: EMPOWERING SMART SOLUTIONS FOR BETTER CITIES"
+title: "Press Release: Empowering Smarter Solutions for Better Cities"
 date: 2017-07-07
 imageurl: images/news/Press release_Visual_07.07.2017.png
 ---
