@@ -31,6 +31,6 @@ Moreover, the planning and usage of data was also addressed as a smart city crit
 The Municipality of Sofia and the Sofia Urban Mobility Centre organized also a technical visit to the geothermal power station at the Sofia Regional Museum of History, the traffic Management Centre of Sofia, the parking management system at Sofia Urban Mobility Centre, the interconnection of the two metro lines and a refurbished social housing building for accommodation of vulnerable groups.
 
 *Each city is unique: and we cannot pretend to be like the others. Burgas does not want to be Copenhagen for cycling, nor Shanghai for modal split.* 
-- Ruska Boyadzhieva, Deputy Mayor of Burgas
+-Ruska Boyadzhieva, Deputy Mayor of Burgas
 
 This article and photos are provided courtesy of [Energy Cities](http://www.energy-cities.eu){:target="_blank"}. To access the original article, please [click here.](http://www.energy-cities.eu/Smarter-Together-project-Bringing-together-Bulgarian-cities){:target="_blank"}
