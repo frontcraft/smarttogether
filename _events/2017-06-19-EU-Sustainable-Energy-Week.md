@@ -13,4 +13,4 @@ For more information and to sign up for a session, [click here.](http://www.euse
 
 Join Smarter Together at the following sessions and networking stands:
 
-![EUSEW Sched.jpg]({{site.baseurl}}images/events/Sustainable Energy Week_web.png)
+![EUSEW Sched.jpg](/images/events/Sustainable Energy Week_web.png)

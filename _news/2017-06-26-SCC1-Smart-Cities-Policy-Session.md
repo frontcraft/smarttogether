@@ -28,6 +28,6 @@ All nine smart city projects on show at the European Sustainable Energy Week are
 
 More information can be found at: [www.smartcities-infosystem.eu](http://www.smartcities-infosystem.eu){:target="_blank"}
 
-![SCC1 policy.jpg]({{site.baseurl}}images/news/DSC04715_web.jpg)
+![SCC1 policy.jpg](/images/news/DSC04715_web.jpg)
 
-![SCC1 policy 2.jpg]({{site.baseurl}}images/news/DSC04718_web.jpg)
+![SCC1 policy 2.jpg](/images/news/DSC04718_web.jpg)

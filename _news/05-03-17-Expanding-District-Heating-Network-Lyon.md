@@ -14,7 +14,7 @@ Most of the works for the district heating network in Lyon-Confluence area are f
 
 Additional buildings are expected to be connected to the district heating system in the coming months and years. For the moment, the district heating system runs with a provisional gas-based solution for energy production. The definitive source of production will increase the proportion of biomass in the energy mix. A decision of the Lyon Metropolis regarding the technical solution for the definitive source of energy production for the district heating is expected in the course of 2017.
 
-![District Heating 1.jpg]({{site.baseurl}}images/news/LC_019992MD_web.jpg)
+![District Heating 1.jpg](/images/news/LC_019992MD_web.jpg)
 
-![District Heating 1.jpg]({{site.baseurl}}images/news/LC_019989MD_web.jpg)
+![District Heating 1.jpg](/images/news/LC_019989MD_web.jpg)
 Photo Copyright: SPL Lyon Confluence

@@ -16,5 +16,5 @@ Interdisciplinary Master's program students have teamed up for this project rela
 
 The students have been recognized at the renowned trade fair BAU 2017 for their ideas. The Munich Department of Department of Urban Planning is hosting the free exhibition from April to July 2017. For more information, please visit the German website by clicking [here.](https://www.muenchen.de/rathaus/Stadtverwaltung/Referat-fuer-Stadtplanung-und-Bauordnung/Veranstaltungen/Urbanes-Leben){:target="_blank"}
 
-![Vision 2080.jpg]({{site.baseurl}}images/news/Vision_2080_Web.jpg)
+![Vision 2080.jpg](/images/news/Vision_2080_Web.jpg)
 Picture Copyright: ENPB (TU München)

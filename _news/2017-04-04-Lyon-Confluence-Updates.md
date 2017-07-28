@@ -5,7 +5,7 @@ date: 2017-04-04
 imageurl: images/news/Lyon-News.jpg
 ---
 
-![Lyon-engagement.jpg]({{site.baseurl}}images/news/Lyon_Citizen_Web.jpg)
+![Lyon-engagement.jpg](/images/news/Lyon_Citizen_Web.jpg)
 
 <div class="multiline">
  <h2><span class="ornament-news">District Heating System</span></h2>
@@ -51,8 +51,8 @@ A club of users has been created to first test an application ‘ElectrYc’ mad
 
 Content © SPL Lyon Confluence
 
-![Lyon April 1.jpg]({{site.baseurl}}images/news/Lyon Updates 1_Web.jpg)
+![Lyon April 1.jpg](/images/news/Lyon Updates 1_Web.jpg)
 
-![Lyon April 2.jpg]({{site.baseurl}}images/news/Lyon Updates 2_Web.jpg)
+![Lyon April 2.jpg](/images/news/Lyon Updates 2_Web.jpg)
 
-![Lyon April 3.jpg]({{site.baseurl}}images/news/Lyon Updates 3_Web.jpg)
+![Lyon April 3.jpg](/images/news/Lyon Updates 3_Web.jpg)

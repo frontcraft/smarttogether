@@ -5,7 +5,7 @@ date: 2017-04-04
 imageurl: images/news/Munich Citizen Engagement Photo.jpg
 ---
 
-![Co-creation.jpg]({{site.baseurl}}images/news/Munich Citizen Engagement Photo.jpg)
+![Co-creation.jpg](/images/news/Munich Citizen Engagement Photo.jpg)
 
 ### Intelligent and Sustainable Solutions for Neuaubing-Westkreuz/Freiham
 

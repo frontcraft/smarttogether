@@ -26,5 +26,5 @@ The BarCamp was organized by the City of Munich in collaboration with the city's
 
 For the findings published (in German) [click here.](https://zumpad.zum.de/p/mucgov17){:target="_blank"} More information about the BarCamp (also in German) is posted on the [City of Munich's IT blog.](https://www.it-muenchen-blog.de/index.php/ideen-fuer-die-digitale-verwaltung-auf-dem-barcamp-mucgov17/){:target="_blank"}
 
-![barcamp photo.jpg]({{site.baseurl}}images/news/barcamp-VorstellungST_Copyright Philipp von Derschau WEB.jpg)
+![barcamp photo.jpg](/images/news/barcamp-VorstellungST_Copyright Philipp von Derschau WEB.jpg)
 Photo Copyright Philipp von Derschau

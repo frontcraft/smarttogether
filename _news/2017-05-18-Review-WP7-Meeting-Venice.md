@@ -20,10 +20,10 @@ The next WP 7 meeting is set to take place in Sofia from 11-12 July (more inform
 
 To access a summary in German shared by Lighthouse city Vienna, please [click here.](http://www.smartertogether.at/smarter-together-in-venedig/){:target="_blank"}
 
-![Venice 1.jpg]({{site.baseurl}}images/news/Venice1_web.jpg)
+![Venice 1.jpg](/images/news/Venice1_web.jpg)
 
-![Venice 2.jpg]({{site.baseurl}}images/news/Venice2_web.jpg)
+![Venice 2.jpg](/images/news/Venice2_web.jpg)
 
-![Venice 3.jpg]({{site.baseurl}}images/news/Venice3_web.jpg)
+![Venice 3.jpg](/images/news/Venice3_web.jpg)
 
-![Venice 3.jpg]({{site.baseurl}}images/news/Venice4_web.jpg)
+![Venice 3.jpg](/images/news/Venice4_web.jpg)

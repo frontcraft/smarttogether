@@ -22,5 +22,5 @@ To read the full press release and download a copy of the Global Street Design G
 
 Below are a few examples of visualizations from the Global Street Design Guide, the first being a before and after comparison of a street in Addid Ababa, and the second a rendering of street transformation according to the guide:
 
-![Addis Ababa.jpg]({{site.baseurl}}images/news/Addis_Ababa_Before_After_web.jpg)
-![Sample Rendering.jpg]({{site.baseurl}}images/news/Before and After 1_RGB_web.jpg)
+![Addis Ababa.jpg](/images/news/Addis_Ababa_Before_After_web.jpg)
+![Sample Rendering.jpg](/images/news/Before and After 1_RGB_web.jpg)

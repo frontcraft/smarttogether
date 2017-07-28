@@ -24,4 +24,4 @@ For those interested in the smart cities features of the Hungarian capital, the 
 
 If you are a creative minded individual and interested in contributing to the smart future our cities, you can register for this event [here.](https://www.scisconference2017.eu/){:target="_blank"} Registration closes on 10 September. 
 
-![SCIS Conference.jpg]({{site.baseurl}}images/news/Press release_Visual_07.07.2017.png)
+![SCIS Conference.jpg](/images/news/Press release_Visual_07.07.2017.png)

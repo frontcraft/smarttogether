@@ -10,8 +10,8 @@ imageurl: images/news/Belarus Delegation Web.jpg
 <h2><span class="ornament-news">Drive Replication and Dissemination</span></h2>
 </div>
 
-![Belarus Delegation.jpg]({{site.baseurl}}images/news/Belarus Delegation Web.jpg)
+![Belarus Delegation.jpg](/images/news/Belarus Delegation Web.jpg)
 
 On 27 April, a delegation from Brest in Belarus visited Vienna in order to get an idea of Vienna’s way of interpreting, understanding and implementing Smart City solutions. As such, Smarter Together was a welcome partner where vision and implementation meet and develop a fruitful dialogue. The visit was a contribution to the drive to disseminate and replicate of Smarter Together goals and innovations. 
 
-![Belarus Delegation 2.jpg]({{site.baseurl}}images/news/Belarus Delegation Web 2.jpg)
+![Belarus Delegation 2.jpg](/images/news/Belarus Delegation Web 2.jpg)

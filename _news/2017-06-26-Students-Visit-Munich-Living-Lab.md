@@ -18,4 +18,4 @@ The students also had plenty of ideas and suggestions for the ‘city of tomorro
 
 To visit the website of the MUAS Department of Tourism (German only) [click here.](http://www.tourismus.hm.edu/aktuelles/news/newsdetail_76672.de.html){:target="_blank"}
 
-![Students Living Lab.jpg]({{site.baseurl}}images/news/Studierende HS Muenchen im Stadtteillabor_web.jpg)
+![Students Living Lab.jpg](/images/news/Studierende HS Muenchen im Stadtteillabor_web.jpg)

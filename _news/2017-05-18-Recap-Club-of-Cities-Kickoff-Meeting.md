@@ -20,6 +20,6 @@ Stay tuned for more details on the next Club of Cities meeting date, taking plac
 
 For more information about the Club of Cities and how to join, please [click here.](http://smarter-together.eu/club-of-cities/about/){:target="_blank"}
 
-![CoC1.jpg]({{site.baseurl}}images/news/flor_CoC2_web.jpg)
+![CoC1.jpg](/images/news/flor_CoC2_web.jpg)
 
-![CoC2.jpg]({{site.baseurl}}images/news/flor_CoCV_web.jpg)
+![CoC2.jpg](/images/news/flor_CoCV_web.jpg)

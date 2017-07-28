@@ -13,7 +13,7 @@ imageurl: images/news/big_img_6587.jpg
 <h2><span class="ornament-news">Smarter Together</span></h2>
 </div>
 
-![Santiago-April.jpg]({{site.baseurl}}images/news/Santiago April_Web.jpg)
+![Santiago-April.jpg](/images/news/Santiago April_Web.jpg)
 
 The Santiago City Council is working on the implementation of the European Union project Smarter Together, which aims to improve the quality of life in cities through smart technologies. The first meeting was held to develop a strategy to deepen interdepartmental cooperation for an integrated data platform, citizen participation/commitment, energy refurbishment of buildings, sustainable mobility, ‘district heating’ and renewable energies.
 

@@ -13,7 +13,7 @@ imageurl: images/news/Munich Lamp Post 2_web.jpg
 
 ### Presentation of citizens’ recommendations for the further development of smart lamp posts in the district
 
-![Lamp-post.jpg]({{site.baseurl}}images/news/Munich Lamp Post 2_web.jpg)
+![Lamp-post.jpg](/images/news/Munich Lamp Post 2_web.jpg)
 
 In March, the Munich Technical University submitted several recommendations to the city of Munich, obtained through the Smarter Together co-creation process ‘Technology’ to the city of Munich. For several weeks, committed citizens and the responsible IT strategists of the city of Munich discussed the planned technological equipment of the intelligent lamp posts in their neighborhoods. The design collective Neuaubing-Westkreuz afterwards developed concrete recommendations for the functional requirements of the lamp posts. To create a value for the district, the requirements define, among other things, which services the new intelligent lamp posts should enable, for which target group and in what form (for example as an app), to create value for the district. The recommendations will be incorporated into the technical equipment of the lamp posts and the relevant public procurement competition for the solutions.
 
@@ -43,4 +43,4 @@ In the ‘Little Lab Workshop’, the young people shared the assessment that th
 
 The regularly organised workshops on the development of concrete solutions were held at the Stadtteillabor in Neuaubing-Westkreuz, which is operated by the Renovation Agency of the City of Munich (MGS) for the project. The Munich Center for Technology in Society of the Technical University of Munich organised this workshop series.  
 
-![LampPost Drawing.jpg]({{site.baseurl}}images/news/Munich Lamp Post 1_web.jpg)
+![LampPost Drawing.jpg](/images/news/Munich Lamp Post 1_web.jpg)

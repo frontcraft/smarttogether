@@ -10,7 +10,7 @@ imageurl: images/news/Signed Manifesto Group Photo.jpg
 <h2><span class="ornament-news">Cooperation Manifesto in Nottingham</span></h2>
 </div>
 
-![Signed-Manifesto-Group.jpg]({{site.baseurl}}images/news/Signed Manifesto Group Photo.jpg)
+![Signed-Manifesto-Group.jpg](/images/news/Signed Manifesto Group Photo.jpg)
 
 #### Pledging Closer Cooperation Towards Low Carbon and Resource Efficient Urban Spaces
 
@@ -20,4 +20,4 @@ The signing ceremony was held at Conference Centre of the Nottingham Trent Unive
 
 Nottingham, a city recognised for its strong ecological drive, was an ideal setting for project partners to pledge their commitment to Smart Cities and Communities. The signing of the Cooperation Manifesto came as part of a study tour organised by Nottingham city council and Nottingham Trent University under the Remourban Lighthouse project. The tour included workshops on topics such as smart city indicators, innovative business models and integrated planning for accelerating urban transition. Furthermore, a site visit enabled delegates from the European Commission, INEA and other Lighthouse projects to discover the realities of Remourban’s green endeavours in Nottingham’s Sneinton district and e-bus charging depot.
 
-![Signed-Manifesto.jpg]({{site.baseurl}}images/news/Manifesto_signed_cover_web.jpg)
+![Signed-Manifesto.jpg](/images/news/Manifesto_signed_cover_web.jpg)

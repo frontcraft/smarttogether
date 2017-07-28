@@ -24,4 +24,4 @@ Co-creation is an important principle in Smarter Together, implemented as part o
 
 For more information on Smarter Together in Lyon, please visit the Lyon Confluence website by clicking [here:](http://www.lyon-confluence.fr/fr/innover/2016-2020-smarter-together.html){:target="_blank"}
 
-![Lyon Data Workshop.jpg]({{site.baseurl}}images/news/Lyon_Data Platform meeting_web.jpg)
+![Lyon Data Workshop.jpg](/images/news/Lyon_Data Platform meeting_web.jpg)

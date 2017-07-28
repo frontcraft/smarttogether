@@ -20,5 +20,5 @@ The Munich team showcased their street lamps with smart lighting sensors, soluti
 
 CeBIT visitors and experts showed great interest in smart city topics. The international members of different EU projects were delighted to connect and exchange experiences. Additionally, CeBIT provided valuable opportunities to network with visitors from politics, industry and other administrations.
 
-![CeBIT Stand.jpg]({{site.baseurl}}images/news/CeBIT_Stand ST_web.jpg)
+![CeBIT Stand.jpg](/images/news/CeBIT_Stand ST_web.jpg)
 

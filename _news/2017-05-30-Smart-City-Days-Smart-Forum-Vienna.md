@@ -15,10 +15,10 @@ Particularly focusing in on the excursion to Simmering, some 50 participants in 
 
 For the full summary in German of these two days of learning and exchange in Vienna, please [click here.](http://www.smartertogether.at/smart-city-days-und-forum/){:target="_blank"}
 
-![SCD2.jpg]({{site.baseurl}}images/news/Smart City Days 2.jpg)
+![SCD2.jpg](/images/news/Smart City Days 2.jpg)
 
-![SCD1.jpg]({{site.baseurl}}images/news/Smart City Days 1.jpg)
+![SCD1.jpg](/images/news/Smart City Days 1.jpg)
 
-![SCD3.jpg]({{site.baseurl}}images/news/Smart City Days 3.jpg)
+![SCD3.jpg](/images/news/Smart City Days 3.jpg)
 
-![SCD4.jpg]({{site.baseurl}}images/news/Smart City Days 4.jpg)
+![SCD4.jpg](/images/news/Smart City Days 4.jpg)

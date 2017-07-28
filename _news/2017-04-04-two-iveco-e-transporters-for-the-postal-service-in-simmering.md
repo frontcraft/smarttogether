@@ -13,7 +13,7 @@ imageurl: images/news/Vienna IVECCO Photo.jpg
 <h2><span class="ornament-news">Smarter Together</span></h2>
 </div>
 
-![Iveco-Transport.jpg]({{site.baseurl}}images/news/Vienna IVECCO Photo.jpg)
+![Iveco-Transport.jpg](/images/news/Vienna IVECCO Photo.jpg)
 
 Environmentally friendly mobility such as the use of e-vehicles like e-cars, e-bikes and e-forklifts play an important role in smart urban renewal initiatives. With the help of Smarter Together a total of around EUR 46 million will be invested in Simmering, with EUR 7 million being EU funds.
 

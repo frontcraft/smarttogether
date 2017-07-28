@@ -16,25 +16,25 @@ The Lyon Local Energy Agency, the SPL Lyon Confluence and the Lyon Metropolis ar
 
 Click below to view a video introducing Electryclub:
 
-[![Alt text]({{site.baseurl}}images/news/Electryclub Screenshot_web.png)](https://vimeo.com/216026414)
+[![Alt text](/images/news/Electryclub Screenshot_web.png)](https://vimeo.com/216026414)
 
 The last meeting of the ElectrYclub was on 11 May. If you live in Lyon and are interested in participating, or just want to learn more, please [click here.](http://www.lyon-confluence.fr/en/news/electryc.html){:target="_blank"}
 
-![Citizen Engagement 1.jpg]({{site.baseurl}}images/news/Lyon Citizen Engagement 1.jpg)
+![Citizen Engagement 1.jpg](/images/news/Lyon Citizen Engagement 1.jpg)
 
-![Citizen Engagement 2.jpg]({{site.baseurl}}images/news/Lyon Citizen Engagement 2.jpg)
+![Citizen Engagement 2.jpg](/images/news/Lyon Citizen Engagement 2.jpg)
 
-![Citizen Engagement 3.jpg]({{site.baseurl}}images/news/Lyon Citizen Engagement 3.jpg)
+![Citizen Engagement 3.jpg](/images/news/Lyon Citizen Engagement 3.jpg)
 
-![Citizen Engagement 4.jpg]({{site.baseurl}}images/news/Lyon Citizen Engagement 4.jpg)
+![Citizen Engagement 4.jpg](/images/news/Lyon Citizen Engagement 4.jpg)
 
-![Citizen Engagement 5.jpg]({{site.baseurl}}images/news/Lyon Citizen Engagement 5.jpg)
+![Citizen Engagement 5.jpg](/images/news/Lyon Citizen Engagement 5.jpg)
 
-![Citizen Engagement 6.jpg]({{site.baseurl}}images/news/Lyon Citizen Engagement 6.jpg)
+![Citizen Engagement 6.jpg](/images/news/Lyon Citizen Engagement 6.jpg)
 
-![Citizen Engagement 7.jpg]({{site.baseurl}}images/news/Lyon Citizen Engagement 7.jpg)
+![Citizen Engagement 7.jpg](/images/news/Lyon Citizen Engagement 7.jpg)
 
-![Citizen Engagement 8.jpg]({{site.baseurl}}images/news/Lyon Citizen Engagement 8.jpg)
+![Citizen Engagement 8.jpg](/images/news/Lyon Citizen Engagement 8.jpg)
 
-![Citizen Engagement 9.jpg]({{site.baseurl}}images/news/Lyon Citizen Engagement 9.jpg)
+![Citizen Engagement 9.jpg](/images/news/Lyon Citizen Engagement 9.jpg)
 Photos Copyright SPL Confluence
