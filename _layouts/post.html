@@ -22,7 +22,7 @@
     <div class="limited-width">
       {% if page.imageurl %}
       <p>
-        <img class="img-responsive" src="{{ page.imageurl | prepend: site.baseurl }}" />
+        <img class="img-responsive" src="{{ page.imageurl | relative_url }}" />
       </p>
       {% endif %}
       <p>

@@ -14,7 +14,7 @@ pagination:
         {% if news.imageurl %}
           <div class="listing2__image col-sm-4">
             <a href="{{ news.url }}">
-              <img src="{{ news.imageurl | prepend: site.baseurl }}" class="img-responsive" />
+              <img src="{{ news.imageurl | relative_url }}" class="img-responsive" />
             </a>
           </div>
         {% endif %}
@@ -40,21 +40,21 @@ pagination:
     <ul class="pagination">
       {% if paginator.previous_page %}
       <li class="previous">
-          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo;</a>
+          <a href="{{ paginator.previous_page_path | relative_url | replace: '//', '/' }}">&laquo;</a>
       </li>
       {% endif %}
     
       {% if paginator.page_trail %}
         {% for trail in paginator.page_trail %}
           <li {% if page.url == trail.path %}class="active"{% endif %}>
-              <a href="{{ trail.path | prepend: site.baseurl | replace: '//', '/' }}" title="{{trail.title}}">{{ trail.num }}</a>
+              <a href="{{ trail.path | relative_url | replace: '//', '/' }}" title="{{trail.title}}">{{ trail.num }}</a>
           </li>
         {% endfor %}
       {% endif %}
     
       {% if paginator.next_page %}
       <li class="next">
-          <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&raquo;</a>
+          <a href="{{ paginator.next_page_path | relative_url | replace: '//', '/' }}">&raquo;</a>
       </li>
       {% endif %}
     </ul>

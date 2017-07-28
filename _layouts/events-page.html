@@ -8,7 +8,7 @@
     {% include nav--news.html %}
 
     {% assign content = content | strip_newlines %}
-    <header class="header text-center" style="background-image: url('{{ page.bckimageurl | prepend: site.baseurl }}');">
+    <header class="header text-center" style="background-image: url('{{ page.bckimageurl | relative_url }}');">
       <div class="overlay">
       </div>
       <div class="container">
@@ -27,7 +27,7 @@
         <div class="container image-box text-center">
           <div class="row">
             <div class="col-md-6">
-              <div class=" img-responsive"><img  src="{{ page.imageurl | prepend: site.baseurl }}" alt="">
+              <div class=" img-responsive"><img  src="{{ page.imageurl | relative_url }}" alt="">
               </div>
             </div>
             <div class="col-md-6">

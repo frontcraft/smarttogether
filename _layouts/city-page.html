@@ -8,7 +8,7 @@
     {% include nav.html %}
 
     {% assign content = content | strip_newlines %}
-    <header class="header text-center" style="background-image: url('{{ page.imageurl | prepend: site.baseurl }}');">
+    <header class="header text-center" style="background-image: url('{{ page.imageurl | relative_url }}');">
       <div class="container">
         <div class="header__text-wrapper">
           <h1 class="header__primary-text">{{ page.title }}</h1>
