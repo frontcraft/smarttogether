@@ -22,4 +22,4 @@ The first 24 smart street lamps are already giving Bodenseestrasse an intelligen
 
 To view the original press release in German, visit the website of the city of Munich by [clicking here.](https://www.muenchen.de/rathaus/Stadtverwaltung/Referat-fuer-Arbeit-und-Wirtschaft/Europa/Smart-Cities/News-Smarter-Together-M-nchen/Lichtmasten-Bodenseestrasse.html){:target="_blank"}
 
-![Munich Street Lamp Install.jpg](images/news/ST_Bodenseestraße Lichtmasten-600px_web.jpg)
+![Munich Street Lamp Install.jpg](/images/news/ST_Bodenseestraße Lichtmasten-600px_web.jpg)
