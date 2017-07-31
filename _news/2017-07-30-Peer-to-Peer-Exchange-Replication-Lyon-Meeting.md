@@ -20,8 +20,10 @@ Highlights of the second day included a morning presentation by Pamela Vennin re
 
 In the afternoon, attendees split up into three groups to visit demonstration sites based on differing areas of interest and expertise, showcasing the extensive work that is underway in the Confluence district: district heating and photovoltaic installation, holistic refurbishment in Cité Perrache, a renovation project of over 250 social housing units, and e-mobility including a look at CNR charging stations, Bluely e-car sharing stations, and the Navly autonomous e-shuttle. Peer-to-peer exchanges on each of the specific topics were organized just after the site visits to delve deeper into the challenges that may be present in implementing solutions in these particular areas.
 
-![Emobility visit 1.jpg](/images/news/EMobility_web.jpg)![Emobility Visit 2.jpg](/images/news/EMobility 2_web.jpg)
-![Emobility Visit 3.jpg](/images/news/EMobility 3_web.jpg) ![Study Tour.jpg](/images/news/Study Tour_web.jpg)
+![Emobility visit 1.jpg](/images/news/EMobility_web.jpg)  ![Emobility Visit 2.jpg](/images/news/EMobility 2_web.jpg)
+
+![Emobility Visit 3.jpg](/images/news/EMobility 3_web.jpg)   ![Study Tour.jpg](/images/news/Study Tour_web.jpg)
+
 ![Lyon PV systems.jpg](/images/news/PV Systems_web.jpg)
 
 Additionally, and extending into the third day, was the presentation of the first iteration of the knowledge carrier, a 3D map featuring project solutions and details across participating cities that will have multiple future functions on the web, within city government, and beyond. The meetings included a first look into the interface, and integration of the front and back end systems of the carrier, as well as key discussions on the future applications of such a tool in conveying the progress, achievements, significance, and replicability of the Smarter Together project.
