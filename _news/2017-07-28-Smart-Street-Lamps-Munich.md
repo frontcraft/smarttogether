@@ -13,6 +13,7 @@ imageurl: images/news/ST_Bodenseestraße Lichtmasten-600px_web.jpg
 Smart street lamps are now shedding new light on its first street in Munich's Smarter Together district. Developed by the Department of Public Building Construction as part of ‘Smarter Together’, the new street lamps are fitted with cutting-edge LED technology.
 
 **Intelligence inside**
+
 What makes the street lamps really smart, however, is not immediately visible to the eye: In the near future, each one will deliver M WLAN – Munich's free public wireless LAN service. The lamps are also fitted with sensors that capture environmental and traffic data, for example, allowing the brightness of the lights to be aligned with changing ambient conditions. Additionally, the data gathered by the street lamps also lays the foundation for innovative mobile services for local residents.
 
 The smart street lamps are part of a pilot project, just like the comprehensive and intensive co-design process that preceded them. During this process, residents of the Neuaubing/Westkreuz and Freiham districts worked together with the Technical University of Munich (TUM) to discuss their needs and preferences and develop concrete solutions for street lamps in their immediate vicinity.
