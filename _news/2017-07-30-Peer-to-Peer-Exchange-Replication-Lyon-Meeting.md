@@ -1,6 +1,6 @@
 ---
 layout: news-page
-title: "Workshops, Exchanges, Study Tours Highlight Lyon Meeting"
+title: "Workshops, Exchanges, Study Tours - Highlights of Lyon Meeting"
 date: 2017-07-30
 imageurl: images/news/EMobility_web.jpg
 ---
