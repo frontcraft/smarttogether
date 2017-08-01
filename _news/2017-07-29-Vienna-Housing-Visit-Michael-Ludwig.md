@@ -13,7 +13,7 @@ imageurl: images/news/housing consul 4_web.jpg
 On 6 June, 2017, Michael Luwig, head of the Vienna City Council Housing department and chair of Smarter Together, visited the refurbishment site Hauffgasse 37-47 in order to get a personal impression of the refurbishment activities that have recently begun. 
 
 | ![Hauffgasse Visit 1.jpg](/images/news/housing consul 1_web.jpg) | ![Hauffgasse Visit 4.jpg](/images/news/housing consul 4_web.jpg)|
-|:------------- | -----:|
+|:-----|-----:|
 
 Mr. Ludwig also visited the Info Point, a kiosk that provides information about the ongoing works and the greater scope within the Smarter Together project. Mr. Luwig was joined by the executive president of the housing association BWSG , Mr. Wilhelm Haberzettl, as well as by staff members of Smarter Together and of the mediation unit wohnbund: consult.
 
