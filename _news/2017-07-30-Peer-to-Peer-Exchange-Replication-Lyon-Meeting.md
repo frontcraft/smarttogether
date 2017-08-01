@@ -19,14 +19,12 @@ The first day of the meeting saw peer-to-peer exchange workshops on data managem
 Highlights of the second day included a morning presentation by Pamela Vennin representing the Lyon Metropolis, speaking about the overall smart city strategy of Lyon and the cross-departmental cooperation and participation that is happening in order to steadily increase innovativeness and quality of life for citizens in the metropolis.
 
 In the afternoon, attendees split up into three groups to visit demonstration sites based on differing areas of interest and expertise, showcasing the extensive work that is underway in the Confluence district: district heating and photovoltaic installation, holistic refurbishment in Cité Perrache, a renovation project of over 250 social housing units, and e-mobility including a look at CNR charging stations, Bluely e-car sharing stations, and the Navly autonomous e-shuttle. Peer-to-peer exchanges on each of the specific topics were organized just after the site visits to delve deeper into the challenges that may be present in implementing solutions in these particular areas.
-
-Solarized dark             |  Solarized Ocean
+           |  
 :-------------------------:|:-------------------------:
 ![Emobility visit 1.jpg](/images/news/EMobility_web.jpg)  |  ![Emobility Visit 2.jpg](/images/news/EMobility 2_web.jpg)
-
-![Emobility visit 1.jpg](/images/news/EMobility_web.jpg) ![Emobility Visit 2.jpg](/images/news/EMobility 2_web.jpg) 
-
-![Emobility Visit 3.jpg](/images/news/EMobility 3_web.jpg)![Study Tour.jpg](/images/news/Study Tour_web.jpg)
+          |  
+:-------------------------:|:-------------------------:
+![Emobility Visit 3.jpg](/images/news/EMobility 3_web.jpg)  |  ![Study Tour.jpg](/images/news/Study Tour_web.jpg)
 
 ![Lyon PV systems.jpg](/images/news/PV Systems_web.jpg)
 
