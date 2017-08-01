@@ -18,6 +18,6 @@ As energy provider Kelag heat and car sharing provider Caruso are currently clos
 
 The full article can be accessed in German on Smarter Together Vienna’s website [by clicking here.](http://www.smartertogether.at/michael-ludwig-baustellenbesuch/){:target="_blank"}
 
-![Hauffgasse Visit 1.jpg](/images/news/housing consul 1_web.jpg)             |  ![Hauffgasse Visit 1.jpg](/images/news/housing consul 1_web.jpg)
+![Hauffgasse Visit 1.jpg](/images/news/housing consul 1_web.jpg)             |  ![Hauffgasse Visit 4.jpg](/images/news/housing consul 4_web.jpg)
 :-------------------------:|:-------------------------:
 ![Hauffgasse Visit 3.jpg](/images/news/housing consul 3_web.jpg)  |  ![Hauffgasse Visit 5.jpg](/images/news/housing consul 5_web.jpg)
