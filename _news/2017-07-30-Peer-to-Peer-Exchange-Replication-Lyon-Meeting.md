@@ -24,8 +24,8 @@ In the afternoon, attendees split up into three groups to visit demonstration si
 :-------------------------:|:-------------------------:
 ![Emobility Visit 3.jpg](/images/news/EMobility 3_web.jpg)  |  ![Study Tour.jpg](/images/news/Study Tour_web.jpg)
 
-![Lyon PV systems.jpg](/images/news/PV Systems_web.jpg)
-
+![Lyon PV systems.jpg](/images/news/PV Systems_web.jpg)              |
+:-------------------------:|:-------------------------:
 Additionally, and extending into the third day, was the presentation of the first iteration of the knowledge carrier, a 3D map featuring project solutions and details across participating cities that will have multiple future functions on the web, within city government, and beyond. The meetings included a first look into the interface, and integration of the front and back end systems of the carrier, as well as key discussions on the future applications of such a tool in conveying the progress, achievements, significance, and replicability of the Smarter Together project.
 
 ![Knowledge Carrier Lyon.jpg](/images/news/Knowledge carrier_web.jpg)
