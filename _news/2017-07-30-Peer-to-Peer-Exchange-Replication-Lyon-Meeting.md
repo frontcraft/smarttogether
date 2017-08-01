@@ -20,7 +20,11 @@ Highlights of the second day included a morning presentation by Pamela Vennin re
 
 In the afternoon, attendees split up into three groups to visit demonstration sites based on differing areas of interest and expertise, showcasing the extensive work that is underway in the Confluence district: district heating and photovoltaic installation, holistic refurbishment in Cité Perrache, a renovation project of over 250 social housing units, and e-mobility including a look at CNR charging stations, Bluely e-car sharing stations, and the Navly autonomous e-shuttle. Peer-to-peer exchanges on each of the specific topics were organized just after the site visits to delve deeper into the challenges that may be present in implementing solutions in these particular areas.
 
-![Emobility visit 1.jpg](/images/news/EMobility_web.jpg) <img height="350" hspace="20"/> ![Emobility Visit 2.jpg](/images/news/EMobility 2_web.jpg) 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![Emobility visit 1.jpg](/images/news/EMobility_web.jpg)  |  ![Emobility Visit 2.jpg](/images/news/EMobility 2_web.jpg)
+
+![Emobility visit 1.jpg](/images/news/EMobility_web.jpg) ![Emobility Visit 2.jpg](/images/news/EMobility 2_web.jpg) 
 
 ![Emobility Visit 3.jpg](/images/news/EMobility 3_web.jpg)![Study Tour.jpg](/images/news/Study Tour_web.jpg)
 
