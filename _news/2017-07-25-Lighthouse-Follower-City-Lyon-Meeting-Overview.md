@@ -1,13 +1,13 @@
 ---
 layout: news-page
-title: "Lighthouse and Follower Cities Collaborate on Peer-to-Peer Exchange, Replication"
+title: "Lighthouse and Follower Cities Collaborate in Lyon"
 date: 2017-07-25
 imageurl: images/news/EMobility 4_web.jpg
 ---
 
 <div class="multiline">
-<h2><span class="ornament-news">Facilitating Solutions and Replication</span></h2>
-<h2><span class="ornament-news">at Lyon Meeting of Smarter Together Cities and Partners</span></h2>
+<h2><span class="ornament-news">Facilitating Peer-to-Peer Exchange and Replication</span></h2>
+<h2><span class="ornament-news">for Smarter Together Cities and Partners</span></h2>
 </div>
 
 From June 28 to 30, Smarter Together Lighthouse cities Vienna, Munich and Lyon met in the Confluence district of Lyon along with representatives from Follower cities Santiago de Compostela, Venice, and Sofia.
