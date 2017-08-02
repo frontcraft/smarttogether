@@ -2,7 +2,7 @@
 layout: news-page
 title: "Lighthouse and Follower Cities Collaborate on Peer-to-Peer Exchange, Replication"
 date: 2017-07-25
-imageurl: images/news/Emobility 4_web.jpg
+imageurl: images/news/EMobility 4_web.jpg
 ---
 
 <div class="multiline">
@@ -18,6 +18,6 @@ Not only were the above topics explored in detail, allowing for peer-to-peer exc
 
 For a more detailed recap of meeting activities and events, please visit the [full summary.](http://smarter-together.eu/news/2017-07-30-Peer-to-Peer-Exchange-Replication-Lyon-Meeting/){:target="_blank"}
 
-![Emobility 4.jpg](/images/news/Emobility 4_web.jpg)
+![Emobility 4.jpg](/images/news/EMobility 4_web.jpg)
 
 ![Emobility 5.jpg](/images/news/Emobility 5_web.jpg)
