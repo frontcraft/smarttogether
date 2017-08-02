@@ -1,7 +1,7 @@
 ---
 layout: news-page
 title: "Lighthouse and Follower Cities Collaborate on Peer-to-Peer Exchange, Replication"
-date: 2017-07-31
+date: 2017-07-25
 imageurl: images/news/Emobility 4_web.jpg
 ---
 
