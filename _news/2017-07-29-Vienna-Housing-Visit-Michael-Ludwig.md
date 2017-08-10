@@ -10,9 +10,9 @@ imageurl: images/news/housing consul 4_web.jpg
 <h2><span class="ornament-news">Hauffgasse 37-47 in Simmering</span></h2>
 </div>
 
-On 6 June, 2017, Michael Ludwig, head of the Vienna City Council Housing department and chair of Smarter Together, visited the refurbishment site Hauffgasse 37-47 in order to get a personal impression of the refurbishment activities that have recently begun. 
+On 6 June, 2017, Dr. Michael Ludwig, head of the Vienna City Council Housing department and chair of Smarter Together, visited the refurbishment site Hauffgasse 37-47 in order to get a personal impression of the refurbishment activities that have recently begun. 
 
-Mr. Ludwig also visited the Info Point, a kiosk that provides information about the ongoing works and the greater scope within the Smarter Together project. Mr. Luwig was joined by the executive president of the housing association BWSG , Mr. Wilhelm Haberzettl, as well as by staff members of Smarter Together and of the mediation unit wohnbund: consult.
+Dr. Ludwig also visited the Info Point, a kiosk that provides information about the ongoing works and the greater scope within the Smarter Together project. Dr. Luwig was joined by the executive president of the housing association BWSG , Mr. Wilhelm Haberzettl, as well as by staff members of Smarter Together and of the mediation unit wohnbund: consult.
 
 As energy provider Kelag heat and car sharing provider Caruso are currently closed in the preparatory phase for their work, a full report will follow at a later date.
 
