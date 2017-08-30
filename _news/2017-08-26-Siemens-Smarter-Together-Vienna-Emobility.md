@@ -25,9 +25,10 @@ Source: Robert Knotek / Siemens factory Leberstraße
 The original article in German from Smarter Together Vienna can be found [here.](http://www.smartertogether.at/e-gabelstapler-bei-siemens/){:target="_blank"}
 
 ![E fork lift Siemens.jpg](/images/news/Siemens ST E-Gabelstaplerflotte Credit Siemens_web.jpg)
-
+Photo courtesy of Siemens
 ![E post van Siemens.jpg](/images/news/Mobilität mit Zukunft Foto Bojan Schnabl 2017 06 19 IMG_2375_web.jpg)
-
+Photo courtesy of Bojan Schnabl
 ![E bike charge Siemens.jpg](/images/news/E-Bike-Ladestation Credit Robert Knotek Siemens IMG_2601_web.jpg)
-
+Photo courtesy of Robert Knotek, Siemens
 ![Siemens Offices Vienna.jpg](/images/news/Siemens Werk Leberstraße Foto Bojan Schnabl_web.jpg)
+Photo courtesy of Bojan Schnabl
