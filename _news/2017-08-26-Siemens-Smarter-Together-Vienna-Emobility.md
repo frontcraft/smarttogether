@@ -10,7 +10,7 @@ imageurl: images/news/Siemens ST E-Gabelstaplerflotte Credit Siemens_web.jpg
 <h2><span class="ornament-news">and More for Siemens in Simmering</span></h2>
 </div>
 
-Since early January 2017, the Siemens factory in Simmering has been using 6 e-forklifts in an initiative that is part of the Smarter Together project.
+Since early January 2017, the Siemens (https://www.siemens.com/at/de/home.html){:target="_blank"} factory in Simmering has been using 6 e-forklifts in an initiative that is part of the Smarter Together project.
 
 From the beginning of the year until the end of May 2017, impressive ecological results have already been achieved thanks to this ecological move towards electric equipment:
 
