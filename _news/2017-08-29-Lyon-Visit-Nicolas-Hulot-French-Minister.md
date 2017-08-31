@@ -6,8 +6,8 @@ imageurl: images/news/LC_024213MD_web.jpg
 ---
 
 <div class="multiline">
-<h2><span class="ornament-news">Visiting Smarter Together Project Sites with Nicolas Hulot,</span></h2>
-<h2><span class="ornament-news">French Minister of Ecological and Solidary Transition</span></h2>
+<h2><span class="ornament-news">Visiting Smarter Together Project Sites with</span></h2>
+<h2><span class="ornament-news">French Minister Nicolas Hulot</span></h2>
 </div>
 
 On 26 June 2017, Nicolas Hulot, the French Minister of Ecological and Solidary Transition, visited the Lyon-Confluence area to see the implementation of many features of sustainable development projects.
