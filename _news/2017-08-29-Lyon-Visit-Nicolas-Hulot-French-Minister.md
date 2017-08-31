@@ -21,3 +21,4 @@ To learn more about the Smarter Together project in Lyon-Confluence, please visi
 ![N Hulot Visit 1.jpg](/images/news/LC_024213MD_web.jpg)             |  ![N Hulot Visit 2.jpg](/images/news/LC_024209MD_web.jpg)
 :-------------------------:|:-------------------------:
 ![N Hulot Visit 3.jpg](/images/news/LC_024214MD_web.jpg)  |  ![N Hulot Visit 4.jpg](/images/news/LC_024185MD_web.jpg)
+Photos © SPL Lyon Confluence 
