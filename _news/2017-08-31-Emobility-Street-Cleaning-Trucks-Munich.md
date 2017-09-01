@@ -1,12 +1,12 @@
 ---
 layout: news-page
-title: "E-Street Cleaning Trucks Introduced in Munich"
+title: "Street Cleaning E-Trucks Introduced in Munich"
 date: 2017-08-31
 imageurl: images/news/Munich_Department of Construction_E_vehicles_web.jpg
 ---
 
 <div class="multiline">
-<h2><span class="ornament-news">Munich's New E-Street Cleaning Vehicles</span></h2>
+<h2><span class="ornament-news">Munich's New Street Cleaning E-Vehicles</span></h2>
 <h2><span class="ornament-news">to be Used for Oktoberfest and Beyond</span></h2>
 </div>
 
