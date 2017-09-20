@@ -10,9 +10,9 @@ imageurl: images/news/Smarter Together groß APA_Hautzinger (2).jpg
 <h2><span class="ornament-news">from VCÖ for its Mobility Initiatives</span></h2>
 </div>
 
-**Smarter Together is having great success with its mobility projects! The largest and most innovative Viennese urban renewal initiative under the auspices of the Viennese Housing Department, the Viennese part of the EU-funded Horizon 2020/SCC1 project, ‘Smarter Together’ received the Mobility Award of the Verkehrsclub Österreich (VCÖ) in the category ‘Active Mobility and Public Space’.
+**Smarter Together is having great success with its mobility projects! The largest and most innovative Viennese urban renewal initiative under the auspices of the Viennese Housing Department, the Viennese part of the EU-funded Horizon 2020/SCC1 project, ‘Smarter Together’ received the Mobility Award of the Verkehrsclub Österreich (VCÖ) in the category ‘Active Mobility and Public Space’.**
 
-Within the scope of the annual VCÖ Mobility Award, projects are selected which support a holistic approach and are ecologically compatible, socially just and economically efficient. Barbara Novak, Deputy Chair of the Municipal Council’s Commission for Housing, Housing Construction and Urban Renewal, accepted the prize together with project leader Julia Girardi-Hoog.**
+**Within the scope of the annual VCÖ Mobility Award, projects are selected which support a holistic approach and are ecologically compatible, socially just and economically efficient. Barbara Novak, Deputy Chair of the Municipal Council’s Commission for Housing, Housing Construction and Urban Renewal, accepted the prize together with project leader Julia Girardi-Hoog.**
 
 **VCÖ Managing Director Willi Nowak congratulated the project:**
 
@@ -47,5 +47,4 @@ To read the press release in German, please click [here.](http://www.smartertoge
 To view the Smarter Together Vienna mobility leaftlet, please click [here.](http://www.smartertogether.at/wp-content/uploads/2017/09/smartertogether_mobilitaetspreis_2017-Faltblatt_v2-EN.pdf){:target="_blank"}
 
 ![Vienna Mobility Award.jpg](/images/news/Smarter Together groß APA_Hautzinger (2).jpg)
-Photo credit VCÖ/APA-Fotoservice/Hautzinger
-Fotograph: Peter Hautzinger
+Photo credit VCÖ/APA-Fotoservice/Hautzinger, Photograph: Peter Hautzinger
