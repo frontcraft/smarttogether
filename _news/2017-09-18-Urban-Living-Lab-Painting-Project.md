@@ -14,6 +14,8 @@ This autumn will be decidedly more colourful at the Smarter Together urban city 
 
 Artist, musician and art educationalist Daniel Eichin will be on hand to inspire participants and make sure everyone has a whole lot of fun. The project ‘Explosion of Colour’ began in November 2012 and has since been staged – very successfully – at various venues in Munich. In the Smarter Together district, anyone who wants to can now get together to create large-format works of art and see their own work become part of the neighbourhood lab exhibition. Entrance is free of charge.
 
-To view the original press release in German, visit the website of the city of Munich by [clicking here.](https://www.muenchen.de/rathaus/Stadtverwaltung/Referat-fuer-Arbeit-und-Wirtschaft/Europa/Smart-Cities/News-Smarter-Together-M-nchen/Lichtmasten-Bodenseestrasse.html){:target="_blank"}
+To view more details (in German) about the event taking place, visit the website of the city of Munich by [clicking here.](https://www.muenchen.de/rathaus/Stadtverwaltung/Referat-fuer-Arbeit-und-Wirtschaft/Europa/Smart-Cities/Termine-im-Stadtteillabor/Explosion-der-Farben.html){:target="_blank"}
 
 ![Explosion of Colors Munich.jpg](/images/news/Header Explosion der Farben web.jpg)
+
+![Explosion of Colors Munich 2.jpg](/images/news/Bild Explosion der Farben web.jpg)
