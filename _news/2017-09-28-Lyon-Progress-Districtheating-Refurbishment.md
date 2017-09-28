@@ -20,8 +20,8 @@ Additionally, work has continued in order to expand the district heating through
 
 To learn more about the Smarter Together project in Lyon-Confluence, please visit the city's page dedicated to Smarter Together [by clicking here.](http://www.lyon-confluence.fr/en/innovating/2016-2020-smarter-together.html){:target="_blank"}
 
-![District Heating 1.jpg](/images/news/LC_024467MD web.jpg)             |  ![District Heating 2.jpg](/images/news/LC_024456MD web.jpg)
+![District Heating 1.jpg](/images/news/LC_024467MD web.jpg)             |  ![District Heating 3.jpg](/images/news/LC_024456MD web 2.jpg)
 :-------------------------:|:-------------------------:
-![Eco refurb 2.jpg](/images/news/Ecorefurbishment 35 rue Smith web.jpg)  |  ![Ecorefurb 1.jpg](/images/news/Ecorefurbishment Cité Mignot web.jpg)
+![Eco refurb 3.jpg](smarttogether/images/news/Ecorefurbishment 35 rue Smith web 2.jpg)  |  ![Ecorefurb 1.jpg](/images/news/Ecorefurbishment Cité Mignot web.jpg)
 
 Photos © SPL Lyon Confluence 
