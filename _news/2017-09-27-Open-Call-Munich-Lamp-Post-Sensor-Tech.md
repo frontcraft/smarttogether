@@ -14,7 +14,6 @@ Start-ups, researchers and established firms operating in the fields of sensor a
 
 Applicants are expected to propose convincing solutions which answer the following questions: How can the lamp posts collect what data from the environment safely and selectively? To what potential uses can the data be put for the neighbourhood? And what add-on functions can the lamp posts offer to passers-by in the vicinity?
 
-The closing date for applications is November 3, 2017. Applications should be submitted in German. Details are posted at [www.smarter-together.de]
-(https://www.muenchen.de/rathaus/Stadtverwaltung/Referat-fuer-Arbeit-und-Wirtschaft/Europa/Smart-Cities/Termine-im-Stadtteillabor/Explosion-der-Farben.html){:target="_blank"}
+The closing date for applications is November 3, 2017. Applications should be submitted in German. Details are posted at [on the Smarter Together Munich website.](www.smarter-together.de){:target="_blank"}
 
 ![Munich Lamp Post Open Call.jpg](/images/news/ST Lichtmast Modell Ausstellung_LHM_L web.jpg)
