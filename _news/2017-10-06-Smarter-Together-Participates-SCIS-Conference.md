@@ -2,7 +2,7 @@
 layout: news-page
 title: "Press Release: Smarter Together Participates in the SCIS Conference"
 date: 2017-10-06
-imageurl: images/news/SCIS Web Photo Gallery.jpg
+imageurl: images/news/Wolfgang Glock Pres Web.jpg
 ---
 
 <div class="multiline">
@@ -12,7 +12,7 @@ imageurl: images/news/SCIS Web Photo Gallery.jpg
 
 From 2-3 October 2017, Smarter Together participated in the conference “Empowering Smart Solutions for Better Cities,” organized by the [Smart Cities Information System](https://www.scisconference2017.eu/){:target="_blank"} in Budapest, Hungary. The Smart Cities Information System (SCIS) brings together project developers, cities, institutions, industry and experts from across Europe to exchange data, experience and know-how and to collaborate on the creation of smart cities and an energy-efficient urban environment. The conference connected representatives from across these spheres to discuss smart city solutions, replication, good practices and lessons learned in an effort “to drive forward a smart and sustainable vision of Europe.”
 
-Smarter Together, participating with several project partners in attendance, is a project funded by the H2020 programme of the European Union that focuses on five concrete areas of co-created and integrated smart solutions in cities: citizen engagement, district heating and renewable energy, holistic refurbishment, smart data, and e-mobility. In a project structure that encourages the replication of solutions, the European lighthouse cities Vienna, Munich and Lyon, the follower cities Santiago de Compostela, Sofia and Venice, the observer cities Kiev and Yokohama come together to improve citizens’ quality of life.
+Smarter Together, participating with several project partners in attendance, is a project funded by the [H2020 programme](https://ec.europa.eu/programmes/horizon2020/){:target="_blank"} of the European Union that focuses on five concrete areas of co-created and integrated smart solutions in cities: citizen engagement, district heating and renewable energy, holistic refurbishment, smart data, and e-mobility. In a project structure that encourages the replication of solutions, the European lighthouse cities Vienna, Munich and Lyon, the follower cities Santiago de Compostela, Sofia and Venice, the observer cities Kiev and Yokohama come together to improve citizens’ quality of life.
 
 Smarter Together Lighthouse cities and partners represented the project in a variety of ways, ranging from participation in the Smarter Together exhibition stand, presenting Smarter Together’s take on smart infrastructure and energy efficiency during parallel sessions of the conference, and participating from the project’s point of view in the two interactive sessions of the conference.
 
