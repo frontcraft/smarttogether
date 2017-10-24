@@ -14,7 +14,7 @@ On Thursday, 12 October, Smarter Together joined fellow H2020-funded Lighthouse 
 
 Starting with a Marketplace breakfast which featured roundtable discussions on topics ranging from citizen participation to [EU-China partnerships](http://eu-chinasmartcities.eu/){:target="_blank"}, the goal of this focused start to the day was on collaborating in order to help spark new solutions, partnerships, and ways of thinking.
 
-A welcome address by moderator Paul Timmens was accompanied by a speech by Jacques Vermeulen of Nokia who urged the audience to think not only about their respective projects, but rather about about interconnecting Europe, setting the stage for the topic of shaping the smart cities of the future. 
+A welcome address by moderator Paul Timmens was accompanied by a speech by Jacques Vermeulen of [Nokia](https://www.nokia.com/en_int){:target="_blank"} who urged the audience to think not only about their respective projects, but rather about about interconnecting Europe, setting the stage for the topic of shaping the smart cities of the future. 
 
 ![ST at EIP SCC GA1.jpg](/images/news/EIP SCC Photo 1 web.jpg)
 ![ST at EIP SCC GA2.jpg](/images/news/EIP SCC Photo 2 web.jpg)
