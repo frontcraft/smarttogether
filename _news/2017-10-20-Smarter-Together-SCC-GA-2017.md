@@ -16,8 +16,8 @@ Starting with a Marketplace breakfast which featured roundtable discussions on t
 
 A welcome address by moderator Paul Timmens was accompanied by a speech by Jacques Vermeulen of [Nokia](https://www.nokia.com/en_int){:target="_blank"} who urged the audience to think not only about their respective projects, but rather about about interconnecting Europe, setting the stage for the topic of shaping the smart cities of the future. 
 
-![ST at EIP SCC GA1.jpg](/images/news/EIP SCC Photo 1 web.jpg)
-![ST at EIP SCC GA2.jpg](/images/news/EIP SCC Photo 2 web.jpg)
+![ST at EIP SCC GA1.jpg](/images/news/EIP SCC Photo 1 web.jpg)             |  ![ST at EIP SCC GA2.jpg](/images/news/EIP SCC Photo 2 web.jpg)
+:-------------------------:|:-------------------------:
 
 Connecting these messages to policy goals was a video message by Commission Vice President Maros Šefčovič, in which the importance of scale-up and synergies were stressed. Markku Markkula, First Vice President of the European Committee of the Regions, then followed and highlighted the need of an innovative, service-oriented economy, also stating that “European partnerships are key networking instruments and render the city innovation hubs competitive on global scale."
 
