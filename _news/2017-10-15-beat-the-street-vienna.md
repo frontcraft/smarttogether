@@ -25,3 +25,4 @@ For more information and the full article in German, please [click here:](http:/
 ![Beat the Street 3.jpg](/images/news/beat the street vienna 3.jpg)
 
 ![Beat the Street 4.jpg](/images/news/beat the street vienna 4.jpg)
+Photo credits: Mobilitätsagentur Wien - Christian Fürthner
