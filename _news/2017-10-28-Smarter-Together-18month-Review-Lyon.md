@@ -2,7 +2,7 @@
 layout: news-page
 title: "Smarter Together Gathers for its 18-Months' Review in Lyon"
 date: 2017-10-28
-imageurl: images/news/DSC_0359 web.jpg
+imageurl: images/news/DSC_0367 web.jpg
 ---
 
 <div class="multiline">
