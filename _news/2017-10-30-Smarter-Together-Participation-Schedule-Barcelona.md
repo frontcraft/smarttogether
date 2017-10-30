@@ -1,6 +1,6 @@
 ---
 layout: news-page
-title: "Smarter Together To Participate in Barcelona Smart City Expo World Congress"
+title: "Smarter Together to Participate in Barcelona Smart City Expo World Congress"
 date: 2017-10-30
 imageurl: images/events/Save the date03.jpg
 ---
