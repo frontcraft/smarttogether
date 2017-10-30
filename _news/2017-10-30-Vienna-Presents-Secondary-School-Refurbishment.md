@@ -2,7 +2,7 @@
 layout: news-page
 title: "Vienna Presents Key Refurbishment of Two Secondary Schools"
 date: 2017-10-30
-imageurl: images/news/SmartHome_Smarter-Together.jpg
+imageurl: images/news/School Refurb Vienna 1.jpg
 ---
 
 <div class="multiline">
