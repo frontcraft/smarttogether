@@ -10,7 +10,7 @@ imageurl: images/news/DSC_0359 web.jpg
 <h2><span class="ornament-news">Present Progress at 18 Months</span></h2>
 </div>
 
-From 17-19 October, project partners gathered in Lyon for the Smarter Together progress review with the European Commission and INEA. All aspects of the project were discussed, including the Lighthouse cities’ project areas, replication, Follower cities and the Club of Cities, monitoring and evaluation, and communication and dissemination and its impact. 
+From 17-19 October, project partners gathered in Lyon for the Smarter Together progress review with the European Commission and [INEA.](https://ec.europa.eu/inea/en/){:target="_blank"} All aspects of the project were discussed, including the Lighthouse cities’ project areas, replication, Follower cities and the Club of Cities, monitoring and evaluation, and communication and dissemination and its impact. 
 
 This meeting was an important opportunity to assess project progress from its beginning to month 18, a milestone which calls for review of current activities, and planning for future actions and strategies in order to shape the next stage of the project in the most effective way possible.
 
