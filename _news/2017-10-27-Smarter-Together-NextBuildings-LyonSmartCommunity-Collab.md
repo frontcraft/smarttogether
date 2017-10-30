@@ -2,7 +2,7 @@
 layout: news-page
 title: "Smarter Together Inter-Project Exchanges"
 date: 2017-10-27
-imageurl: images/logo.png
+imageurl: images/news/Lyon Sc and Next.jpg
 ---
 
 <div class="multiline">
