@@ -16,9 +16,7 @@ Smarter Together project partners are looking forward to sharing their expertise
 
 In this way, Smarter Together looks forward to joining a diverse representation of stakeholders to join forces and make an impact in the area of smart city transformation.
 
-For more information about the conference and registration, please [click here:](http://www.smartcityexpo.com/){:target="_blank"}
-
-Please see below for details of Smarter Together's schedule and participation over the 3-day period of the conference:
+For more information about the general conference schedule and registration, please [click here:](http://www.smartcityexpo.com/){:target="_blank"}
 
 ![Barcelona ST Schedule.jpg](/images/news/Barcelona ST Schedule.png)
 
