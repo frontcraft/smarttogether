@@ -6,8 +6,8 @@ imageurl: images/news/SmartHome_Smarter-Together.jpg
 ---
 
 <div class="multiline">
-<h2><span class="ornament-news">Smart home for all!</span></h2>
-<h2><span class="ornament-news">Starter Packages for Smart Homes in Neuaubing-Westkreuz</span></h2>
+<h2><span class="ornament-news">Smart home for all- </span></h2>
+<h2><span class="ornament-news">Tools for Neuaubing-Westkreuz Residents</span></h2>
 </div>
 
 At the end of October, Smarter Together Munich organised a full-day promotional campaign offering smart home devices for all in Neuaubing-Westkreuz, the Munich district hosting the project. Local residents were invited to stop by the urban living lab and pick up their starter package. The set of measuring devices and an accompanying app will let participants manage the temperature and humidity in their homes, thereby allowing them to save on energy costs.
