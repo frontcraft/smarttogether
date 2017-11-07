@@ -16,9 +16,13 @@ They will put together a replication guide, including challenges and issues they
 
 There are 2 seats available (one person per city) for each group discussion. 
 Group discussions will take place on the following specific measures: 
-1) building retrofit in private housing, </br>
-2) citizen engagement; </br>
-3) low energy districts </br>
+
+1) building retrofit in private housing, 
+
+2) citizen engagement; 
+
+3) low energy districts 
+
 4) e-mobility services.
 
 You can submit your application to Francisco [(francisco.goncalves@energy-cities.eu)](mailto:francisco.goncalves@energy-cities.eu) and Bernadett [(bernadett.degrendele@eurocities.eu)](mailto:bernadett.degrendele@eurocities.eu)
