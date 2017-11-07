@@ -16,9 +16,9 @@ They will put together a replication guide, including challenges and issues they
 
 There are 2 seats available (one person per city) for each group discussion. 
 Group discussions will take place on the following specific measures: 
-1) building retrofit in private housing,
-2) citizen engagement; 
-3) low energy districts
+1) building retrofit in private housing, </br>
+2) citizen engagement; </br>
+3) low energy districts </br>
 4) e-mobility services.
 
 You can submit your application to Francisco [(francisco.goncalves@energy-cities.eu)](mailto:francisco.goncalves@energy-cities.eu) and Bernadett [(bernadett.degrendele@eurocities.eu)](mailto:bernadett.degrendele@eurocities.eu)
@@ -28,10 +28,11 @@ The selection criteria to attend this event:
 - You commit to pay for your travel or accommodation (if it is necessary)
 - You commit to follow the two projects (e.g. webinars, Knowledge Platform)
 
-You should submit your application by 17 November. If there are many applicants we will take the ones who demonstrate their interest and are viable candidates on a first come first served basis.
-________________________________________
+You should submit your application by 17 November. If there are many applicants we will take the ones who demonstrate their interest and are viable candidates on a first come first served basis. </br>
 
-Contact:
-Sharing Cities, Bernadett Köteles-Degrendele [(bernadett.degrendele@eurocities.eu)](mailto:bernadett.degrendele@eurocities.eu)
+________________________________________ </br>
+
+Contact: </br>
+Sharing Cities, Bernadett Köteles-Degrendele [(bernadett.degrendele@eurocities.eu)](mailto:bernadett.degrendele@eurocities.eu) </br>
 Smarter Together, Francisco Gonçalves [(francisco.goncalves@energy-cities.eu)](mailto:francisco.goncalves@energy-cities.eu)
 
