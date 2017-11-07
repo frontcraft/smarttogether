@@ -17,9 +17,11 @@ During day one of the workshops, on 4 December, the six lighthouse cities of two
 
 Day two, on Tuesday 5 December, will involve interested cities (in Sharing Cities they are referred to as scale-up cities and in Smarter Together as Club of Cities). The lighthouse cities will present what is happening in their cities, what are their findings from the first day and ask the interested cities to validate their approach, and give feedback whether the issues discussed are the right ones from an external city point of view. The purpose of this workshop is to get early feedback and take into account the needs of the interested cities, working or planning to work on similar smart city solutions. This is to guarantee that replication happens within the lighthouse cities further and also in those cities where lighthouse projects do not offer funding. The validation of the replication approach at this stage can be very useful for the lighthouse cities and replication leads, to allocate time and energy on what is most relevant from the interested cities’ point of view. Group discussions will take place on the following specific measures: 1) building retrofit in private housing, 2) citizen engagement, 3) low energy districts, and 4) e-mobility services.
 
-If you wish to attend this event, please follow the procedure on [this page.](http://smarter-together.eu/news/2017-11-07-Call-for-Interested-Cities-Replication-Workshop/){:target="_blank"}</br>
+If you wish to attend this event, please follow the procedure on [this page.](http://smarter-together.eu/news/2017-11-07-Call-for-Interested-Cities-Replication-Workshop/){:target="_blank"}
 ________________________________________
 
 Contact:
-Sharing Cities, Bernadett Köteles-Degrendele [(bernadett.degrendele@eurocities.eu)](mailto:bernadett.degrendele@eurocities.eu)</br>
+
+Sharing Cities, Bernadett Köteles-Degrendele [(bernadett.degrendele@eurocities.eu)](mailto:bernadett.degrendele@eurocities.eu)
+
 Smarter Together, Francisco Gonçalves [(francisco.goncalves@energy-cities.eu)](mailto:francisco.goncalves@energy-cities.eu)
