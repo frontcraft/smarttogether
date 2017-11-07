@@ -28,11 +28,13 @@ The selection criteria to attend this event:
 - You commit to pay for your travel or accommodation (if it is necessary)
 - You commit to follow the two projects (e.g. webinars, Knowledge Platform)
 
-You should submit your application by 17 November. If there are many applicants we will take the ones who demonstrate their interest and are viable candidates on a first come first served basis. </br>
+You should submit your application by 17 November. If there are many applicants we will take the ones who demonstrate their interest and are viable candidates on a first come first served basis.
 
-________________________________________ </br>
+________________________________________ 
 
-Contact: </br>
-Sharing Cities, Bernadett Köteles-Degrendele [(bernadett.degrendele@eurocities.eu)](mailto:bernadett.degrendele@eurocities.eu) </br>
+Contact: 
+
+Sharing Cities, Bernadett Köteles-Degrendele [(bernadett.degrendele@eurocities.eu)](mailto:bernadett.degrendele@eurocities.eu)
+
 Smarter Together, Francisco Gonçalves [(francisco.goncalves@energy-cities.eu)](mailto:francisco.goncalves@energy-cities.eu)
 
