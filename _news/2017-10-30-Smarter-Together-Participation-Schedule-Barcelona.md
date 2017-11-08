@@ -18,6 +18,6 @@ In this way, Smarter Together looks forward to joining a diverse representation 
 
 For more information about the general conference schedule and registration, please [click here:](http://www.smartcityexpo.com/){:target="_blank"}
 
-![Barcelona ST Schedule Final.jpg](/images/news/Barcelona Schedule Final 1.png)
+![Barcelona Final 1.jpg](/images/news/Barcelona Schedule Final 1.png)
 
-![Barcelona ST Addtl Schedule Final.jpg](/images/news/Barcelona Schedule Final 2.png)
+![Barcelona Final 2.jpg](/images/news/Barcelona Schedule Final 2.png)
