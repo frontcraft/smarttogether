@@ -2,7 +2,7 @@
 layout: news-page
 title: "Encouraging Smart City Development at the Smart City Expo World Congress"
 date: 2017-11-22
-imageurl: images/news/data platforms workshop web.jpg
+imageurl: images/news/Replication Workshop web.jpg
 ---
 
 <div class="multiline">
@@ -22,9 +22,9 @@ Through participation in a wide range of presentations and sessions, Smarter Tog
 
 Smarter Together, participating with over 20 project partners in attendance, is a project funded by the H2020 programme of the European Union that focuses on five concrete areas of co-created and integrated smart solutions in cities: citizen engagement, district heating and renewable energy, holistic refurbishment, smart data, and e-mobility. In a project structure that encourages the replication of solutions, the European lighthouse cities Vienna, Munich and Lyon, the follower cities Santiago de Compostela, Sofia and Venice, come together to improve citizens’ quality of life.
 
-![SCEWC 1.jpg](/images/news/data platforms workshop web.jpg)
-
 ![SCEWC 2.jpg](/images/news/Smarter Together brochure web.jpg)
+
+![SCEWC 1.jpg](/images/news/data platforms workshop web.jpg)
 
 ![SCEWC 3.jpg](/images/news/Replication Workshop web.jpg)
 
