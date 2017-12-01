@@ -16,7 +16,7 @@ Hikari is the first mix-use positive energy block built in the Lyon Metropolis a
 
 The Hikari block is composed of 3 buildings for an overall surface of 12,000 m2, and features housing, office space, and shops. This block was built thanks to Japanese and European funding, and was commissioned in September 2015.
 
-Please [click here](https://vimeo.com/239078056){:target="_blank"} to view the video taken during the field visit to the Hikari building.
+Please [click here](https://vimeo.com/239078056){:target="_blank"} or the frames below to view the video taken during the field visit to the Hikari building.
 
 [![Hikari Visit 1](/images/Site Visit Hikari 1 web.png)](https://vimeo.com/239078056)
 
