@@ -14,6 +14,9 @@ At the end of October, a Munich delegation visited Vienna for discussions about 
 
 See more of the best pictures on Smarter Together Vienna’s Flickr by [clicking here:](https://www.flickr.com/photos/smarter_together_wien/sets/72157687125030132){:target="_blank"} 
 
+![Munich Vienna Visit W](/images/news/Munich Vienna Delegation web.jpg)
+Photo Credit Munich
+
 ![Munich Vienna Visit 1](/images/news/Munich Vienna Delegation 1.jpg)
 
 ![Munich Vienna Visit 2](/images/news/Munich Vienna Delegation 2.jpg)
