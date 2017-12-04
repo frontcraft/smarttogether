@@ -2,7 +2,7 @@
 layout: news-page
 title: "Munich City Council Delegation visits Vienna and its Smarter Together Project"
 date: 2017-11-27
-imageurl: images/news/Munich Vienna Delegation 1.jpg
+imageurl: images/news/Munich Vienna Delegation 2.jpg
 ---
 
 <div class="multiline">
