@@ -3,8 +3,8 @@ layout: events-page
 title:  "Smarter Together: Peer-to-Peer Workshop II"
 date: 2018-01-17
 end-date: 2018-01-19
-imageurl: 'images/events/ST Lyon Logo.png'
-bckimageurl: 'images/events/ST_muc_logo_Munchen_v2_web.png'
+imageurl: 'images/events/ST_muc_logo_Munchen_v2_web.png'
+bckimageurl: 'images/events/ST_muc_logo_Munchen_v2.png'
 location: "Munich, Germany"
 ---
 The second Smarter Together peer-to-peer workshop is set to take place from 17-19 January, 2018.
