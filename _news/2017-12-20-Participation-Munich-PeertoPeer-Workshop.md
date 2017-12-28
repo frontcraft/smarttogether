@@ -17,7 +17,7 @@ The six Smarter Together cities (Munich, Vienna, Lyon, Santiago de Compostela, S
 Those cities are now in projects and your city’s experience can also be extremely valuable if you would like to implement similar solutions. Come and challenge them with your ideas and give feedback to them on what they should include into their replication guide!
 There are 3 seats available (one person per city). Unfortunately we can’t have everyone! See the draft agenda attached.
 
-Please submit your application to [Francisco Gonçalves](mailto:francisco.goncalves@energy-cities.eu){:target="_blank"} and his colleagues [Kinga](mailto:kinga.kovacs@energy-cities.eu){:target="_blank"}(kinga.kovacs@energy-cities.eu) and [Stéphane](mailto:stephane.dupas@energy-cities.eu){:target="_blank"}(mailto:stephane.dupas@energy-cities.eu) in copy.
+Please submit your application to [Francisco Gonçalves](mailto:francisco.goncalves@energy-cities.eu){:target="_blank"} and his colleagues [Kinga](mailto:kinga.kovacs@energy-cities.eu){:target="_blank"} (kinga.kovacs@energy-cities.eu) and [Stéphane](mailto:stephane.dupas@energy-cities.eu){:target="_blank"} (stephane.dupas@energy-cities.eu) in copy.
 
 The selection criteria to attend this event:
 - You select the areas where your city would like to share experience
