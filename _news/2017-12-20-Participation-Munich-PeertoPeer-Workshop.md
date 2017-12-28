@@ -26,4 +26,4 @@ The selection criteria to attend this event:
 
 Please submit your application by 5 January 2018. If there are many applicants we will take the ones who demonstrate their interest and are viable candidates on a first come first served basis.
 
-Click [here](/images/SmarterTogether__CoC_P2P-Workshop_2_Muenchen_Agenda_v7.pdf) to see the tentative agenda for the workshop.
+Click [here](/images/SmarterTogether__CoC_P2P-Workshop_2_Muenchen_Agenda_v7.pdf){:target="_blank"} to see the tentative agenda for the workshop.
