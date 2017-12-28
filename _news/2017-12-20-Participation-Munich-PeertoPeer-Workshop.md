@@ -25,3 +25,5 @@ The selection criteria to attend this event:
 - You commit to pay for your travel or accommodation (if it is necessary)
 
 Please submit your application by 5 January 2018. If there are many applicants we will take the ones who demonstrate their interest and are viable candidates on a first come first served basis.
+
+Click [here](/images/SmarterTogether__CoC_P2P-Workshop_2_Muenchen_Agenda_v7.pdf) to see the tentative agenda for the workshop.
