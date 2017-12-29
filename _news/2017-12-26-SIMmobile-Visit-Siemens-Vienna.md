@@ -14,7 +14,7 @@ On 9 November 2017, the SIMmobile, the mobile information and communication lab 
 
 Siemens Leberstraße has already proactively initiated and implemented a series of Smarter Together activities such as E-Forklifts that are running since last winter and an e-car that is being used for the internal post transfer. Employees were given a charging station for e-bikes, and currently, an innovative logistic center is being installed in the context of innovative approaches supported by Smarter Together. The innovation does not stop there, as more activities are planned in the coming years as well.
 
-Please see below for several photos from the event:
+Please [click here](http://www.smartertogether.at/simmobil-bei-siemens-leberstrasse/){:target="_blank"} for more the original article in German, and for more photos from the visit.
 
 ![SimMobil Simmering 1](/images/news/SimMobil Simmering 1.jpg)
 
