@@ -16,6 +16,7 @@ Siemens Leberstraße has already proactively initiated and implemented a series 
 
 Please [click here](http://www.smartertogether.at/simmobil-bei-siemens-leberstrasse/){:target="_blank"} for more the original article in German, and for more photos from the visit.
 
+Photos (c) Bojan Schnabl
 ![SimMobil Simmering 1](/images/news/SimMobil Simmering 1.jpg)
 
 ![SimMobil Simmering 2](/images/news/SimMobil Simmering 2.jpg)
