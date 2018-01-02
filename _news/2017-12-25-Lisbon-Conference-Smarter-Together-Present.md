@@ -10,9 +10,9 @@ imageurl: images/news/Lison Conference_web.jpg
 <h2><span class="ornament-news">and Urban and Technological Development</span></h2>
 </div>
 
-On 29 November, the Smarter Together project and its developments were presented at a conference in Lisbon organized by Liboa E-Nova titled “Intelligent Cities – Cities of the Future” which explored the theme of carbon neutrality as a promoter of technological and social innovation. 
+On 29 November, Smarter Together was represented by [Energy Cities](http://www.energy-cities.eu/){:target="_blank"} in the political panel on the "Smart Cities - Cities of the Future" conference, held in Lisbon and organised by Lisboa E-Nova, the city's Energy and Environment Agency. Francisco Gonçalves of Energy Cities, Smarter Together's replication lead, made a presentation about the role that cities play in the energy transition process. 
 
-Energy Cities’ Francisco Goncalves presented an example of Lighthouse city Vienna in discussing the topic of “energy transition as an opportunity for future urban and economic development,” and participated in a panel discussing these themes. 
+One of the good examples illustrated by his presentation was the measures being implemented in Viena as part of the Smarter Together project. In this specific case, he highlighted the building retrofit in Simmering, which will have PV panels, and the potential connection with the local condominium eCar-sharing of those housing blocks. In his panel was the Lisbon Deputy Mayor for Energy and Environment. More than 100 participants were in attendance of this 2-day event, including municipalities, SMEs, startups, utilities, universities, and citizens. 
 
 Please see below for several photos from the event:
 
